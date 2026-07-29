@@ -770,16 +770,16 @@
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
-  "location": "United Kingdom",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8050499&gh_jid=8050499",
+  "location": "The Netherlands",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8023745&gh_jid=8023745",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
-  "location": "The Netherlands",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8023745&gh_jid=8023745",
+  "location": "United Kingdom",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8050499&gh_jid=8050499",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -819,7 +819,7 @@
   "company": "Datadog",
   "title": "Technical Support Engineer 1 - 2",
   "location": "Seoul, South Korea",
-  "url": "https://careers.datadoghq.com/detail/6882229/?gh_jid=6882229",
+  "url": "https://careers.datadoghq.com/detail/6883301/?gh_jid=6883301",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -827,7 +827,7 @@
   "company": "Datadog",
   "title": "Technical Support Engineer 1 - 2",
   "location": "Seoul, South Korea",
-  "url": "https://careers.datadoghq.com/detail/6883301/?gh_jid=6883301",
+  "url": "https://careers.datadoghq.com/detail/6882229/?gh_jid=6882229",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -851,6 +851,14 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+  "kind": "Internship",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Cloudflare",
+  "title": "Research Engineer Intern (Fall 2026)",
+  "location": "In-Office",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
   "kind": "Internship",
   "first_seen": "2026-07-29"
@@ -860,14 +868,6 @@
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Cloudflare",
-  "title": "Research Engineer Intern (Fall 2026)",
-  "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -884,14 +884,6 @@
   "title": "Stagiaire en D\u00e9veloppement Cloud, Intern Cloud Developer",
   "location": "Quebec, CAN - Remote",
   "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Autodesk",
-  "title": "Software Engineering Intern Summer 2027",
-  "location": "Norway - Oslo",
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1084,6 +1076,14 @@
   "title": "Software Development Engineer - 2026 (US)",
   "location": "US, WA, Seattle",
   "url": "https://www.amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer - 2026 (Canada)",
+  "location": "CA, BC, Vancouver",
+  "url": "https://www.amazon.jobs/en/jobs/3165932/software-development-engineer-2026-canada",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
