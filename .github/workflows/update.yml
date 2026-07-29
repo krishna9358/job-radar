@@ -1,0 +1,29 @@
+name: update job radar
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:         # manual "Run workflow" button
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 radar.py
+      - name: commit results
+        run: |
+          git config user.name  "job-radar"
+          git config user.email "actions@github.com"
+          git add jobs.json index.html
+          git diff --staged --quiet || git commit -m "jobs: $(date -u +%F\ %H:%M)"
+          git push
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - uses: actions/deploy-pages@v4
