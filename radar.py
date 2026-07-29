@@ -74,7 +74,9 @@ def workday(c):
                            "searchText": ""}).get("jobPostings") or []
         if not posts:
             break
-        out += [(p["title"], p.get("locationsText") or "", base + p["externalPath"]) for p in posts]
+        # some tenants return postings with no title/path — skip the row, keep the feed
+        out += [(p.get("title") or "", p.get("locationsText") or "",
+                 base + p["externalPath"]) for p in posts if p.get("externalPath")]
         offset += 20
     return out
 
@@ -194,7 +196,8 @@ def pull(c):
     if not fetch:
         return c, [], f"unknown ats '{c['ats']}'"
     try:
-        return c, fetch(c), None
+        # drop rows missing a title or url before anything downstream trusts them
+        return c, [(t, l, u) for t, l, u in fetch(c) if t and u], None
     except Exception as e:
         return c, [], f"{type(e).__name__}: {e}"
 
