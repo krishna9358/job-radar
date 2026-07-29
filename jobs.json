@@ -754,8 +754,8 @@
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
-  "location": "The Netherlands",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8023745&gh_jid=8023745",
+  "location": "United Kingdom",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8050499&gh_jid=8050499",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -770,8 +770,8 @@
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
-  "location": "United Kingdom",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8050499&gh_jid=8050499",
+  "location": "The Netherlands",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8023745&gh_jid=8023745",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -844,6 +844,14 @@
   "title": "Software Engineer Intern (Fall 2026) - Austin, TX",
   "location": "In-Office",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785",
+  "kind": "Internship",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Cloudflare",
+  "title": "Research Engineer Intern (Fall 2026)",
+  "location": "In-Office",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -978,14 +986,6 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "ZA, Cape Town",
-  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer \u2013 2026",
   "location": "SE, Stockholm",
   "url": "https://www.amazon.jobs/en/jobs/3119051/software-development-engineer-2026",
   "kind": "Entry Level",
@@ -996,6 +996,14 @@
   "title": "Software Development Engineer \u2013 2026",
   "location": "ES, M, Madrid",
   "url": "https://www.amazon.jobs/en/jobs/3175845/software-development-engineer-2026",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer \u2013 2026",
+  "location": "ZA, Cape Town",
+  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1081,14 +1089,6 @@
  },
  {
   "company": "Amazon",
-  "title": "Software Development Engineer - 2026 (Canada)",
-  "location": "CA, BC, Vancouver",
-  "url": "https://www.amazon.jobs/en/jobs/3165932/software-development-engineer-2026-canada",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
   "title": "Software Development Engineer - 2026  ",
   "location": "DE, BE, Berlin",
   "url": "https://www.amazon.jobs/en/jobs/3110381/software-development-engineer-2026",
@@ -1155,7 +1155,7 @@
   "company": "Amazon",
   "title": "Software Dev Engineer Intern, (Manufacturing&Ops) 2026 Shanghai",
   "location": "CN, 31, Shanghai",
-  "url": "https://www.amazon.jobs/en/jobs/3165273/software-dev-engineer-intern-manufacturing-ops-2026-shanghai",
+  "url": "https://www.amazon.jobs/en/jobs/10376734/software-dev-engineer-intern-manufacturing-ops-2026-shanghai",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1163,7 +1163,7 @@
   "company": "Amazon",
   "title": "Software Dev Engineer Intern, (Manufacturing&Ops) 2026 Shanghai",
   "location": "CN, 31, Shanghai",
-  "url": "https://www.amazon.jobs/en/jobs/10376734/software-dev-engineer-intern-manufacturing-ops-2026-shanghai",
+  "url": "https://www.amazon.jobs/en/jobs/3165273/software-dev-engineer-intern-manufacturing-ops-2026-shanghai",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1522,14 +1522,6 @@
  {
   "company": "Amazon",
   "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
-  "location": "IL, Tel Aviv",
-  "url": "https://www.amazon.jobs/en/jobs/3115055/2026-applied-scientist-intern-amazon-university-talent-acquisition",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
   "location": "ES, Barcelona",
   "url": "https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition",
   "kind": "Internship",
@@ -1563,7 +1555,7 @@
   "company": "Amazon",
   "title": "2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
   "location": "US, CA, San Francisco",
-  "url": "https://www.amazon.jobs/en/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
+  "url": "https://www.amazon.jobs/en/jobs/3071340/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1571,7 +1563,7 @@
   "company": "Amazon",
   "title": "2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
   "location": "US, CA, San Francisco",
-  "url": "https://www.amazon.jobs/en/jobs/3071340/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
+  "url": "https://www.amazon.jobs/en/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1588,30 +1580,6 @@
   "title": "Software Engineer I, Backend (Collections)",
   "location": "Remote Poland",
   "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Adobe",
-  "title": "Computer Scientist I - Full Stack",
-  "location": "2 Locations",
-  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist-I---Full-Stack_R170393",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Adobe",
-  "title": "Computer Scientist - I ( Backend Heavy - Full Stack )",
-  "location": "Bangalore",
-  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist---I_R169593-1",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Adobe",
-  "title": "Associate Sr. Legal Counsel (Firefly AI Products)",
-  "location": "3 Locations",
-  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Associate-Sr-Legal-Counsel_R169549",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  }
