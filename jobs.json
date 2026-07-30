@@ -1,5 +1,13 @@
 [
  {
+  "company": "Autodesk",
+  "title": "Software Engineering Intern Summer 2027",
+  "location": "Norway - Oslo",
+  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046",
+  "kind": "Internship",
+  "first_seen": "2026-07-30"
+ },
+ {
   "company": "Zscaler",
   "title": "Site Reliability Engineer-SkillBridge Intern",
   "location": "Remote - USA",
@@ -754,14 +762,6 @@
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
-  "location": "Spain",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8050495&gh_jid=8050495",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Elastic",
-  "title": "Business Strategy Developer - International",
   "location": "Germany",
   "url": "https://jobs.elastic.co/jobs?gh_jid=8050489&gh_jid=8050489",
   "kind": "Entry Level",
@@ -772,6 +772,14 @@
   "title": "Business Strategy Developer - International",
   "location": "The Netherlands",
   "url": "https://jobs.elastic.co/jobs?gh_jid=8023745&gh_jid=8023745",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Elastic",
+  "title": "Business Strategy Developer - International",
+  "location": "Spain",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8050495&gh_jid=8050495",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -819,7 +827,7 @@
   "company": "Datadog",
   "title": "Technical Support Engineer 1 - 2",
   "location": "Seoul, South Korea",
-  "url": "https://careers.datadoghq.com/detail/6883301/?gh_jid=6883301",
+  "url": "https://careers.datadoghq.com/detail/6882229/?gh_jid=6882229",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -827,7 +835,7 @@
   "company": "Datadog",
   "title": "Technical Support Engineer 1 - 2",
   "location": "Seoul, South Korea",
-  "url": "https://careers.datadoghq.com/detail/6882229/?gh_jid=6882229",
+  "url": "https://careers.datadoghq.com/detail/6883301/?gh_jid=6883301",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -851,7 +859,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -867,7 +875,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -901,14 +909,6 @@
   "location": "Norway - Oslo",
   "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Norway---Oslo/Graduate-Software-Engineer_26WD100002-1",
   "kind": "New Grad",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Atlassian",
-  "title": "Associate Solutions Engineer, Mid Market",
-  "location": "",
-  "url": "https://careers-americas.icims.com/jobs/25143/associate-solutions-engineer%2c-mid-market/job",
-  "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
@@ -994,16 +994,16 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "ZA, Cape Town",
-  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
+  "location": "RO, Iasi",
+  "url": "https://www.amazon.jobs/en/jobs/3119226/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "RO, Iasi",
-  "url": "https://www.amazon.jobs/en/jobs/3119226/software-development-engineer-2026",
+  "location": "ZA, Cape Town",
+  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1081,14 +1081,6 @@
  },
  {
   "company": "Amazon",
-  "title": "Software Development Engineer - 2026 (Canada)",
-  "location": "CA, BC, Vancouver",
-  "url": "https://www.amazon.jobs/en/jobs/3165932/software-development-engineer-2026-canada",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
   "title": "Software Development Engineer - 2026  ",
   "location": "DE, BE, Berlin",
   "url": "https://www.amazon.jobs/en/jobs/3110381/software-development-engineer-2026",
@@ -1155,7 +1147,7 @@
   "company": "Amazon",
   "title": "Software Dev Engineer Intern, (Manufacturing&Ops) 2026 Shanghai",
   "location": "CN, 31, Shanghai",
-  "url": "https://www.amazon.jobs/en/jobs/10376734/software-dev-engineer-intern-manufacturing-ops-2026-shanghai",
+  "url": "https://www.amazon.jobs/en/jobs/3165273/software-dev-engineer-intern-manufacturing-ops-2026-shanghai",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1163,7 +1155,7 @@
   "company": "Amazon",
   "title": "Software Dev Engineer Intern, (Manufacturing&Ops) 2026 Shanghai",
   "location": "CN, 31, Shanghai",
-  "url": "https://www.amazon.jobs/en/jobs/3165273/software-dev-engineer-intern-manufacturing-ops-2026-shanghai",
+  "url": "https://www.amazon.jobs/en/jobs/10376734/software-dev-engineer-intern-manufacturing-ops-2026-shanghai",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1570,16 +1562,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
