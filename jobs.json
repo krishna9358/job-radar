@@ -1,5 +1,29 @@
 [
  {
+  "company": "Oracle",
+  "title": "Data Systems Software Engineer 1",
+  "location": "Canada",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/337774",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-30"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Software Engineering Intern \u2014 Replay Tooling & Test Automation, Autonomous Driving",
+  "location": "Germany, Munich",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086",
+  "kind": "Internship",
+  "first_seen": "2026-07-30"
+ },
+ {
+  "company": "Cloudflare",
+  "title": "AI Innovation Intern \u2013 Service Sales (Fall 2026)",
+  "location": "In-Office",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395",
+  "kind": "Internship",
+  "first_seen": "2026-07-30"
+ },
+ {
   "company": "Autodesk",
   "title": "Software Engineering Intern Summer 2027",
   "location": "Norway - Oslo",
@@ -12,6 +36,14 @@
   "title": "Software Development Engineer I FTC",
   "location": "IN, TS, Hyderabad",
   "url": "https://www.amazon.jobs/en/jobs/10488045/software-development-engineer-i-ftc",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-30"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer - 2026 (Canada)",
+  "location": "CA, BC, Vancouver",
+  "url": "https://www.amazon.jobs/en/jobs/3165932/software-development-engineer-2026-canada",
   "kind": "Entry Level",
   "first_seen": "2026-07-30"
  },
@@ -722,16 +754,16 @@
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Beijing, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
+  "location": "Shanghai, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Shanghai, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
+  "location": "Beijing, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -746,8 +778,8 @@
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
-  "location": "United Kingdom",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8050499&gh_jid=8050499",
+  "location": "The Netherlands",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8023745&gh_jid=8023745",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -770,8 +802,8 @@
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
-  "location": "The Netherlands",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8023745&gh_jid=8023745",
+  "location": "United Kingdom",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8050499&gh_jid=8050499",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -811,7 +843,7 @@
   "company": "Datadog",
   "title": "Technical Support Engineer 1 - 2",
   "location": "Seoul, South Korea",
-  "url": "https://careers.datadoghq.com/detail/6882229/?gh_jid=6882229",
+  "url": "https://careers.datadoghq.com/detail/6883301/?gh_jid=6883301",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -819,7 +851,7 @@
   "company": "Datadog",
   "title": "Technical Support Engineer 1 - 2",
   "location": "Seoul, South Korea",
-  "url": "https://careers.datadoghq.com/detail/6883301/?gh_jid=6883301",
+  "url": "https://careers.datadoghq.com/detail/6882229/?gh_jid=6882229",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -843,7 +875,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -859,7 +891,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -970,16 +1002,16 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "RO, Iasi",
-  "url": "https://www.amazon.jobs/en/jobs/3119226/software-development-engineer-2026",
+  "location": "ZA, Cape Town",
+  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "ZA, Cape Town",
-  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
+  "location": "RO, Iasi",
+  "url": "https://www.amazon.jobs/en/jobs/3119226/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -996,14 +1028,6 @@
   "title": "Software Development Engineer Internship, Guadalajara",
   "location": "MX, Zapopan",
   "url": "https://www.amazon.jobs/en/jobs/3123243/software-development-engineer-internship-guadalajara",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer Internship, Costa Rica",
-  "location": "CR, San Jose",
-  "url": "https://www.amazon.jobs/en/jobs/3126072/software-development-engineer-internship-costa-rica",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1538,16 +1562,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
