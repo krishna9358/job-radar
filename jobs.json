@@ -8,6 +8,14 @@
   "first_seen": "2026-07-31"
  },
  {
+  "company": "Adobe",
+  "title": "Sr. Computer Scientist 1 (Front End)",
+  "location": "Noida",
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Sr-Computer-Scientist-1--Front-End-_R170860",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-31"
+ },
+ {
   "company": "Oracle",
   "title": "Data Systems Software Engineer 1",
   "location": "Canada",
@@ -44,14 +52,6 @@
   "title": "Software Development Engineer I FTC",
   "location": "IN, TS, Hyderabad",
   "url": "https://www.amazon.jobs/en/jobs/10488045/software-development-engineer-i-ftc",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-30"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer - 2026 (Canada)",
-  "location": "CA, BC, Vancouver",
-  "url": "https://www.amazon.jobs/en/jobs/3165932/software-development-engineer-2026-canada",
   "kind": "Entry Level",
   "first_seen": "2026-07-30"
  },
@@ -762,16 +762,16 @@
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Shanghai, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
+  "location": "Beijing, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Beijing, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
+  "location": "Shanghai, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -786,16 +786,16 @@
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
-  "location": "The Netherlands",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8023745&gh_jid=8023745",
+  "location": "Germany",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8050489&gh_jid=8050489",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
-  "location": "Germany",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8050489&gh_jid=8050489",
+  "location": "The Netherlands",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8023745&gh_jid=8023745",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -883,7 +883,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -891,7 +891,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -954,16 +954,16 @@
  {
   "company": "Amazon",
   "title": "Sr. Applied Scientist, Alexa International",
-  "location": "IT, Turin",
-  "url": "https://www.amazon.jobs/en/jobs/10438450/sr-applied-scientist-alexa-international",
+  "location": "GB, London",
+  "url": "https://www.amazon.jobs/en/jobs/10438453/sr-applied-scientist-alexa-international",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Amazon",
   "title": "Sr. Applied Scientist, Alexa International",
-  "location": "GB, London",
-  "url": "https://www.amazon.jobs/en/jobs/10438453/sr-applied-scientist-alexa-international",
+  "location": "IT, Turin",
+  "url": "https://www.amazon.jobs/en/jobs/10438450/sr-applied-scientist-alexa-international",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1010,16 +1010,16 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "ZA, Cape Town",
-  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
+  "location": "RO, Iasi",
+  "url": "https://www.amazon.jobs/en/jobs/3119226/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "RO, Iasi",
-  "url": "https://www.amazon.jobs/en/jobs/3119226/software-development-engineer-2026",
+  "location": "ZA, Cape Town",
+  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1522,16 +1522,16 @@
  {
   "company": "Amazon",
   "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
-  "location": "EG, Cairo",
-  "url": "https://www.amazon.jobs/en/jobs/10385882/2026-applied-scientist-intern-amazon-university-talent-acquisition",
+  "location": "ES, Barcelona",
+  "url": "https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Amazon",
   "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
-  "location": "ES, Barcelona",
-  "url": "https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition",
+  "location": "EG, Cairo",
+  "url": "https://www.amazon.jobs/en/jobs/10385882/2026-applied-scientist-intern-amazon-university-talent-acquisition",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
