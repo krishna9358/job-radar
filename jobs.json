@@ -1,5 +1,29 @@
 [
  {
+  "company": "Samsara",
+  "title": "Software Engineering Internship - San Fransisco ",
+  "location": "San Francisco - SF9",
+  "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
+  "kind": "Internship",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "company": "Samsara",
+  "title": "Software Engineering Interns - London",
+  "location": "London - UK2",
+  "url": "https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "company": "Samsara",
+  "title": "Software Engineer I - New Grad, SF",
+  "location": "San Francisco - SF9",
+  "url": "https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343",
+  "kind": "New Grad",
+  "first_seen": "2026-08-03"
+ },
+ {
   "company": "NVIDIA",
   "title": "System Design Engineer - LDE (RDSS Intern)",
   "location": "Taiwan, Taipei",
@@ -8,10 +32,10 @@
   "first_seen": "2026-08-03"
  },
  {
-  "company": "NVIDIA",
-  "title": "RTL Power Optimization Engineer \u2013 New College Grad 2026",
-  "location": "US, CA, Santa Clara",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/RTL-Power-Optimization-Engineer---New-College-Grad-2026_JR2021841",
+  "company": "Amazon",
+  "title": "Data Engineer I, Veritas, Security Tools Foundation",
+  "location": "US, WA, Seattle",
+  "url": "https://www.amazon.jobs/en/jobs/10490830/data-engineer-i-veritas-security-tools-foundation",
   "kind": "Entry Level",
   "first_seen": "2026-08-03"
  },
@@ -826,8 +850,8 @@
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
-  "location": "United Kingdom",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8050499&gh_jid=8050499",
+  "location": "Germany",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8050489&gh_jid=8050489",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -842,8 +866,8 @@
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
-  "location": "Germany",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8050489&gh_jid=8050489",
+  "location": "United Kingdom",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8050499&gh_jid=8050499",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -891,7 +915,7 @@
   "company": "Datadog",
   "title": "Technical Support Engineer 1 - 2",
   "location": "Seoul, South Korea",
-  "url": "https://careers.datadoghq.com/detail/6882229/?gh_jid=6882229",
+  "url": "https://careers.datadoghq.com/detail/6883301/?gh_jid=6883301",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -899,7 +923,7 @@
   "company": "Datadog",
   "title": "Technical Support Engineer 1 - 2",
   "location": "Seoul, South Korea",
-  "url": "https://careers.datadoghq.com/detail/6883301/?gh_jid=6883301",
+  "url": "https://careers.datadoghq.com/detail/6882229/?gh_jid=6882229",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -923,7 +947,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -931,7 +955,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1313,14 +1337,6 @@
  },
  {
   "company": "Amazon",
-  "title": "Network Development Engineer Intern - Fall 2026",
-  "location": "US, CA, Cupertino",
-  "url": "https://www.amazon.jobs/en/jobs/3134080/network-development-engineer-intern-fall-2026",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
   "title": "Mechanical Process Engineer Intern, 2026 Internship, Shenzhen, China",
   "location": "CN, 44, Shenzhen",
   "url": "https://www.amazon.jobs/en/jobs/3149573/mechanical-process-engineer-intern-2026-internship-shenzhen-china",
@@ -1612,14 +1628,6 @@
   "title": "Computer Scientist I - Full Stack",
   "location": "2 Locations",
   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist-I---Full-Stack_R170393",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Adobe",
-  "title": "Computer Scientist - I ( Backend Heavy - Full Stack )",
-  "location": "Bangalore",
-  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist---I_R169593-1",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
