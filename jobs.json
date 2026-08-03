@@ -1,5 +1,21 @@
 [
  {
+  "company": "NVIDIA",
+  "title": "System Design Engineer - LDE (RDSS Intern)",
+  "location": "Taiwan, Taipei",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Engineer---LDE--RDSS-Intern-_JR2021878",
+  "kind": "Internship",
+  "first_seen": "2026-08-03"
+ },
+ {
+  "company": "Amazon",
+  "title": "Applied Scientist, Alexa International Tech",
+  "location": "IN, KA, Bengaluru",
+  "url": "https://www.amazon.jobs/en/jobs/10490052/applied-scientist-alexa-international-tech",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-03"
+ },
+ {
   "company": "Oracle",
   "title": "Cloud Solution Engineer 1",
   "location": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
@@ -109,14 +125,6 @@
   "location": "Norway - Oslo",
   "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046",
   "kind": "Internship",
-  "first_seen": "2026-07-30"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer I FTC",
-  "location": "IN, TS, Hyderabad",
-  "url": "https://www.amazon.jobs/en/jobs/10488045/software-development-engineer-i-ftc",
-  "kind": "Entry Level",
   "first_seen": "2026-07-30"
  },
  {
@@ -737,14 +745,6 @@
  },
  {
   "company": "NVIDIA",
-  "title": "RTL Power Optimization Engineer \u2013 New College Grad 2026",
-  "location": "US, CA, Santa Clara",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/RTL-Power-Optimization-Engineer---New-College-Grad-2026_JR2021841",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "NVIDIA",
   "title": "PCB Design Engineer - New College Grad 2027",
   "location": "China, Shenzhen",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shenzhen/PCB-Design-Engineer---New-College-Grad-2027_JR2021861",
@@ -826,16 +826,16 @@
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
-  "location": "The Netherlands",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8023745&gh_jid=8023745",
+  "location": "United Kingdom",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8050499&gh_jid=8050499",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
-  "location": "United Kingdom",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8050499&gh_jid=8050499",
+  "location": "The Netherlands",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8023745&gh_jid=8023745",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -923,6 +923,14 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+  "kind": "Internship",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Cloudflare",
+  "title": "Research Engineer Intern (Fall 2026)",
+  "location": "In-Office",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
   "kind": "Internship",
   "first_seen": "2026-07-29"
@@ -932,14 +940,6 @@
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Cloudflare",
-  "title": "Research Engineer Intern (Fall 2026)",
-  "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
