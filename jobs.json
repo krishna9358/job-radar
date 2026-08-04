@@ -16,6 +16,14 @@
   "first_seen": "2026-08-04"
  },
  {
+  "company": "Datadog",
+  "title": "Technical Support Engineer 1 - Sao Paulo",
+  "location": "Sao Paulo, Brazil",
+  "url": "https://careers.datadoghq.com/detail/8024022/?gh_jid=8024022",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-04"
+ },
+ {
   "company": "Cloudflare",
   "title": "Marketing Programs and Analytics Intern (Fall 2026)",
   "location": "In-Office",
@@ -28,6 +36,14 @@
   "title": "Software Development Engineer - 2026  ",
   "location": "DE, BE, Berlin",
   "url": "https://www.amazon.jobs/en/jobs/10477396/software-development-engineer-2026",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-04"
+ },
+ {
+  "company": "Amazon",
+  "title": "Applied Scientist, International Machine Learning",
+  "location": "IN, KA, Bengaluru",
+  "url": "https://www.amazon.jobs/en/jobs/10458636/applied-scientist-international-machine-learning",
   "kind": "Entry Level",
   "first_seen": "2026-08-04"
  },
@@ -793,14 +809,6 @@
  },
  {
   "company": "NVIDIA",
-  "title": "Software R&D Engineer, VLSI Physical Design - New College Grad 2026",
-  "location": "2 Locations",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2019330",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "NVIDIA",
   "title": "PCB Design Engineer - New College Grad 2027",
   "location": "China, Shenzhen",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shenzhen/PCB-Design-Engineer---New-College-Grad-2027_JR2021861",
@@ -882,8 +890,8 @@
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
-  "location": "Germany",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8050489&gh_jid=8050489",
+  "location": "The Netherlands",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8023745&gh_jid=8023745",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -906,8 +914,8 @@
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
-  "location": "The Netherlands",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8023745&gh_jid=8023745",
+  "location": "Germany",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8050489&gh_jid=8050489",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -987,7 +995,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -995,7 +1003,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1545,14 +1553,6 @@
  },
  {
   "company": "Amazon",
-  "title": "2026 Software Dev Engineer Intern - Haifa, Israel",
-  "location": "IL, Haifa",
-  "url": "https://www.amazon.jobs/en/jobs/3147202/2026-software-dev-engineer-intern-haifa-israel",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
   "title": "2026 Software Dev Engineer Intern - Germany",
   "location": "DE, BE, Berlin",
   "url": "https://www.amazon.jobs/en/jobs/3074226/2026-software-dev-engineer-intern-germany",
@@ -1642,16 +1642,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
