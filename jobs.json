@@ -24,6 +24,14 @@
   "first_seen": "2026-08-04"
  },
  {
+  "company": "Amazon",
+  "title": "Software Development Engineer - 2026  ",
+  "location": "DE, BE, Berlin",
+  "url": "https://www.amazon.jobs/en/jobs/10477396/software-development-engineer-2026",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-04"
+ },
+ {
   "company": "Samsara",
   "title": "Software Engineering Internship - San Fransisco ",
   "location": "San Francisco - SF9",
@@ -850,16 +858,16 @@
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Shanghai, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
+  "location": "Beijing, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Beijing, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
+  "location": "Shanghai, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -874,8 +882,8 @@
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
-  "location": "The Netherlands",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8023745&gh_jid=8023745",
+  "location": "Germany",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8050489&gh_jid=8050489",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -898,8 +906,8 @@
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
-  "location": "Germany",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8050489&gh_jid=8050489",
+  "location": "The Netherlands",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8023745&gh_jid=8023745",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1235,7 +1243,7 @@
   "company": "Amazon",
   "title": "Software Dev Engineer Intern, (Manufacturing&Ops) 2026 Shanghai",
   "location": "CN, 31, Shanghai",
-  "url": "https://www.amazon.jobs/en/jobs/3165273/software-dev-engineer-intern-manufacturing-ops-2026-shanghai",
+  "url": "https://www.amazon.jobs/en/jobs/10376734/software-dev-engineer-intern-manufacturing-ops-2026-shanghai",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1243,7 +1251,7 @@
   "company": "Amazon",
   "title": "Software Dev Engineer Intern, (Manufacturing&Ops) 2026 Shanghai",
   "location": "CN, 31, Shanghai",
-  "url": "https://www.amazon.jobs/en/jobs/10376734/software-dev-engineer-intern-manufacturing-ops-2026-shanghai",
+  "url": "https://www.amazon.jobs/en/jobs/3165273/software-dev-engineer-intern-manufacturing-ops-2026-shanghai",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1570,14 +1578,6 @@
  {
   "company": "Amazon",
   "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
-  "location": "ES, Barcelona",
-  "url": "https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
   "location": "DE, BE, Berlin",
   "url": "https://www.amazon.jobs/en/jobs/3115016/2026-applied-scientist-intern-amazon-university-talent-acquisition",
   "kind": "Internship",
@@ -1588,6 +1588,14 @@
   "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
   "location": "JO, Jordan",
   "url": "https://www.amazon.jobs/en/jobs/3148406/2026-applied-scientist-intern-amazon-university-talent-acquisition",
+  "kind": "Internship",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
+  "location": "ES, Barcelona",
+  "url": "https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1619,7 +1627,7 @@
   "company": "Amazon",
   "title": "2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
   "location": "US, CA, San Francisco",
-  "url": "https://www.amazon.jobs/en/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
+  "url": "https://www.amazon.jobs/en/jobs/3071340/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1627,7 +1635,7 @@
   "company": "Amazon",
   "title": "2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
   "location": "US, CA, San Francisco",
-  "url": "https://www.amazon.jobs/en/jobs/3071340/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
+  "url": "https://www.amazon.jobs/en/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
