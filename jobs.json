@@ -1,5 +1,13 @@
 [
  {
+  "company": "Samsara",
+  "title": "Salesforce Developer-1",
+  "location": "Bengaluru - BLR1",
+  "url": "https://www.samsara.com/company/careers/roles/8068007?gh_jid=8068007",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-04"
+ },
+ {
   "company": "Salesforce",
   "title": "Junior Technical Support Engineer (Triage)\u3010\u969c\u5bb3\u8005\u63a1\u7528\u3011",
   "location": "Japan - Tokyo",
@@ -33,6 +41,14 @@
  },
  {
   "company": "Amazon",
+  "title": "Software Development Engineer - 2026 (Canada)",
+  "location": "CA, BC, Vancouver",
+  "url": "https://www.amazon.jobs/en/jobs/3165932/software-development-engineer-2026-canada",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-04"
+ },
+ {
+  "company": "Amazon",
   "title": "Software Development Engineer - 2026  ",
   "location": "DE, BE, Berlin",
   "url": "https://www.amazon.jobs/en/jobs/10477396/software-development-engineer-2026",
@@ -57,10 +73,10 @@
  },
  {
   "company": "Samsara",
-  "title": "Software Engineering Interns - London",
+  "title": "Software Engineering Internship - London",
   "location": "London - UK2",
   "url": "https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093",
-  "kind": "Entry Level",
+  "kind": "Internship",
   "first_seen": "2026-08-03"
  },
  {
@@ -94,14 +110,6 @@
   "url": "https://www.amazon.jobs/en/jobs/10490052/applied-scientist-alexa-international-tech",
   "kind": "Entry Level",
   "first_seen": "2026-08-03"
- },
- {
-  "company": "Oracle",
-  "title": "Cloud Solution Engineer 1",
-  "location": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/341351",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-01"
  },
  {
   "company": "Oracle",
@@ -180,14 +188,6 @@
   "title": "Associate, Revenue Analytics Finance & Strategy - AI Automation",
   "location": "Los Gatos,California,United States of America",
   "url": "https://explore.jobs.netflix.net/careers/job/790317599353",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-31"
- },
- {
-  "company": "Adobe",
-  "title": "Sr. Computer Scientist 1 (Front End)",
-  "location": "Noida",
-  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Sr-Computer-Scientist-1--Front-End-_R170860",
   "kind": "Entry Level",
   "first_seen": "2026-07-31"
  },
@@ -324,14 +324,6 @@
   "title": "Junior Technical Support Engineer\u3010\u969c\u5bb3\u8005\u63a1\u7528\u3011",
   "location": "Japan - Remote",
   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Remote/Junior-Technical-Support-Engineer_JR318163",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Salesforce",
-  "title": "Associate proactive Monitoring Engineer",
-  "location": "India - Hyderabad",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Associate-proactive-Monitoring-Engineer_JR341087-2",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -833,25 +825,9 @@
  },
  {
   "company": "NVIDIA",
-  "title": "Developer Technology Engineer, Public Sector - New College Grad 2026",
-  "location": "US, CA, Santa Clara",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "NVIDIA",
   "title": "Developer Technology Engineer, AI - New College Grad 2026",
   "location": "6 Locations",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Grad-2026_JR2014130-1",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "NVIDIA",
-  "title": "ASIC Physical Design and Timing Engineer - New College Grad 2026",
-  "location": "US, CA, Santa Clara",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Timing-Engineer---New-College-Grad-2026_JR2013177",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -866,16 +842,16 @@
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Beijing, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
+  "location": "Shanghai, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Shanghai, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
+  "location": "Beijing, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -890,14 +866,6 @@
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
-  "location": "The Netherlands",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8023745&gh_jid=8023745",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Elastic",
-  "title": "Business Strategy Developer - International",
   "location": "United Kingdom",
   "url": "https://jobs.elastic.co/jobs?gh_jid=8050499&gh_jid=8050499",
   "kind": "Entry Level",
@@ -906,8 +874,8 @@
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
-  "location": "Spain",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8050495&gh_jid=8050495",
+  "location": "The Netherlands",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8023745&gh_jid=8023745",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -916,6 +884,14 @@
   "title": "Business Strategy Developer - International",
   "location": "Germany",
   "url": "https://jobs.elastic.co/jobs?gh_jid=8050489&gh_jid=8050489",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Elastic",
+  "title": "Business Strategy Developer - International",
+  "location": "Spain",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8050495&gh_jid=8050495",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -955,7 +931,7 @@
   "company": "Datadog",
   "title": "Technical Support Engineer 1 - 2",
   "location": "Seoul, South Korea",
-  "url": "https://careers.datadoghq.com/detail/6883301/?gh_jid=6883301",
+  "url": "https://careers.datadoghq.com/detail/6882229/?gh_jid=6882229",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -963,7 +939,7 @@
   "company": "Datadog",
   "title": "Technical Support Engineer 1 - 2",
   "location": "Seoul, South Korea",
-  "url": "https://careers.datadoghq.com/detail/6882229/?gh_jid=6882229",
+  "url": "https://careers.datadoghq.com/detail/6883301/?gh_jid=6883301",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -987,6 +963,14 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+  "kind": "Internship",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Cloudflare",
+  "title": "Research Engineer Intern (Fall 2026)",
+  "location": "In-Office",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
   "kind": "Internship",
   "first_seen": "2026-07-29"
@@ -996,22 +980,6 @@
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Cloudflare",
-  "title": "Research Engineer Intern (Fall 2026)",
-  "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Autodesk",
-  "title": "Intern Software Developer, Stagiaire en D\u00e9veloppement Logiciel",
-  "location": "Quebec, CAN - Remote",
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1106,16 +1074,16 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "RO, Iasi",
-  "url": "https://www.amazon.jobs/en/jobs/3119226/software-development-engineer-2026",
+  "location": "ZA, Cape Town",
+  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "ZA, Cape Town",
-  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
+  "location": "RO, Iasi",
+  "url": "https://www.amazon.jobs/en/jobs/3119226/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1251,7 +1219,7 @@
   "company": "Amazon",
   "title": "Software Dev Engineer Intern, (Manufacturing&Ops) 2026 Shanghai",
   "location": "CN, 31, Shanghai",
-  "url": "https://www.amazon.jobs/en/jobs/10376734/software-dev-engineer-intern-manufacturing-ops-2026-shanghai",
+  "url": "https://www.amazon.jobs/en/jobs/3165273/software-dev-engineer-intern-manufacturing-ops-2026-shanghai",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1259,7 +1227,7 @@
   "company": "Amazon",
   "title": "Software Dev Engineer Intern, (Manufacturing&Ops) 2026 Shanghai",
   "location": "CN, 31, Shanghai",
-  "url": "https://www.amazon.jobs/en/jobs/3165273/software-dev-engineer-intern-manufacturing-ops-2026-shanghai",
+  "url": "https://www.amazon.jobs/en/jobs/10376734/software-dev-engineer-intern-manufacturing-ops-2026-shanghai",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1627,7 +1595,7 @@
   "company": "Amazon",
   "title": "2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
   "location": "US, CA, San Francisco",
-  "url": "https://www.amazon.jobs/en/jobs/3071340/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
+  "url": "https://www.amazon.jobs/en/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1635,7 +1603,7 @@
   "company": "Amazon",
   "title": "2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
   "location": "US, CA, San Francisco",
-  "url": "https://www.amazon.jobs/en/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
+  "url": "https://www.amazon.jobs/en/jobs/3071340/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
