@@ -1,5 +1,29 @@
 [
  {
+  "company": "NVIDIA",
+  "title": "Developer Technology Engineer, Public Sector - New College Grad 2026",
+  "location": "US, CA, Santa Clara",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-05"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "ASIC Physical Design and Timing Engineer - New College Grad 2026",
+  "location": "US, CA, Santa Clara",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Timing-Engineer---New-College-Grad-2026_JR2013177",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-05"
+ },
+ {
+  "company": "Cloudflare",
+  "title": "U.S. Public Policy and AI Innovation Intern (Fall 2026)",
+  "location": "In-Office",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8105728?gh_jid=8105728",
+  "kind": "Internship",
+  "first_seen": "2026-08-05"
+ },
+ {
   "company": "Samsara",
   "title": "Salesforce Developer-1",
   "location": "Bengaluru - BLR1",
@@ -41,14 +65,6 @@
  },
  {
   "company": "Amazon",
-  "title": "Software Development Engineer - 2026 (Canada)",
-  "location": "CA, BC, Vancouver",
-  "url": "https://www.amazon.jobs/en/jobs/3165932/software-development-engineer-2026-canada",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-04"
- },
- {
-  "company": "Amazon",
   "title": "Software Development Engineer - 2026  ",
   "location": "DE, BE, Berlin",
   "url": "https://www.amazon.jobs/en/jobs/10477396/software-development-engineer-2026",
@@ -65,7 +81,7 @@
  },
  {
   "company": "Samsara",
-  "title": "Software Engineering Internship - San Fransisco ",
+  "title": "Software Engineering Internship - San Francisco ",
   "location": "San Francisco - SF9",
   "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
   "kind": "Internship",
@@ -842,16 +858,16 @@
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Shanghai, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
+  "location": "Beijing, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Beijing, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
+  "location": "Shanghai, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -860,6 +876,14 @@
   "title": "Automation Engineer I",
   "location": "Atlanta, Georgia, United States",
   "url": "https://job-boards.greenhouse.io/flexport/jobs/8015840",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Elastic",
+  "title": "Business Strategy Developer - International",
+  "location": "Germany",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8050489&gh_jid=8050489",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -876,14 +900,6 @@
   "title": "Business Strategy Developer - International",
   "location": "The Netherlands",
   "url": "https://jobs.elastic.co/jobs?gh_jid=8023745&gh_jid=8023745",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Elastic",
-  "title": "Business Strategy Developer - International",
-  "location": "Germany",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8050489&gh_jid=8050489",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -963,7 +979,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -971,7 +987,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1074,16 +1090,16 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "ZA, Cape Town",
-  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
+  "location": "RO, Iasi",
+  "url": "https://www.amazon.jobs/en/jobs/3119226/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "RO, Iasi",
-  "url": "https://www.amazon.jobs/en/jobs/3119226/software-development-engineer-2026",
+  "location": "ZA, Cape Town",
+  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1219,7 +1235,7 @@
   "company": "Amazon",
   "title": "Software Dev Engineer Intern, (Manufacturing&Ops) 2026 Shanghai",
   "location": "CN, 31, Shanghai",
-  "url": "https://www.amazon.jobs/en/jobs/3165273/software-dev-engineer-intern-manufacturing-ops-2026-shanghai",
+  "url": "https://www.amazon.jobs/en/jobs/10376734/software-dev-engineer-intern-manufacturing-ops-2026-shanghai",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1227,7 +1243,7 @@
   "company": "Amazon",
   "title": "Software Dev Engineer Intern, (Manufacturing&Ops) 2026 Shanghai",
   "location": "CN, 31, Shanghai",
-  "url": "https://www.amazon.jobs/en/jobs/10376734/software-dev-engineer-intern-manufacturing-ops-2026-shanghai",
+  "url": "https://www.amazon.jobs/en/jobs/3165273/software-dev-engineer-intern-manufacturing-ops-2026-shanghai",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1595,7 +1611,7 @@
   "company": "Amazon",
   "title": "2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
   "location": "US, CA, San Francisco",
-  "url": "https://www.amazon.jobs/en/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
+  "url": "https://www.amazon.jobs/en/jobs/3071340/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1603,16 +1619,8 @@
   "company": "Amazon",
   "title": "2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
   "location": "US, CA, San Francisco",
-  "url": "https://www.amazon.jobs/en/jobs/3071340/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
+  "url": "https://www.amazon.jobs/en/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
   "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Affirm",
-  "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
-  "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
@@ -1620,6 +1628,14 @@
   "title": "Software Engineer I, Backend (Collections)",
   "location": "Remote Poland",
   "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Affirm",
+  "title": "Software Engineer I, Backend (Collections)",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
