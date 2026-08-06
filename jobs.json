@@ -1,5 +1,21 @@
 [
  {
+  "company": "Coinbase",
+  "title": "Internal Audit Analytics Associate",
+  "location": "Remote - USA",
+  "url": "https://www.coinbase.com/careers/positions/8109575?gh_jid=8109575",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-06"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer - 2026 (Canada)",
+  "location": "CA, BC, Vancouver",
+  "url": "https://www.amazon.jobs/en/jobs/3165932/software-development-engineer-2026-canada",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-06"
+ },
+ {
   "company": "Samsara",
   "title": "Software Engineer I (New Grad)",
   "location": "London - UK2",
@@ -34,16 +50,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Servicing International)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
   "kind": "Entry Level",
   "first_seen": "2026-08-05"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Servicing International)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
   "kind": "Entry Level",
   "first_seen": "2026-08-05"
  },
@@ -264,14 +280,6 @@
   "first_seen": "2026-07-29"
  },
  {
-  "company": "Uber",
-  "title": "Associate Actuary / Sr. Actuarial Analyst, Claims Analytics",
-  "location": "Chicago, United States",
-  "url": "https://www.uber.com/global/en/careers/list/159264/",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
   "company": "Twilio",
   "title": "Technical Support Engineer 1",
   "location": "Remote - India",
@@ -365,14 +373,6 @@
   "location": "New York, NY (HQ)",
   "url": "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b",
   "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Pinterest",
-  "title": "Software Engineer I, Backend",
-  "location": "Seattle, WA, US; San Francisco, CA, US",
-  "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6816337",
-  "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
@@ -866,16 +866,16 @@
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Beijing, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
+  "location": "Shanghai, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Shanghai, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
+  "location": "Beijing, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -890,14 +890,6 @@
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
-  "location": "The Netherlands",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8023745&gh_jid=8023745",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Elastic",
-  "title": "Business Strategy Developer - International",
   "location": "United Kingdom",
   "url": "https://jobs.elastic.co/jobs?gh_jid=8050499&gh_jid=8050499",
   "kind": "Entry Level",
@@ -906,8 +898,8 @@
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
-  "location": "Spain",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8050495&gh_jid=8050495",
+  "location": "The Netherlands",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8023745&gh_jid=8023745",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -916,6 +908,14 @@
   "title": "Business Strategy Developer - International",
   "location": "Germany",
   "url": "https://jobs.elastic.co/jobs?gh_jid=8050489&gh_jid=8050489",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Elastic",
+  "title": "Business Strategy Developer - International",
+  "location": "Spain",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8050495&gh_jid=8050495",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -987,7 +987,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -995,7 +995,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1082,16 +1082,8 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "SE, Stockholm",
-  "url": "https://www.amazon.jobs/en/jobs/3119051/software-development-engineer-2026",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer \u2013 2026",
-  "location": "ES, M, Madrid",
-  "url": "https://www.amazon.jobs/en/jobs/3175845/software-development-engineer-2026",
+  "location": "ZA, Cape Town",
+  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1106,8 +1098,16 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "ZA, Cape Town",
-  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
+  "location": "SE, Stockholm",
+  "url": "https://www.amazon.jobs/en/jobs/3119051/software-development-engineer-2026",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer \u2013 2026",
+  "location": "ES, M, Madrid",
+  "url": "https://www.amazon.jobs/en/jobs/3175845/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
