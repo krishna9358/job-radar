@@ -1,9 +1,129 @@
 [
  {
+  "company": "NVIDIA",
+  "title": "Technical Product Marketing Engineer, Metropolis - New College Grad 2026",
+  "location": "US, CA, Santa Clara",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Engineer--Metropolis---New-College-Grad-2026_JR2022906-1",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-08"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Systems Software Engineer - New College Grad 2026",
+  "location": "US, OR, Hillsboro",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-08"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "System Design Engineer - LDE (RDSS Intern)",
+  "location": "Taiwan, Taipei",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Engineer---LDE--RDSS-Intern-_JR2021878",
+  "kind": "Internship",
+  "first_seen": "2026-08-08"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Software Engineering Intern, Dynamo - Fall 2026",
+  "location": "US, CA, Santa Clara",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
+  "kind": "Internship",
+  "first_seen": "2026-08-08"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "PCB Design Engineer - New College Grad 2027",
+  "location": "China, Shenzhen",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shenzhen/PCB-Design-Engineer---New-College-Grad-2027_JR2021861",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-08"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "PCB Design EDA and AI Engineer - New College Graduate 2027",
+  "location": "China, Shenzhen",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shenzhen/PCB-Design-EDA-and-AI-Engineer---New-College-Graduate-2027_JR2021858",
+  "kind": "New Grad",
+  "first_seen": "2026-08-08"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "GPU Verification Engineer - New College Grad 2026",
+  "location": "US, MA, Westford",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2022102",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-08"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Developer Technology Engineer, Public Sector - New College Grad 2026",
+  "location": "US, CA, Santa Clara",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-08"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Developer Technology Engineer, AI - New College Grad 2026",
+  "location": "6 Locations",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Grad-2026_JR2014130-1",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-08"
+ },
+ {
+  "company": "Autodesk",
+  "title": "Stagiaire en D\u00e9veloppement Cloud, Intern Cloud Developer \u2013 FCAP",
+  "location": "Montreal, QC, CAN",
+  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2",
+  "kind": "Internship",
+  "first_seen": "2026-08-08"
+ },
+ {
+  "company": "Autodesk",
+  "title": "Stagiaire en D\u00e9veloppement Cloud, Intern Cloud Developer",
+  "location": "Montreal, QC, CAN",
+  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400",
+  "kind": "Internship",
+  "first_seen": "2026-08-08"
+ },
+ {
+  "company": "Autodesk",
+  "title": "Software Engineering Intern Summer 2027",
+  "location": "Norway - Oslo",
+  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046",
+  "kind": "Internship",
+  "first_seen": "2026-08-08"
+ },
+ {
+  "company": "Autodesk",
+  "title": "Graduate Software Engineer",
+  "location": "Norway - Oslo",
+  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Norway---Oslo/Graduate-Software-Engineer_26WD100002-1",
+  "kind": "New Grad",
+  "first_seen": "2026-08-08"
+ },
+ {
   "company": "Amazon",
   "title": "Software Development Engineer - 2026 (Canada)",
   "location": "CA, BC, Vancouver",
   "url": "https://www.amazon.jobs/en/jobs/3165932/software-development-engineer-2026-canada",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-08"
+ },
+ {
+  "company": "Adobe",
+  "title": "Computer Scientist I - Full Stack",
+  "location": "2 Locations",
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist-I---Full-Stack_R170393",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-08"
+ },
+ {
+  "company": "Adobe",
+  "title": "Associate Sr. Legal Counsel (Firefly AI Products)",
+  "location": "3 Locations",
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Associate-Sr-Legal-Counsel_R169549",
   "kind": "Entry Level",
   "first_seen": "2026-08-08"
  },
@@ -826,8 +946,8 @@
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
-  "location": "United Kingdom",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8050499&gh_jid=8050499",
+  "location": "Spain",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8050495&gh_jid=8050495",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -842,16 +962,16 @@
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
-  "location": "Germany",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8050489&gh_jid=8050489",
+  "location": "United Kingdom",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8050499&gh_jid=8050499",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
-  "location": "Spain",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8050495&gh_jid=8050495",
+  "location": "Germany",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8050489&gh_jid=8050489",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -907,6 +1027,14 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+  "kind": "Internship",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Cloudflare",
+  "title": "Research Engineer Intern (Fall 2026)",
+  "location": "In-Office",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
   "kind": "Internship",
   "first_seen": "2026-07-29"
@@ -916,14 +1044,6 @@
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Cloudflare",
-  "title": "Research Engineer Intern (Fall 2026)",
-  "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -986,14 +1106,6 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "ZA, Cape Town",
-  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer \u2013 2026",
   "location": "SE, Stockholm",
   "url": "https://www.amazon.jobs/en/jobs/3119051/software-development-engineer-2026",
   "kind": "Entry Level",
@@ -1004,6 +1116,14 @@
   "title": "Software Development Engineer \u2013 2026",
   "location": "ES, M, Madrid",
   "url": "https://www.amazon.jobs/en/jobs/3175845/software-development-engineer-2026",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer \u2013 2026",
+  "location": "ZA, Cape Town",
+  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1458,6 +1578,14 @@
  {
   "company": "Amazon",
   "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
+  "location": "ES, Barcelona",
+  "url": "https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition",
+  "kind": "Internship",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
   "location": "DE, BE, Berlin",
   "url": "https://www.amazon.jobs/en/jobs/3115016/2026-applied-scientist-intern-amazon-university-talent-acquisition",
   "kind": "Internship",
@@ -1468,14 +1596,6 @@
   "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
   "location": "JO, Jordan",
   "url": "https://www.amazon.jobs/en/jobs/3148406/2026-applied-scientist-intern-amazon-university-talent-acquisition",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
-  "location": "ES, Barcelona",
-  "url": "https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
