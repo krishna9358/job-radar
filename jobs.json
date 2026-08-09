@@ -946,8 +946,8 @@
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
-  "location": "United Kingdom",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8050499&gh_jid=8050499",
+  "location": "Spain",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8050495&gh_jid=8050495",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -962,16 +962,16 @@
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
-  "location": "Germany",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8050489&gh_jid=8050489",
+  "location": "United Kingdom",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8050499&gh_jid=8050499",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
-  "location": "Spain",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8050495&gh_jid=8050495",
+  "location": "Germany",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8050489&gh_jid=8050489",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1027,6 +1027,14 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+  "kind": "Internship",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Cloudflare",
+  "title": "Research Engineer Intern (Fall 2026)",
+  "location": "In-Office",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
   "kind": "Internship",
   "first_seen": "2026-07-29"
@@ -1036,14 +1044,6 @@
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Cloudflare",
-  "title": "Research Engineer Intern (Fall 2026)",
-  "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1106,14 +1106,6 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "ZA, Cape Town",
-  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer \u2013 2026",
   "location": "SE, Stockholm",
   "url": "https://www.amazon.jobs/en/jobs/3119051/software-development-engineer-2026",
   "kind": "Entry Level",
@@ -1124,6 +1116,14 @@
   "title": "Software Development Engineer \u2013 2026",
   "location": "ES, M, Madrid",
   "url": "https://www.amazon.jobs/en/jobs/3175845/software-development-engineer-2026",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer \u2013 2026",
+  "location": "ZA, Cape Town",
+  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1578,6 +1578,14 @@
  {
   "company": "Amazon",
   "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
+  "location": "ES, Barcelona",
+  "url": "https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition",
+  "kind": "Internship",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
   "location": "DE, BE, Berlin",
   "url": "https://www.amazon.jobs/en/jobs/3115016/2026-applied-scientist-intern-amazon-university-talent-acquisition",
   "kind": "Internship",
@@ -1588,14 +1596,6 @@
   "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
   "location": "JO, Jordan",
   "url": "https://www.amazon.jobs/en/jobs/3148406/2026-applied-scientist-intern-amazon-university-talent-acquisition",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
-  "location": "ES, Barcelona",
-  "url": "https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
