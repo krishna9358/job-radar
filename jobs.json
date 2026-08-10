@@ -1,9 +1,41 @@
 [
  {
+  "company": "Palantir",
+  "title": "Forward Deployed Software Engineer, New Grad - Commercial",
+  "location": "Seoul, South Korea",
+  "url": "https://jobs.lever.co/palantir/341d5cae-a473-4813-9a6c-0f67fcc1b253",
+  "kind": "New Grad",
+  "first_seen": "2026-08-10"
+ },
+ {
+  "company": "Palantir",
+  "title": "Forward Deployed Software Engineer, Internship - Commercial",
+  "location": "Seoul, South Korea",
+  "url": "https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd",
+  "kind": "Internship",
+  "first_seen": "2026-08-10"
+ },
+ {
+  "company": "Figma",
+  "title": "Software Engineer Intern (Winter 2027)",
+  "location": "San Francisco, CA \u2022 New York, NY",
+  "url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
+  "kind": "Internship",
+  "first_seen": "2026-08-10"
+ },
+ {
   "company": "Cloudflare",
   "title": "Full Stack Engineer - Internal Audit",
   "location": "Hybrid",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8014902?gh_jid=8014902",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-10"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer 1",
+  "location": "IN, KA, Bengaluru",
+  "url": "https://www.amazon.jobs/en/jobs/10497045/software-development-engineer-1",
   "kind": "Entry Level",
   "first_seen": "2026-08-10"
  },
@@ -80,38 +112,6 @@
   "first_seen": "2026-08-08"
  },
  {
-  "company": "Autodesk",
-  "title": "Stagiaire en D\u00e9veloppement Cloud, Intern Cloud Developer \u2013 FCAP",
-  "location": "Montreal, QC, CAN",
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2",
-  "kind": "Internship",
-  "first_seen": "2026-08-08"
- },
- {
-  "company": "Autodesk",
-  "title": "Stagiaire en D\u00e9veloppement Cloud, Intern Cloud Developer",
-  "location": "Montreal, QC, CAN",
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400",
-  "kind": "Internship",
-  "first_seen": "2026-08-08"
- },
- {
-  "company": "Autodesk",
-  "title": "Software Engineering Intern Summer 2027",
-  "location": "Norway - Oslo",
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046",
-  "kind": "Internship",
-  "first_seen": "2026-08-08"
- },
- {
-  "company": "Autodesk",
-  "title": "Graduate Software Engineer",
-  "location": "Norway - Oslo",
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Norway---Oslo/Graduate-Software-Engineer_26WD100002-1",
-  "kind": "New Grad",
-  "first_seen": "2026-08-08"
- },
- {
   "company": "Amazon",
   "title": "Software Development Engineer - 2026 (Canada)",
   "location": "CA, BC, Vancouver",
@@ -178,16 +178,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Servicing International)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
   "kind": "Entry Level",
   "first_seen": "2026-08-05"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Servicing International)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
   "kind": "Entry Level",
   "first_seen": "2026-08-05"
  },
@@ -954,6 +954,14 @@
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
+  "location": "United Kingdom",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8050499&gh_jid=8050499",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Elastic",
+  "title": "Business Strategy Developer - International",
   "location": "The Netherlands",
   "url": "https://jobs.elastic.co/jobs?gh_jid=8023745&gh_jid=8023745",
   "kind": "Entry Level",
@@ -964,14 +972,6 @@
   "title": "Business Strategy Developer - International",
   "location": "Spain",
   "url": "https://jobs.elastic.co/jobs?gh_jid=8050495&gh_jid=8050495",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Elastic",
-  "title": "Business Strategy Developer - International",
-  "location": "United Kingdom",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8050499&gh_jid=8050499",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1114,14 +1114,6 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "ZA, Cape Town",
-  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer \u2013 2026",
   "location": "SE, Stockholm",
   "url": "https://www.amazon.jobs/en/jobs/3119051/software-development-engineer-2026",
   "kind": "Entry Level",
@@ -1132,6 +1124,14 @@
   "title": "Software Development Engineer \u2013 2026",
   "location": "ES, M, Madrid",
   "url": "https://www.amazon.jobs/en/jobs/3175845/software-development-engineer-2026",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer \u2013 2026",
+  "location": "ZA, Cape Town",
+  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1635,7 +1635,7 @@
   "company": "Amazon",
   "title": "2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
   "location": "US, CA, San Francisco",
-  "url": "https://www.amazon.jobs/en/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
+  "url": "https://www.amazon.jobs/en/jobs/3071340/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1643,16 +1643,8 @@
   "company": "Amazon",
   "title": "2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
   "location": "US, CA, San Francisco",
-  "url": "https://www.amazon.jobs/en/jobs/3071340/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
+  "url": "https://www.amazon.jobs/en/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
   "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Affirm",
-  "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
-  "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
@@ -1660,6 +1652,14 @@
   "title": "Software Engineer I, Backend (Collections)",
   "location": "Remote Poland",
   "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Affirm",
+  "title": "Software Engineer I, Backend (Collections)",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  }
