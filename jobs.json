@@ -11,6 +11,14 @@
   "company": "Oracle",
   "title": "Support Engineer 1  (Hospitality and Restaurants)",
   "location": "Philippines",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/340525",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-11"
+ },
+ {
+  "company": "Oracle",
+  "title": "Support Engineer 1  (Hospitality and Restaurants)",
+  "location": "Philippines",
   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/340528",
   "kind": "Entry Level",
   "first_seen": "2026-08-11"
@@ -44,6 +52,14 @@
   "title": "Software Engineering Intern Summer 2027",
   "location": "Norway - Oslo",
   "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046",
+  "kind": "Internship",
+  "first_seen": "2026-08-11"
+ },
+ {
+  "company": "Autodesk",
+  "title": "Intern Software Developer, Stagiaire en D\u00e9veloppement Logiciel",
+  "location": "Montreal, QC, CAN",
+  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2",
   "kind": "Internship",
   "first_seen": "2026-08-11"
  },
@@ -1067,14 +1083,6 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Cloudflare",
-  "title": "Research Engineer Intern (Fall 2026)",
-  "location": "In-Office",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
   "kind": "Internship",
   "first_seen": "2026-07-29"
@@ -1084,6 +1092,14 @@
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+  "kind": "Internship",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Cloudflare",
+  "title": "Research Engineer Intern (Fall 2026)",
+  "location": "In-Office",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1108,14 +1124,6 @@
   "title": "Sr. Applied Scientist, Alexa International",
   "location": "GB, London",
   "url": "https://www.amazon.jobs/en/jobs/10438453/sr-applied-scientist-alexa-international",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Sr. Applied Scientist, Alexa International",
-  "location": "IT, Turin",
-  "url": "https://www.amazon.jobs/en/jobs/10438450/sr-applied-scientist-alexa-international",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
