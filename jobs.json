@@ -1,5 +1,21 @@
 [
  {
+  "company": "NVIDIA",
+  "title": "ASIC Physical Design Engineer, Netlisting - New College Grad 2026",
+  "location": "2 Locations",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Physical-Design-Engineer--Netlisting---New-College-Grad-2026_JR2017681",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-14"
+ },
+ {
+  "company": "Amazon",
+  "title": "Automation Engineer Intern, (Nationwide) - Summer 2027",
+  "location": "US, TN, Mt. Juliet",
+  "url": "https://www.amazon.jobs/en/jobs/10501526/automation-engineer-intern-nationwide-summer-2027",
+  "kind": "Internship",
+  "first_seen": "2026-08-14"
+ },
+ {
   "company": "Salesforce",
   "title": "Software Engineering AMTS-1",
   "location": "Argentina - Buenos Aires",
@@ -994,8 +1010,8 @@
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
-  "location": "Spain",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8050495&gh_jid=8050495",
+  "location": "United Kingdom",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8050499&gh_jid=8050499",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1018,8 +1034,8 @@
  {
   "company": "Elastic",
   "title": "Business Strategy Developer - International",
-  "location": "United Kingdom",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8050499&gh_jid=8050499",
+  "location": "Spain",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8050495&gh_jid=8050495",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1075,14 +1091,6 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Cloudflare",
-  "title": "Research Engineer Intern (Fall 2026)",
-  "location": "In-Office",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
   "kind": "Internship",
   "first_seen": "2026-07-29"
@@ -1092,6 +1100,14 @@
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+  "kind": "Internship",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Cloudflare",
+  "title": "Research Engineer Intern (Fall 2026)",
+  "location": "In-Office",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
