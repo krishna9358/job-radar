@@ -1,5 +1,61 @@
 [
  {
+  "company": "Samsara",
+  "title": "Associate Specialist Sales Engineer",
+  "location": "Remote - US",
+  "url": "https://www.samsara.com/company/careers/roles/7717258?gh_jid=7717258",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-17"
+ },
+ {
+  "company": "Samsara",
+  "title": "Associate Sales Engineer, SE Desk - TOLA",
+  "location": "Remote - US",
+  "url": "https://www.samsara.com/company/careers/roles/7848363?gh_jid=7848363",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-17"
+ },
+ {
+  "company": "Samsara",
+  "title": "Associate Sales Engineer, SE Desk - Southeast",
+  "location": "Remote - US",
+  "url": "https://www.samsara.com/company/careers/roles/7848351?gh_jid=7848351",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-17"
+ },
+ {
+  "company": "Samsara",
+  "title": "Associate Sales Engineer, SE Desk - Northeast",
+  "location": "Remote - US",
+  "url": "https://www.samsara.com/company/careers/roles/7311741?gh_jid=7311741",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-17"
+ },
+ {
+  "company": "Samsara",
+  "title": "Associate Sales Engineer, SE Desk - Mid West",
+  "location": "Remote - US",
+  "url": "https://www.samsara.com/company/careers/roles/7311761?gh_jid=7311761",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-17"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Verification Engineer - New College Grad 2026",
+  "location": "3 Locations",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Verification-Engineer---New-College-Grad-2026_JR2021016",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-17"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "PCB Design EDA and AI Engineer - New College Graduate 2027",
+  "location": "2 Locations",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/PCB-Design-EDA-and-AI-Engineer---New-College-Graduate-2027_JR2023370",
+  "kind": "New Grad",
+  "first_seen": "2026-08-17"
+ },
+ {
   "company": "Workday",
   "title": "Sr. Associate Software Development Engineer - US Federal",
   "location": "USA.VA.Reston",
@@ -528,14 +584,6 @@
   "first_seen": "2026-07-29"
  },
  {
-  "company": "Perplexity",
-  "title": "AI Inference Internship ",
-  "location": "London",
-  "url": "https://jobs.ashbyhq.com/perplexity/79a07e2d-6150-4929-80fe-bbe13a641763",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
   "company": "Palantir",
   "title": "Year at Palantir - Software Engineer, Internship",
   "location": "New York, NY",
@@ -962,16 +1010,16 @@
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Shanghai, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
+  "location": "Beijing, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Beijing, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
+  "location": "Shanghai, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -980,38 +1028,6 @@
   "title": "Automation Engineer I",
   "location": "Atlanta, Georgia, United States",
   "url": "https://job-boards.greenhouse.io/flexport/jobs/8015840",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Elastic",
-  "title": "Business Strategy Developer - International",
-  "location": "United Kingdom",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8050499&gh_jid=8050499",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Elastic",
-  "title": "Business Strategy Developer - International",
-  "location": "The Netherlands",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8023745&gh_jid=8023745",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Elastic",
-  "title": "Business Strategy Developer - International",
-  "location": "Spain",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8050495&gh_jid=8050495",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Elastic",
-  "title": "Business Strategy Developer - International",
-  "location": "Germany",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8050489&gh_jid=8050489",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1067,7 +1083,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1075,7 +1091,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1401,62 +1417,6 @@
  },
  {
   "company": "Amazon",
-  "title": "Product Marketing AI Specialist Intern, Compliance, Amazon Global Selling",
-  "location": "CN, 31, Shanghai",
-  "url": "https://www.amazon.jobs/en/jobs/10483214/product-marketing-ai-specialist-intern-compliance-amazon-global-selling",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Product Marketing AI Specialist Intern, Amazon Global Selling",
-  "location": "CN, 31, Shanghai",
-  "url": "https://www.amazon.jobs/en/jobs/10483215/product-marketing-ai-specialist-intern-amazon-global-selling",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Online Marketing AI Specialist Intern, Amazon Global Selling",
-  "location": "CN, 31, Shanghai",
-  "url": "https://www.amazon.jobs/en/jobs/10485562/online-marketing-ai-specialist-intern-amazon-global-selling",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Mechanical Process Engineer Intern, 2026 Internship, Shenzhen, China",
-  "location": "CN, 44, Shenzhen",
-  "url": "https://www.amazon.jobs/en/jobs/3149573/mechanical-process-engineer-intern-2026-internship-shenzhen-china",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Marketing AI Specialist Intern, Amazon Global Selling",
-  "location": "TW, TPE, Taipei",
-  "url": "https://www.amazon.jobs/en/jobs/10482212/marketing-ai-specialist-intern-amazon-global-selling",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Marketing AI Product Specialist Intern, Prospect End-to-End Journey, Amazon Global Selling",
-  "location": "CN, 31, Shanghai",
-  "url": "https://www.amazon.jobs/en/jobs/10483293/marketing-ai-product-specialist-intern-prospect-end-to-end-journey-amazon-global-selling",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Marketing AI Product Specialist Intern, Channel Management, Amazon Global Selling",
-  "location": "CN, 31, Shanghai",
-  "url": "https://www.amazon.jobs/en/jobs/10485773/marketing-ai-product-specialist-intern-channel-management-amazon-global-selling",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
   "title": "Jr. Software Development Engineer - Santa Barbara, CA, Jr. Developer Program",
   "location": "US, CA, Santa Barbara",
   "url": "https://www.amazon.jobs/en/jobs/10464138/jr-software-development-engineer-santa-barbara-ca-jr-developer-program",
@@ -1477,14 +1437,6 @@
   "location": "ES, M, Madrid",
   "url": "https://www.amazon.jobs/en/jobs/10479837/jr-software-develoment-engineer-jr-developer-program",
   "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Event AI Marketing Intern, Amazon Global Selling",
-  "location": "CN, 31, Shanghai",
-  "url": "https://www.amazon.jobs/en/jobs/10485545/event-ai-marketing-intern-amazon-global-selling",
-  "kind": "Internship",
   "first_seen": "2026-07-29"
  },
  {
