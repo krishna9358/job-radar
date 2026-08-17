@@ -56,6 +56,30 @@
   "first_seen": "2026-08-17"
  },
  {
+  "company": "Datadog",
+  "title": "Software Engineering Intern (Winter)",
+  "location": "Boston, Massachusetts, USA; New York, New York, USA",
+  "url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
+  "kind": "Internship",
+  "first_seen": "2026-08-17"
+ },
+ {
+  "company": "Amazon",
+  "title": "\u3010Class of 2028 & 2029\uff0fInternship\u3011Software Development Engineers , Amazon International Stores",
+  "location": "JP, 13, Tokyo",
+  "url": "https://www.amazon.jobs/en/jobs/10503558/class-of-2028-2029-internship-software-development-engineers-amazon-international-stores",
+  "kind": "Internship",
+  "first_seen": "2026-08-17"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer \u2013 2026",
+  "location": "FR, Clichy",
+  "url": "https://www.amazon.jobs/en/jobs/10503765/software-development-engineer-2026",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-17"
+ },
+ {
   "company": "Workday",
   "title": "Sr. Associate Software Development Engineer - US Federal",
   "location": "USA.VA.Reston",
@@ -84,14 +108,6 @@
   "title": "Technical Product Marketing Engineer, Metropolis - New College Grad 2026",
   "location": "US, CA, Santa Clara",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Engineer--Metropolis---New-College-Grad-2026_JR2022906-1",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-15"
- },
- {
-  "company": "NVIDIA",
-  "title": "Systems Software Engineer - New College Grad 2026",
-  "location": "US, OR, Hillsboro",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083",
   "kind": "Entry Level",
   "first_seen": "2026-08-15"
  },
@@ -306,16 +322,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Servicing International)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
   "kind": "Entry Level",
   "first_seen": "2026-08-05"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Servicing International)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
   "kind": "Entry Level",
   "first_seen": "2026-08-05"
  },
@@ -356,14 +372,6 @@
   "title": "Software Engineering Internship - San Francisco ",
   "location": "San Francisco - SF9",
   "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
-  "kind": "Internship",
-  "first_seen": "2026-08-03"
- },
- {
-  "company": "Samsara",
-  "title": "Software Engineering Internship - London",
-  "location": "London - UK2",
-  "url": "https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093",
   "kind": "Internship",
   "first_seen": "2026-08-03"
  },
@@ -1010,16 +1018,16 @@
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Beijing, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
+  "location": "Shanghai, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Shanghai, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
+  "location": "Beijing, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1056,14 +1064,6 @@
   "first_seen": "2026-07-29"
  },
  {
-  "company": "Datadog",
-  "title": "Technical Support Engineer 1, Premier - USA",
-  "location": "Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA",
-  "url": "https://careers.datadoghq.com/detail/7449072/?gh_jid=7449072",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
   "company": "Databricks",
   "title": "Software Engineer - Database Engine Internals",
   "location": "Belgrade, Serbia",
@@ -1091,7 +1091,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1099,7 +1099,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1122,7 +1122,7 @@
  {
   "company": "Amazon",
   "title": "Sr. Applied Scientist, Alexa International",
-  "location": "GB, London",
+  "location": "GB, Cambridge",
   "url": "https://www.amazon.jobs/en/jobs/10438453/sr-applied-scientist-alexa-international",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
@@ -1154,6 +1154,14 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
+  "location": "ZA, Cape Town",
+  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer \u2013 2026",
   "location": "SE, Stockholm",
   "url": "https://www.amazon.jobs/en/jobs/3119051/software-development-engineer-2026",
   "kind": "Entry Level",
@@ -1172,14 +1180,6 @@
   "title": "Software Development Engineer \u2013 2026",
   "location": "RO, Iasi",
   "url": "https://www.amazon.jobs/en/jobs/3119226/software-development-engineer-2026",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer \u2013 2026",
-  "location": "ZA, Cape Town",
-  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1457,14 +1457,6 @@
  },
  {
   "company": "Amazon",
-  "title": "Data Scientist I, FMA",
-  "location": "US, WA, Seattle",
-  "url": "https://www.amazon.jobs/en/jobs/10398060/data-scientist-i-fma",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
   "title": "Applied Scientist, EU International Technologies",
   "location": "DE, BE, Berlin",
   "url": "https://www.amazon.jobs/en/jobs/10443508/applied-scientist-eu-international-technologies",
@@ -1474,7 +1466,7 @@
  {
   "company": "Amazon",
   "title": "Applied Scientist, Alexa International Tech",
-  "location": "GB, London",
+  "location": "GB, Cambridge",
   "url": "https://www.amazon.jobs/en/jobs/10438451/applied-scientist-alexa-international-tech",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
@@ -1554,14 +1546,6 @@
  {
   "company": "Amazon",
   "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
-  "location": "ES, Barcelona",
-  "url": "https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
   "location": "DE, BE, Berlin",
   "url": "https://www.amazon.jobs/en/jobs/3115016/2026-applied-scientist-intern-amazon-university-talent-acquisition",
   "kind": "Internship",
@@ -1572,6 +1556,22 @@
   "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
   "location": "JO, Jordan",
   "url": "https://www.amazon.jobs/en/jobs/3148406/2026-applied-scientist-intern-amazon-university-talent-acquisition",
+  "kind": "Internship",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
+  "location": "ES, Barcelona",
+  "url": "https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition",
+  "kind": "Internship",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
+  "location": "EG, Cairo",
+  "url": "https://www.amazon.jobs/en/jobs/10385882/2026-applied-scientist-intern-amazon-university-talent-acquisition",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1593,9 +1593,9 @@
  },
  {
   "company": "Amazon",
-  "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
-  "location": "EG, Cairo",
-  "url": "https://www.amazon.jobs/en/jobs/10385882/2026-applied-scientist-intern-amazon-university-talent-acquisition",
+  "title": "2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
+  "location": "US, CA, San Francisco",
+  "url": "https://www.amazon.jobs/en/jobs/3071340/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1604,14 +1604,6 @@
   "title": "2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
   "location": "US, CA, San Francisco",
   "url": "https://www.amazon.jobs/en/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
-  "location": "US, CA, San Francisco",
-  "url": "https://www.amazon.jobs/en/jobs/3071340/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
