@@ -1,5 +1,37 @@
 [
  {
+  "company": "Zscaler",
+  "title": "Site Reliability Engineer-SkillBridge Intern",
+  "location": "Remote - USA",
+  "url": "https://job-boards.greenhouse.io/zscaler/jobs/5045817007",
+  "kind": "Internship",
+  "first_seen": "2026-08-18"
+ },
+ {
+  "company": "Zscaler",
+  "title": "Site Reliability Engineer Federal- SkillBridge Intern",
+  "location": "Remote - Virginia, USA",
+  "url": "https://job-boards.greenhouse.io/zscaler/jobs/5046050007",
+  "kind": "Internship",
+  "first_seen": "2026-08-18"
+ },
+ {
+  "company": "Zscaler",
+  "title": "Detection Engineer- SkillBridge Intern",
+  "location": "Remote - USA",
+  "url": "https://job-boards.greenhouse.io/zscaler/jobs/5114254007",
+  "kind": "Internship",
+  "first_seen": "2026-08-18"
+ },
+ {
+  "company": "Stripe",
+  "title": "Software Engineer, Intern",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+  "kind": "Internship",
+  "first_seen": "2026-08-18"
+ },
+ {
   "company": "Salesforce",
   "title": "Associate Technical Support Engineer",
   "location": "India - Hyderabad",
@@ -16,11 +48,51 @@
   "first_seen": "2026-08-18"
  },
  {
+  "company": "Netflix",
+  "title": "Associate, Revenue Analytics Finance & Strategy - AI Automation",
+  "location": "Los Gatos,California,United States of America",
+  "url": "https://explore.jobs.netflix.net/careers/job/790317599353",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-18"
+ },
+ {
+  "company": "Netflix",
+  "title": "Associate, APAC Revenue Analytics",
+  "location": "Mumbai,India",
+  "url": "https://explore.jobs.netflix.net/careers/job/790317336766",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-18"
+ },
+ {
+  "company": "Netflix",
+  "title": "Associate Technical Supervisor (Front End) - Netflix Animation Studios",
+  "location": "Vancouver,Canada",
+  "url": "https://explore.jobs.netflix.net/careers/job/790316431938",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-18"
+ },
+ {
+  "company": "Netflix",
+  "title": "Associate Technical Supervisor (Back-End) - Netflix Animation Studios",
+  "location": "Vancouver,Canada",
+  "url": "https://explore.jobs.netflix.net/careers/job/790315043614",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-18"
+ },
+ {
   "company": "NVIDIA",
   "title": "Software Engineering Intern, NCCL - 2026",
   "location": "2 Locations",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645",
   "kind": "Internship",
+  "first_seen": "2026-08-18"
+ },
+ {
+  "company": "Duolingo",
+  "title": "Software Engineer I",
+  "location": "Beijing, China",
+  "url": "https://careers.duolingo.com/jobs/8612080002?gh_jid=8612080002",
+  "kind": "Entry Level",
   "first_seen": "2026-08-18"
  },
  {
@@ -33,9 +105,17 @@
  },
  {
   "company": "Amazon",
-  "title": "\u3010Class of 2028\uff0fInternship\u3011Software Development Engineers , Amazon International Stores",
+  "title": "\u3010Class of 2029\uff0fInternship\u3011Applied Scientists , Amazon International Stores, Amazon Japan Store Tech",
   "location": "JP, 13, Tokyo",
-  "url": "https://www.amazon.jobs/en/jobs/10503558/class-of-2028-internship-software-development-engineers-amazon-international-stores",
+  "url": "https://www.amazon.jobs/en/jobs/10504617/class-of-2029-internship-applied-scientists-amazon-international-stores-amazon-japan-store-tech",
+  "kind": "Internship",
+  "first_seen": "2026-08-18"
+ },
+ {
+  "company": "Amazon",
+  "title": "\u3010Class of 2028 & 2029\uff0fInternship\u3011Software Development Engineers , Amazon International Stores",
+  "location": "JP, 13, Tokyo",
+  "url": "https://www.amazon.jobs/en/jobs/10503558/class-of-2028-2029-internship-software-development-engineers-amazon-international-stores",
   "kind": "Internship",
   "first_seen": "2026-08-18"
  },
@@ -172,14 +252,6 @@
   "title": "GPU Verification Engineer - New College Grad 2026",
   "location": "2 Locations",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2023187",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-15"
- },
- {
-  "company": "NVIDIA",
-  "title": "Developer Technology Engineer, Public Sector - New College Grad 2026",
-  "location": "US, CA, Santa Clara",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
   "kind": "Entry Level",
   "first_seen": "2026-08-15"
  },
@@ -362,26 +434,18 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Servicing International)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-05"
- },
- {
-  "company": "Affirm",
-  "title": "Software Engineer I, Fullstack (Servicing International)",
   "location": "Remote Spain",
   "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
   "kind": "Entry Level",
   "first_seen": "2026-08-05"
  },
  {
-  "company": "Samsara",
-  "title": "Salesforce Developer-1",
-  "location": "Bengaluru - BLR1",
-  "url": "https://www.samsara.com/company/careers/roles/8068007?gh_jid=8068007",
+  "company": "Affirm",
+  "title": "Software Engineer I, Fullstack (Servicing International)",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
   "kind": "Entry Level",
-  "first_seen": "2026-08-04"
+  "first_seen": "2026-08-05"
  },
  {
   "company": "Salesforce",
@@ -1002,16 +1066,16 @@
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Shanghai, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
+  "location": "Beijing, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Beijing, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
+  "location": "Shanghai, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1059,7 +1123,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1067,7 +1131,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1130,6 +1194,14 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
+  "location": "ZA, Cape Town",
+  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer \u2013 2026",
   "location": "SE, Stockholm",
   "url": "https://www.amazon.jobs/en/jobs/3119051/software-development-engineer-2026",
   "kind": "Entry Level",
@@ -1148,14 +1220,6 @@
   "title": "Software Development Engineer \u2013 2026",
   "location": "RO, Iasi",
   "url": "https://www.amazon.jobs/en/jobs/3119226/software-development-engineer-2026",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer \u2013 2026",
-  "location": "ZA, Cape Town",
-  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1546,6 +1610,14 @@
  {
   "company": "Amazon",
   "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
+  "location": "EG, Cairo",
+  "url": "https://www.amazon.jobs/en/jobs/10385882/2026-applied-scientist-intern-amazon-university-talent-acquisition",
+  "kind": "Internship",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
   "location": "LU, Luxembourg",
   "url": "https://www.amazon.jobs/en/jobs/3128215/2026-applied-scientist-intern-amazon-university-talent-acquisition",
   "kind": "Internship",
@@ -1556,14 +1628,6 @@
   "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
   "location": "GB, London",
   "url": "https://www.amazon.jobs/en/jobs/3126764/2026-applied-scientist-intern-amazon-university-talent-acquisition",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
-  "location": "EG, Cairo",
-  "url": "https://www.amazon.jobs/en/jobs/10385882/2026-applied-scientist-intern-amazon-university-talent-acquisition",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1586,16 +1650,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  }
