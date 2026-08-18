@@ -32,6 +32,14 @@
   "first_seen": "2026-08-18"
  },
  {
+  "company": "Samsara",
+  "title": "Software Engineering Internship - London",
+  "location": "London - UK2",
+  "url": "https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093",
+  "kind": "Internship",
+  "first_seen": "2026-08-18"
+ },
+ {
   "company": "Salesforce",
   "title": "Associate Technical Support Engineer",
   "location": "India - Hyderabad",
@@ -45,6 +53,14 @@
   "location": "Ireland - Dublin",
   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Associate-Account-Solution-Engineer_JR356041",
   "kind": "Entry Level",
+  "first_seen": "2026-08-18"
+ },
+ {
+  "company": "Oracle",
+  "title": "Platform Software Engineer 1 - Full-time Intern Conversion",
+  "location": "United States",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/342415",
+  "kind": "Internship",
   "first_seen": "2026-08-18"
  },
  {
@@ -92,14 +108,6 @@
   "title": "Software Engineer I",
   "location": "Beijing, China",
   "url": "https://careers.duolingo.com/jobs/8612080002?gh_jid=8612080002",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-18"
- },
- {
-  "company": "Datadog",
-  "title": "Technical Support Engineer 1, Premier - USA",
-  "location": "Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA",
-  "url": "https://careers.datadoghq.com/detail/7449072/?gh_jid=7449072",
   "kind": "Entry Level",
   "first_seen": "2026-08-18"
  },
@@ -961,14 +969,6 @@
  },
  {
   "company": "Palantir",
-  "title": "Forward Deployed Software Engineer, Internship - Poland",
-  "location": "New York, NY",
-  "url": "https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Palantir",
   "title": "Forward Deployed Software Engineer, Internship - Intel",
   "location": "Washington, D.C.",
   "url": "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89",
@@ -1194,14 +1194,6 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "ZA, Cape Town",
-  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer \u2013 2026",
   "location": "SE, Stockholm",
   "url": "https://www.amazon.jobs/en/jobs/3119051/software-development-engineer-2026",
   "kind": "Entry Level",
@@ -1220,6 +1212,14 @@
   "title": "Software Development Engineer \u2013 2026",
   "location": "RO, Iasi",
   "url": "https://www.amazon.jobs/en/jobs/3119226/software-development-engineer-2026",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer \u2013 2026",
+  "location": "ZA, Cape Town",
+  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1594,24 +1594,8 @@
  {
   "company": "Amazon",
   "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
-  "location": "JO, Jordan",
-  "url": "https://www.amazon.jobs/en/jobs/3148406/2026-applied-scientist-intern-amazon-university-talent-acquisition",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
   "location": "ES, Barcelona",
   "url": "https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
-  "location": "EG, Cairo",
-  "url": "https://www.amazon.jobs/en/jobs/10385882/2026-applied-scientist-intern-amazon-university-talent-acquisition",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1650,16 +1634,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  }
