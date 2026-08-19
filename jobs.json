@@ -64,6 +64,14 @@
   "first_seen": "2026-08-19"
  },
  {
+  "company": "Autodesk",
+  "title": "Intern, AI Developer/ Stagiaire en d\u00e9veloppement IA",
+  "location": "Montreal, QC, CAN",
+  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2",
+  "kind": "Internship",
+  "first_seen": "2026-08-19"
+ },
+ {
   "company": "Amazon",
   "title": "\u3010Class of 2028\uff0fFull-Time\u3011Applied Scientists , Amazon International Stores, Amazon Japan Store Tech",
   "location": "JP, 13, Tokyo",
@@ -472,11 +480,11 @@
   "first_seen": "2026-08-06"
  },
  {
-  "company": "Samsara",
-  "title": "Software Engineer I (New Grad)",
-  "location": "London - UK2",
-  "url": "https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345",
-  "kind": "New Grad",
+  "company": "Affirm",
+  "title": "Software Engineer I, Fullstack (Servicing International)",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
+  "kind": "Entry Level",
   "first_seen": "2026-08-05"
  },
  {
@@ -484,14 +492,6 @@
   "title": "Software Engineer I, Fullstack (Servicing International)",
   "location": "Remote Poland",
   "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-05"
- },
- {
-  "company": "Affirm",
-  "title": "Software Engineer I, Fullstack (Servicing International)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
   "kind": "Entry Level",
   "first_seen": "2026-08-05"
  },
@@ -1626,14 +1626,6 @@
  {
   "company": "Amazon",
   "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
-  "location": "DE, BE, Berlin",
-  "url": "https://www.amazon.jobs/en/jobs/3115016/2026-applied-scientist-intern-amazon-university-talent-acquisition",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
   "location": "LU, Luxembourg",
   "url": "https://www.amazon.jobs/en/jobs/3128215/2026-applied-scientist-intern-amazon-university-talent-acquisition",
   "kind": "Internship",
@@ -1644,6 +1636,14 @@
   "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
   "location": "GB, London",
   "url": "https://www.amazon.jobs/en/jobs/3126764/2026-applied-scientist-intern-amazon-university-talent-acquisition",
+  "kind": "Internship",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
+  "location": "DE, BE, Berlin",
+  "url": "https://www.amazon.jobs/en/jobs/3115016/2026-applied-scientist-intern-amazon-university-talent-acquisition",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1666,16 +1666,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  }
