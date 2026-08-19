@@ -1,5 +1,21 @@
 [
  {
+  "company": "NVIDIA",
+  "title": "System Software Engineer \u2013 GPU and SOC (2027 RDSS Intern)",
+  "location": "Taiwan, Taipei",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---GPU-and-SOC--2027-RDSS-Intern-_JR2023628",
+  "kind": "Internship",
+  "first_seen": "2026-08-19"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Software Engineering Intern, Test Automation \u2014 Autonomous Vehicles",
+  "location": "Germany, Munich",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern--Test-Automation---Autonomous-Vehicles_JR2023302",
+  "kind": "Internship",
+  "first_seen": "2026-08-19"
+ },
+ {
   "company": "Zscaler",
   "title": "Site Reliability Engineer-SkillBridge Intern",
   "location": "Remote - USA",
@@ -105,7 +121,7 @@
  },
  {
   "company": "Duolingo",
-  "title": "Software Engineer I",
+  "title": "Software Engineer I, iOS",
   "location": "Beijing, China",
   "url": "https://careers.duolingo.com/jobs/8612080002?gh_jid=8612080002",
   "kind": "Entry Level",
@@ -125,14 +141,6 @@
   "location": "JP, 13, Tokyo",
   "url": "https://www.amazon.jobs/en/jobs/10503558/class-of-2028-2029-internship-software-development-engineers-amazon-international-stores",
   "kind": "Internship",
-  "first_seen": "2026-08-18"
- },
- {
-  "company": "Amazon",
-  "title": "Applied Scientist, International Machine Learning",
-  "location": "IN, HR, Gurugram",
-  "url": "https://www.amazon.jobs/en/jobs/10373344/applied-scientist-international-machine-learning",
-  "kind": "Entry Level",
   "first_seen": "2026-08-18"
  },
  {
@@ -1115,7 +1123,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1123,7 +1131,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1194,16 +1202,16 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "ZA, Cape Town",
-  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
+  "location": "RO, Iasi",
+  "url": "https://www.amazon.jobs/en/jobs/3119226/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "RO, Iasi",
-  "url": "https://www.amazon.jobs/en/jobs/3119226/software-development-engineer-2026",
+  "location": "ZA, Cape Town",
+  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1618,16 +1626,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  }
