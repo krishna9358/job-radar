@@ -1,5 +1,13 @@
 [
  {
+  "company": "Datadog",
+  "title": "Technical Support Engineer 1, Premier - USA",
+  "location": "Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA",
+  "url": "https://careers.datadoghq.com/detail/7449072/?gh_jid=7449072",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-20"
+ },
+ {
   "company": "NVIDIA",
   "title": "System Software Engineer \u2013 GPU and SOC (2027 RDSS Intern)",
   "location": "Taiwan, Taipei",
@@ -482,16 +490,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Servicing International)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
   "kind": "Entry Level",
   "first_seen": "2026-08-05"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Servicing International)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
   "kind": "Entry Level",
   "first_seen": "2026-08-05"
  },
@@ -1163,7 +1171,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1171,7 +1179,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1666,16 +1674,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  }
