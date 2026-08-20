@@ -1,9 +1,57 @@
 [
  {
+  "company": "NVIDIA",
+  "title": "Test Development Software Engineering Intern, Aerial - 2027",
+  "location": "China, Shanghai",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Test-Development-Software-Engineering-Intern--Aerial---2027_JR2023852",
+  "kind": "Internship",
+  "first_seen": "2026-08-20"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Software QA Intern, Spark Rapids  - 2027",
+  "location": "China, Shanghai",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-QA-Intern--Spark-Rapids----2027_JR2023655",
+  "kind": "Internship",
+  "first_seen": "2026-08-20"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Software QA Developer Intern - 2027",
+  "location": "China, Shanghai",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-QA-Developer-Intern---2027_JR2023654",
+  "kind": "Internship",
+  "first_seen": "2026-08-20"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Software Engineering Intern, CUDA Test Development - 2027",
+  "location": "China, Shanghai",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--CUDA-Test-Development---2027_JR2023645",
+  "kind": "Internship",
+  "first_seen": "2026-08-20"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Deep Learning Software Engineering Intern, Test Development - 2027",
+  "location": "China, Shanghai",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023656",
+  "kind": "Internship",
+  "first_seen": "2026-08-20"
+ },
+ {
   "company": "Datadog",
   "title": "Technical Support Engineer 1, Premier - USA",
   "location": "Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA",
   "url": "https://careers.datadoghq.com/detail/7449072/?gh_jid=7449072",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-20"
+ },
+ {
+  "company": "Amazon",
+  "title": "Applied Scientist I, CMT",
+  "location": "IN, TN, Chennai",
+  "url": "https://www.amazon.jobs/en/jobs/10507927/applied-scientist-i-cmt",
   "kind": "Entry Level",
   "first_seen": "2026-08-20"
  },
@@ -300,14 +348,6 @@
   "title": "Administrative Business Partner I - Engineering, Product and Design",
   "location": "San Francisco, CA, US; Palo Alto, CA, US",
   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8103612",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-15"
- },
- {
-  "company": "NVIDIA",
-  "title": "Technical Product Marketing Engineer, Metropolis - New College Grad 2026",
-  "location": "US, CA, Santa Clara",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Engineer--Metropolis---New-College-Grad-2026_JR2022906-1",
   "kind": "Entry Level",
   "first_seen": "2026-08-15"
  },
@@ -628,14 +668,6 @@
   "title": "Technical Support Engineer 1",
   "location": "Remote - India",
   "url": "https://job-boards.greenhouse.io/twilio/jobs/8016229",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Twilio",
-  "title": "Associate Application Engineer",
-  "location": "Remote - India",
-  "url": "https://job-boards.greenhouse.io/twilio/jobs/8048659",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1171,6 +1203,14 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+  "kind": "Internship",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Cloudflare",
+  "title": "Research Engineer Intern (Fall 2026)",
+  "location": "In-Office",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
   "kind": "Internship",
   "first_seen": "2026-07-29"
@@ -1180,14 +1220,6 @@
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Cloudflare",
-  "title": "Research Engineer Intern (Fall 2026)",
-  "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
