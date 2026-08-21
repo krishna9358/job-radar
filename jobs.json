@@ -1,5 +1,37 @@
 [
  {
+  "company": "Oracle",
+  "title": "Support Engineer 1",
+  "location": "BENGALURU, KARNATAKA, India",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343422",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-21"
+ },
+ {
+  "company": "Oracle",
+  "title": "Support Engineer 1",
+  "location": "Orlando, FL, United States",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343561",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-21"
+ },
+ {
+  "company": "Oracle",
+  "title": "Support Engineer 1",
+  "location": "Orlando, FL, United States",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343556",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-21"
+ },
+ {
+  "company": "Databricks",
+  "title": "Software Engineering Intern (2027 Start) - Winter",
+  "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
+  "kind": "Internship",
+  "first_seen": "2026-08-21"
+ },
+ {
   "company": "SoFi",
   "title": "Associate AI Engineer, Finance Transformation",
   "location": "San Francisco - CA; New York City - NY; Salt Lake City - UT",
@@ -1201,14 +1233,6 @@
  },
  {
   "company": "DoorDash",
-  "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
-  "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Seattle, WA; Sunnyvale, CA",
-  "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7263610",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "DoorDash",
   "title": "AI Research Fellowship, (Summer and Fall 2026)",
   "location": "San Francisco, CA",
   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7848317",
@@ -1235,14 +1259,6 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Cloudflare",
-  "title": "Research Engineer Intern (Fall 2026)",
-  "location": "In-Office",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
   "kind": "Internship",
   "first_seen": "2026-07-29"
@@ -1252,6 +1268,14 @@
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+  "kind": "Internship",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Cloudflare",
+  "title": "Research Engineer Intern (Fall 2026)",
+  "location": "In-Office",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1738,16 +1762,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  }
