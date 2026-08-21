@@ -32,6 +32,14 @@
   "first_seen": "2026-08-21"
  },
  {
+  "company": "Oracle",
+  "title": "Associate Support Engineer",
+  "location": "BENGALURU, KARNATAKA, India",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/339012",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-21"
+ },
+ {
   "company": "NVIDIA",
   "title": "Test Development Software Engineering Intern - 2027",
   "location": "China, Shanghai",
@@ -76,6 +84,30 @@
   "title": "Enterprise Software Test Development Engineer (RDSS Intern)",
   "location": "Taiwan, Taipei",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2023905",
+  "kind": "Internship",
+  "first_seen": "2026-08-21"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Deep Learning Software Engineering Intern, Test Development - 2027",
+  "location": "China, Shanghai",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023639",
+  "kind": "Internship",
+  "first_seen": "2026-08-21"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Deep Learning Software Engineering Intern, Test Development - 2027",
+  "location": "China, Shanghai",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023641",
+  "kind": "Internship",
+  "first_seen": "2026-08-21"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "CUDA Full Stack & AI Test Dev Intern - 2027",
+  "location": "China, Shanghai",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/CUDA-Full-Stack---AI-Test-Dev-Intern---2027_JR2023666-1",
   "kind": "Internship",
   "first_seen": "2026-08-21"
  },
@@ -662,14 +694,6 @@
   "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
   "kind": "Entry Level",
   "first_seen": "2026-08-05"
- },
- {
-  "company": "Salesforce",
-  "title": "Junior Technical Support Engineer (Triage)\u3010\u969c\u5bb3\u8005\u63a1\u7528\u3011",
-  "location": "Japan - Tokyo",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Junior-Technical-Support-Engineer--Triage---_JR354371",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-04"
  },
  {
   "company": "Amazon",
@@ -1333,14 +1357,6 @@
   "location": "In-Office",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
   "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Asana",
-  "title": "Junior Software Engineer, Reykjavik",
-  "location": "Reykjav\u00edk",
-  "url": "https://www.asana.com/jobs/apply/7766762?gh_jid=7766762",
-  "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
