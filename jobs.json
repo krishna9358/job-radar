@@ -298,14 +298,6 @@
  {
   "company": "Oracle",
   "title": "Support Engineer 1",
-  "location": "DUBAI, United Arab Emirates",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343404",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-21"
- },
- {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
   "location": "BENGALURU, KARNATAKA, India",
   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343513",
   "kind": "Entry Level",
@@ -332,6 +324,14 @@
   "title": "Support Engineer 1",
   "location": "Kansas City, MO, United States",
   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343611",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-21"
+ },
+ {
+  "company": "Oracle",
+  "title": "Support Engineer 1",
+  "location": "DUBAI, United Arab Emirates",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343404",
   "kind": "Entry Level",
   "first_seen": "2026-08-21"
  },
@@ -452,14 +452,6 @@
   "title": "Associate Technical Support Engineer",
   "location": "India - Hyderabad",
   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Associate-Technical-Support-Engineer_JR356515",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-18"
- },
- {
-  "company": "Netflix",
-  "title": "Associate, Revenue Analytics Finance & Strategy - AI Automation",
-  "location": "Los Gatos,California,United States of America",
-  "url": "https://explore.jobs.netflix.net/careers/job/790317599353",
   "kind": "Entry Level",
   "first_seen": "2026-08-18"
  },
