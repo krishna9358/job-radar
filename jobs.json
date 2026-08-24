@@ -1,17 +1,17 @@
 [
  {
-  "company": "Salesforce",
-  "title": "Associate Account Solution Engineer (German Speaking)",
-  "location": "Ireland - Dublin",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Associate-Account-Solution-Engineer_JR356041",
+  "company": "Oracle",
+  "title": "Support Engineer 1, Arabic Speaker",
+  "location": "DUBAI, United Arab Emirates",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343405",
   "kind": "Entry Level",
   "first_seen": "2026-08-24"
  },
  {
   "company": "Oracle",
-  "title": "Support Engineer 1, Arabic Speaker",
-  "location": "DUBAI, United Arab Emirates",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343405",
+  "title": "Platform Software Engineer 1",
+  "location": "Nashville, TN, United States",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343770",
   "kind": "Entry Level",
   "first_seen": "2026-08-24"
  },
@@ -29,6 +29,70 @@
   "location": "2 Locations",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineer-Intern--AI---2027_JR2024002",
   "kind": "Internship",
+  "first_seen": "2026-08-24"
+ },
+ {
+  "company": "Autodesk",
+  "title": "Stagiaire en D\u00e9veloppement Cloud, Intern Cloud Developer \u2013 FCAP",
+  "location": "Montreal, QC, CAN",
+  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2",
+  "kind": "Internship",
+  "first_seen": "2026-08-24"
+ },
+ {
+  "company": "Autodesk",
+  "title": "Stagiaire en D\u00e9veloppement Cloud, Intern Cloud Developer",
+  "location": "Montreal, QC, CAN",
+  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400",
+  "kind": "Internship",
+  "first_seen": "2026-08-24"
+ },
+ {
+  "company": "Autodesk",
+  "title": "Software Engineering Intern Summer 2027",
+  "location": "Norway - Oslo",
+  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046",
+  "kind": "Internship",
+  "first_seen": "2026-08-24"
+ },
+ {
+  "company": "Autodesk",
+  "title": "Intern, AI Developer/ Stagiaire en d\u00e9veloppement IA",
+  "location": "Montreal, QC, CAN",
+  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2",
+  "kind": "Internship",
+  "first_seen": "2026-08-24"
+ },
+ {
+  "company": "Autodesk",
+  "title": "Intern Software Developer, Stagiaire en D\u00e9veloppement Logiciel",
+  "location": "Montreal, QC, CAN",
+  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2",
+  "kind": "Internship",
+  "first_seen": "2026-08-24"
+ },
+ {
+  "company": "Autodesk",
+  "title": "Graduate Software Engineer",
+  "location": "Norway - Oslo",
+  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Norway---Oslo/Graduate-Software-Engineer_26WD100002-1",
+  "kind": "New Grad",
+  "first_seen": "2026-08-24"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer Intern, Amazon University Talent Acquisition ",
+  "location": "BR, SP, Sao Paulo",
+  "url": "https://www.amazon.jobs/en/jobs/3063220/software-development-engineer-intern-amazon-university-talent-acquisition",
+  "kind": "Internship",
+  "first_seen": "2026-08-24"
+ },
+ {
+  "company": "Amazon",
+  "title": "Applied Scientist, Alexa International Tech",
+  "location": "GB, Cambridge",
+  "url": "https://www.amazon.jobs/en/jobs/10438451/applied-scientist-alexa-international-tech",
+  "kind": "Entry Level",
   "first_seen": "2026-08-24"
  },
  {
@@ -658,16 +722,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Servicing International)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
   "kind": "Entry Level",
   "first_seen": "2026-08-05"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Servicing International)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
   "kind": "Entry Level",
   "first_seen": "2026-08-05"
  },
@@ -1266,16 +1330,16 @@
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Beijing, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
+  "location": "Shanghai, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Shanghai, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
+  "location": "Beijing, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1378,14 +1442,6 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "ZA, Cape Town",
-  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer \u2013 2026",
   "location": "SE, Stockholm",
   "url": "https://www.amazon.jobs/en/jobs/3119051/software-development-engineer-2026",
   "kind": "Entry Level",
@@ -1396,6 +1452,14 @@
   "title": "Software Development Engineer \u2013 2026",
   "location": "ES, M, Madrid",
   "url": "https://www.amazon.jobs/en/jobs/3175845/software-development-engineer-2026",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer \u2013 2026",
+  "location": "ZA, Cape Town",
+  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1778,16 +1842,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  }
