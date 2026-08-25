@@ -8,6 +8,38 @@
   "first_seen": "2026-08-25"
  },
  {
+  "company": "NVIDIA",
+  "title": "Deep Learning Software Engineering Intern, Test Development - 2027",
+  "location": "China, Shanghai",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023658",
+  "kind": "Internship",
+  "first_seen": "2026-08-25"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "ASIC Physical Design Engineer (RDSS Intern)",
+  "location": "Taiwan, Hsinchu",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/ASIC-Physical-Design-Engineer--RDSS-Intern-_JR2024046",
+  "kind": "Internship",
+  "first_seen": "2026-08-25"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "ASIC Engineering Intern, Networking Chip Design - 2027",
+  "location": "China, Shanghai",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Engineering-Intern--Networking-Chip-Design---2027_JR2023920-1",
+  "kind": "Internship",
+  "first_seen": "2026-08-25"
+ },
+ {
+  "company": "Amazon",
+  "title": "Data Scientist I, Amazon 1P Credito, Payments",
+  "location": "BR, SP, Sao Paulo",
+  "url": "https://www.amazon.jobs/en/jobs/10513220/data-scientist-i-amazon-1p-credito-payments",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-25"
+ },
+ {
   "company": "Amazon",
   "title": "Automation Engineer Intern, (Nationwide) - Summer 2027",
   "location": "US, TN, Mt. Juliet",
@@ -738,16 +770,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Servicing International)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
   "kind": "Entry Level",
   "first_seen": "2026-08-05"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Servicing International)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
   "kind": "Entry Level",
   "first_seen": "2026-08-05"
  },
@@ -773,14 +805,6 @@
   "location": "San Francisco - SF9",
   "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
   "kind": "Internship",
-  "first_seen": "2026-08-03"
- },
- {
-  "company": "Samsara",
-  "title": "Software Engineer I - New Grad, SF",
-  "location": "San Francisco - SF9",
-  "url": "https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343",
-  "kind": "New Grad",
   "first_seen": "2026-08-03"
  },
  {
@@ -1395,7 +1419,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1411,7 +1435,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1458,6 +1482,14 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
+  "location": "ZA, Cape Town",
+  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer \u2013 2026",
   "location": "SE, Stockholm",
   "url": "https://www.amazon.jobs/en/jobs/3119051/software-development-engineer-2026",
   "kind": "Entry Level",
@@ -1468,14 +1500,6 @@
   "title": "Software Development Engineer \u2013 2026",
   "location": "ES, M, Madrid",
   "url": "https://www.amazon.jobs/en/jobs/3175845/software-development-engineer-2026",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer \u2013 2026",
-  "location": "ZA, Cape Town",
-  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
