@@ -1,5 +1,13 @@
 [
  {
+  "company": "Zip",
+  "title": "Software Engineer Intern, Winter Co-op",
+  "location": "Toronto",
+  "url": "https://jobs.ashbyhq.com/zip/2bc7327b-1c06-418a-beeb-bec1dd70480e",
+  "kind": "Internship",
+  "first_seen": "2026-08-25"
+ },
+ {
   "company": "Okta",
   "title": "Associate Solutions Engineer, Okta",
   "location": "Bengaluru, India",
@@ -158,14 +166,6 @@
   "url": "https://www.amazon.jobs/en/jobs/10438451/applied-scientist-alexa-international-tech",
   "kind": "Entry Level",
   "first_seen": "2026-08-24"
- },
- {
-  "company": "Netflix",
-  "title": "Associate, Revenue Analytics Finance & Strategy - AI Automation",
-  "location": "Los Gatos,California,United States of America",
-  "url": "https://explore.jobs.netflix.net/careers/job/790317599353",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-23"
  },
  {
   "company": "NVIDIA",
@@ -560,30 +560,6 @@
   "first_seen": "2026-08-18"
  },
  {
-  "company": "Netflix",
-  "title": "Associate, APAC Revenue Analytics",
-  "location": "Mumbai,India",
-  "url": "https://explore.jobs.netflix.net/careers/job/790317336766",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-18"
- },
- {
-  "company": "Netflix",
-  "title": "Associate Technical Supervisor (Front End) - Netflix Animation Studios",
-  "location": "Vancouver,Canada",
-  "url": "https://explore.jobs.netflix.net/careers/job/790316431938",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-18"
- },
- {
-  "company": "Netflix",
-  "title": "Associate Technical Supervisor (Back-End) - Netflix Animation Studios",
-  "location": "Vancouver,Canada",
-  "url": "https://explore.jobs.netflix.net/careers/job/790315043614",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-18"
- },
- {
   "company": "Duolingo",
   "title": "Software Engineer I, iOS, Growth",
   "location": "Beijing, China",
@@ -821,14 +797,6 @@
   "location": "San Francisco - SF9",
   "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
   "kind": "Internship",
-  "first_seen": "2026-08-03"
- },
- {
-  "company": "Amazon",
-  "title": "Data Engineer I, Veritas, Security Tools Foundation",
-  "location": "US, WA, Seattle",
-  "url": "https://www.amazon.jobs/en/jobs/10490830/data-engineer-i-veritas-security-tools-foundation",
-  "kind": "Entry Level",
   "first_seen": "2026-08-03"
  },
  {
@@ -1435,7 +1403,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1451,7 +1419,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1498,14 +1466,6 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "ZA, Cape Town",
-  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer \u2013 2026",
   "location": "SE, Stockholm",
   "url": "https://www.amazon.jobs/en/jobs/3119051/software-development-engineer-2026",
   "kind": "Entry Level",
@@ -1516,6 +1476,14 @@
   "title": "Software Development Engineer \u2013 2026",
   "location": "ES, M, Madrid",
   "url": "https://www.amazon.jobs/en/jobs/3175845/software-development-engineer-2026",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer \u2013 2026",
+  "location": "ZA, Cape Town",
+  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1898,16 +1866,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  }
