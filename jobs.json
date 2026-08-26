@@ -57,9 +57,49 @@
  },
  {
   "company": "NVIDIA",
+  "title": "Enterprise Software Test Development Engineer (RDSS Intern)",
+  "location": "Taiwan, Taipei",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2024001",
+  "kind": "Internship",
+  "first_seen": "2026-08-26"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Developer Technology Engineering Intern, AI - 2027",
+  "location": "2 Locations",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Developer-Technology-Engineering-Intern--AI---2027_JR2024258",
+  "kind": "Internship",
+  "first_seen": "2026-08-26"
+ },
+ {
+  "company": "NVIDIA",
   "title": "Cell Modeling and Verification Engineer - New College Grad 2026",
   "location": "US, CA, Santa Clara",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cell-Modelling-and-Verification-Engineer---New-College-Grad-2026_JR2011631",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-26"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "AI Developer Technology Intern, Robotics - 2027",
+  "location": "2 Locations",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Developer-Technology-Intern--Robotics---2027_JR2024054-1",
+  "kind": "Internship",
+  "first_seen": "2026-08-26"
+ },
+ {
+  "company": "Cloudflare",
+  "title": "Associate Solutions Engineer - Beijing",
+  "location": "Hybrid",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8152697?gh_jid=8152697",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-26"
+ },
+ {
+  "company": "Amazon",
+  "title": "Sr. Applied Scientist, International Emerging Stores Payments",
+  "location": "US, WA, Seattle",
+  "url": "https://www.amazon.jobs/en/jobs/10515228/sr-applied-scientist-international-emerging-stores-payments",
   "kind": "Entry Level",
   "first_seen": "2026-08-26"
  },
@@ -396,14 +436,6 @@
   "title": "NVIDIA 2027 Internships: Hardware Engineering",
   "location": "US, CA, Santa Clara",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-22"
- },
- {
-  "company": "NVIDIA",
-  "title": "GPU Verification Engineer - New College Grad 2026",
-  "location": "2 Locations",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2023187",
   "kind": "Entry Level",
   "first_seen": "2026-08-22"
  },
@@ -1435,7 +1467,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1443,7 +1475,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
