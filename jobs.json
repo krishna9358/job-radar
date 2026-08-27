@@ -1,9 +1,17 @@
 [
  {
+  "company": "Palantir",
+  "title": "Information Security Engineer, Internship",
+  "location": "New York, NY",
+  "url": "https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb",
+  "kind": "Internship",
+  "first_seen": "2026-08-27"
+ },
+ {
   "company": "Oracle",
-  "title": "Associate Support Engineer",
+  "title": "Support Engineer 1",
   "location": "BENGALURU, KARNATAKA, India",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343406",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343805",
   "kind": "Entry Level",
   "first_seen": "2026-08-27"
  },
@@ -12,6 +20,14 @@
   "title": "Associate Support Engineer",
   "location": "United States",
   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343409",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-27"
+ },
+ {
+  "company": "Oracle",
+  "title": "Application Software Engineer 1",
+  "location": "BENGALURU, KARNATAKA, India",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343794",
   "kind": "Entry Level",
   "first_seen": "2026-08-27"
  },
@@ -29,6 +45,70 @@
   "location": "2 Locations",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer--SOC--New-College-Graduate_JR2020781",
   "kind": "New Grad",
+  "first_seen": "2026-08-27"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Diagnostic Network Software Engineer (RDSS Intern)",
+  "location": "Taiwan, Taipei",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Diagnostic-Network-Software-Engineer--RDSS-Intern-_JR2024300",
+  "kind": "Internship",
+  "first_seen": "2026-08-27"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Developer Technology Engineering Intern - 2027",
+  "location": "2 Locations",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Developer-Technology-Engineering-Intern---2027_JR2024122",
+  "kind": "Internship",
+  "first_seen": "2026-08-27"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Compiler Engineer, Backend- New College Grad 2026",
+  "location": "US, CA, Santa Clara",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-27"
+ },
+ {
+  "company": "Figma",
+  "title": "IT Engineer, Internal AI Infrastructure",
+  "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+  "url": "https://boards.greenhouse.io/figma/jobs/6164379004?gh_jid=6164379004",
+  "kind": "Entry Level",
+  "first_seen": "2026-08-27"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer Intern, Annapurna Labs - 2027",
+  "location": "US, CA, Cupertino",
+  "url": "https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027",
+  "kind": "Internship",
+  "first_seen": "2026-08-27"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer Intern, Amazon University Talent Acquisition ",
+  "location": "BR, SP, Sao Paulo",
+  "url": "https://www.amazon.jobs/en/jobs/3063220/software-development-engineer-intern-amazon-university-talent-acquisition",
+  "kind": "Internship",
+  "first_seen": "2026-08-27"
+ },
+ {
+  "company": "Amazon",
+  "title": "Robotics - Software Development Engineer Fall Intern/Co-op - 2026",
+  "location": "US, MA, Westboro",
+  "url": "https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026",
+  "kind": "Internship",
+  "first_seen": "2026-08-27"
+ },
+ {
+  "company": "Amazon",
+  "title": "ASIC Engineer Intern, Annapurna Labs - 2027",
+  "location": "US, CA, Cupertino",
+  "url": "https://www.amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027",
+  "kind": "Internship",
   "first_seen": "2026-08-27"
  },
  {
@@ -645,14 +725,6 @@
   "location": "London - UK2",
   "url": "https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093",
   "kind": "Internship",
-  "first_seen": "2026-08-18"
- },
- {
-  "company": "Salesforce",
-  "title": "Associate Technical Support Engineer",
-  "location": "India - Hyderabad",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Associate-Technical-Support-Engineer_JR356515",
-  "kind": "Entry Level",
   "first_seen": "2026-08-18"
  },
  {
@@ -1514,6 +1586,14 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
+  "location": "ZA, Cape Town",
+  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer \u2013 2026",
   "location": "SE, Stockholm",
   "url": "https://www.amazon.jobs/en/jobs/3119051/software-development-engineer-2026",
   "kind": "Entry Level",
@@ -1532,14 +1612,6 @@
   "title": "Software Development Engineer \u2013 2026",
   "location": "GB, London",
   "url": "https://www.amazon.jobs/en/jobs/10408763/software-development-engineer-2026",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer \u2013 2026",
-  "location": "ZA, Cape Town",
-  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1636,14 +1708,6 @@
   "title": "Software Dev Engineer Intern Machine Learning, Amazon Robotics",
   "location": "DE, BE, Berlin",
   "url": "https://www.amazon.jobs/en/jobs/10401402/software-dev-engineer-intern-machine-learning-amazon-robotics",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Robotics - Software Development Engineer Intern/Co-op - 2026",
-  "location": "US, MA, Westboro",
-  "url": "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1787,7 +1851,7 @@
   "company": "Amazon",
   "title": "2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
   "location": "US, CA, San Francisco",
-  "url": "https://www.amazon.jobs/en/jobs/3071340/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
+  "url": "https://www.amazon.jobs/en/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1795,16 +1859,8 @@
   "company": "Amazon",
   "title": "2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
   "location": "US, CA, San Francisco",
-  "url": "https://www.amazon.jobs/en/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
+  "url": "https://www.amazon.jobs/en/jobs/3071340/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
   "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Affirm",
-  "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
-  "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
@@ -1812,6 +1868,14 @@
   "title": "Software Engineer I, Backend (Collections)",
   "location": "Remote Spain",
   "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Affirm",
+  "title": "Software Engineer I, Backend (Collections)",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  }
