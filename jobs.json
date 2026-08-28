@@ -1,5 +1,21 @@
 [
  {
+  "company": "NVIDIA",
+  "title": "Android Software Engineer (RDSS Intern)",
+  "location": "Taiwan, Taipei",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Android-Software-Engineer--RDSS-Intern-_JR2024408",
+  "kind": "Internship",
+  "first_seen": "2026-08-28"
+ },
+ {
+  "company": "Amazon",
+  "title": "Cloud Hardware Development Engineer Intern, Annapurna Labs - 2027",
+  "location": "US, TX, Austin",
+  "url": "https://www.amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027",
+  "kind": "Internship",
+  "first_seen": "2026-08-28"
+ },
+ {
   "company": "Palantir",
   "title": "Information Security Engineer, Internship",
   "location": "New York, NY",
@@ -9,25 +25,9 @@
  },
  {
   "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "BENGALURU, KARNATAKA, India",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343805",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-27"
- },
- {
-  "company": "Oracle",
   "title": "Associate Support Engineer",
   "location": "United States",
   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343409",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-27"
- },
- {
-  "company": "Oracle",
-  "title": "Application Software Engineer 1",
-  "location": "BENGALURU, KARNATAKA, India",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343794",
   "kind": "Entry Level",
   "first_seen": "2026-08-27"
  },
@@ -614,30 +614,6 @@
   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Associate-Sr-Legal-Counsel_R169549",
   "kind": "Entry Level",
   "first_seen": "2026-08-22"
- },
- {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "Orlando, FL, United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343561",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-21"
- },
- {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "Orlando, FL, United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343556",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-21"
- },
- {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "Kansas City, MO, United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343611",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-21"
  },
  {
   "company": "Databricks",
@@ -1586,14 +1562,6 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "ZA, Cape Town",
-  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer \u2013 2026",
   "location": "SE, Stockholm",
   "url": "https://www.amazon.jobs/en/jobs/3119051/software-development-engineer-2026",
   "kind": "Entry Level",
@@ -1612,6 +1580,14 @@
   "title": "Software Development Engineer \u2013 2026",
   "location": "GB, London",
   "url": "https://www.amazon.jobs/en/jobs/10408763/software-development-engineer-2026",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer \u2013 2026",
+  "location": "ZA, Cape Town",
+  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1761,14 +1737,6 @@
  },
  {
   "company": "Amazon",
-  "title": "Engineering Intern",
-  "location": "IT, NO, Agognate",
-  "url": "https://www.amazon.jobs/en/jobs/3083050/engineering-intern",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
   "title": "Applied Scientist I, Amazon Shipping",
   "location": "IN, HR, Gurugram",
   "url": "https://www.amazon.jobs/en/jobs/10438310/applied-scientist-i-amazon-shipping",
@@ -1851,7 +1819,7 @@
   "company": "Amazon",
   "title": "2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
   "location": "US, CA, San Francisco",
-  "url": "https://www.amazon.jobs/en/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
+  "url": "https://www.amazon.jobs/en/jobs/3071340/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1859,16 +1827,8 @@
   "company": "Amazon",
   "title": "2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
   "location": "US, CA, San Francisco",
-  "url": "https://www.amazon.jobs/en/jobs/3071340/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
+  "url": "https://www.amazon.jobs/en/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
   "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Affirm",
-  "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
-  "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
@@ -1876,6 +1836,14 @@
   "title": "Software Engineer I, Backend (Collections)",
   "location": "Remote Poland",
   "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Affirm",
+  "title": "Software Engineer I, Backend (Collections)",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  }
