@@ -2,6 +2,14 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+  "kind": "New Grad",
+  "first_seen": "2026-09-01"
+ },
+ {
+  "company": "Stripe",
+  "title": "Software Engineer, New Grad",
   "location": "Toronto",
   "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
@@ -12,14 +20,6 @@
   "title": "Software Engineer, New Grad",
   "location": "Bucharest",
   "url": "https://stripe.com/jobs/search?gh_jid=8130922",
-  "kind": "New Grad",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "Stripe",
-  "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -60,6 +60,14 @@
   "title": "ASIC Design Engineer (RDSS Intern)",
   "location": "Taiwan, Hsinchu",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/ASIC-Design-Engineer--RDSS-Intern-_JR2024822",
+  "kind": "Internship",
+  "first_seen": "2026-09-01"
+ },
+ {
+  "company": "Atlassian",
+  "title": "Software Engineer Intern, 2027 Summer U.S.",
+  "location": "San Francisco - United States -   San Francisco, California 94104 United States; Remote - Remote",
+  "url": "https://careers-americas.icims.com/jobs/26266/software-engineer-intern%2c-2027-summer-u.s./job",
   "kind": "Internship",
   "first_seen": "2026-09-01"
  },
@@ -117,14 +125,6 @@
   "location": "London, United Kingdom",
   "url": "https://jobs.lever.co/palantir/cadc0eb2-2703-43e4-8e4f-41edf5b071c6",
   "kind": "New Grad",
-  "first_seen": "2026-08-31"
- },
- {
-  "company": "Oracle",
-  "title": "Associate Support Engineer",
-  "location": "BENGALURU, KARNATAKA, India",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343797",
-  "kind": "Entry Level",
   "first_seen": "2026-08-31"
  },
  {
@@ -225,14 +225,6 @@
  },
  {
   "company": "NVIDIA",
-  "title": "Test Development Software Engineering Intern - 2027",
-  "location": "China, Shanghai",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Test-Development-Software-Engineering-Intern---2027_JR2023632",
-  "kind": "Internship",
-  "first_seen": "2026-08-29"
- },
- {
-  "company": "NVIDIA",
   "title": "Technical Product Marketing Engineer, Metropolis - New College Grad 2026",
   "location": "US, CA, Santa Clara",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Engineer--Metropolis---New-College-Grad-2026_JR2022906-1",
@@ -281,14 +273,6 @@
  },
  {
   "company": "NVIDIA",
-  "title": "NVIDIA 2027 New College Graduate: Hardware ASIC Engineering - China",
-  "location": "China, Shanghai",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Hardware-ASIC-Engineering---China_JR2024110",
-  "kind": "New Grad",
-  "first_seen": "2026-08-29"
- },
- {
-  "company": "NVIDIA",
   "title": "NVIDIA 2027 New College Graduate: Deep Learning and High-Performance Computing Engineering - China",
   "location": "3 Locations",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Deep-Learning-and-High-Performance-Computing-Engineering---China_JR2024107",
@@ -308,22 +292,6 @@
   "title": "Enterprise Software Test Development Engineer (RDSS Intern)",
   "location": "Taiwan, Taipei",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2024001",
-  "kind": "Internship",
-  "first_seen": "2026-08-29"
- },
- {
-  "company": "NVIDIA",
-  "title": "Enterprise Software Test Development Engineer (RDSS Intern)",
-  "location": "Taiwan, Taipei",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2023913",
-  "kind": "Internship",
-  "first_seen": "2026-08-29"
- },
- {
-  "company": "NVIDIA",
-  "title": "Enterprise Software Test Development Engineer (RDSS Intern)",
-  "location": "Taiwan, Taipei",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2023905",
   "kind": "Internship",
   "first_seen": "2026-08-29"
  },
@@ -922,16 +890,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Servicing International)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
   "kind": "Entry Level",
   "first_seen": "2026-08-05"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Servicing International)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
   "kind": "Entry Level",
   "first_seen": "2026-08-05"
  },
@@ -1498,16 +1466,16 @@
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Shanghai, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
+  "location": "Beijing, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Beijing, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
+  "location": "Shanghai, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1547,6 +1515,14 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+  "kind": "Internship",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Cloudflare",
+  "title": "Research Engineer Intern (Fall 2026)",
+  "location": "In-Office",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
   "kind": "Internship",
   "first_seen": "2026-07-29"
@@ -1556,14 +1532,6 @@
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Cloudflare",
-  "title": "Research Engineer Intern (Fall 2026)",
-  "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
