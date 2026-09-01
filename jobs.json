@@ -1,17 +1,49 @@
 [
  {
   "company": "Stripe",
-  "title": "Software Engineer, New Grad - Frontend",
-  "location": "Barcelona",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130927",
+  "title": "Software Engineer, New Grad",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
-  "first_seen": "2026-08-31"
+  "first_seen": "2026-09-01"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "kind": "New Grad",
+  "first_seen": "2026-09-01"
+ },
+ {
+  "company": "Stripe",
+  "title": "Software Engineer, New Grad",
+  "location": "Bucharest",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+  "kind": "New Grad",
+  "first_seen": "2026-09-01"
+ },
+ {
+  "company": "Stripe",
+  "title": "Software Engineer, Intern (Summer or Winter)",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130805",
+  "kind": "Internship",
+  "first_seen": "2026-09-01"
+ },
+ {
+  "company": "Stripe",
+  "title": "Software Engineer, Intern ",
+  "location": "Bucharest",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130807",
+  "kind": "Internship",
+  "first_seen": "2026-09-01"
+ },
+ {
+  "company": "Stripe",
+  "title": "Software Engineer, New Grad - Frontend",
+  "location": "Barcelona",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130927",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
@@ -25,7 +57,15 @@
  },
  {
   "company": "Stripe",
-  "title": "Software Engineer, Intern ",
+  "title": "Software Engineer, New Grad",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+  "kind": "New Grad",
+  "first_seen": "2026-08-31"
+ },
+ {
+  "company": "Stripe",
+  "title": "Software Engineer, Intern (Summer or Winter)",
   "location": "San Francisco, Seattle, New York City",
   "url": "https://stripe.com/jobs/search?gh_jid=8128745",
   "kind": "Internship",
@@ -697,7 +737,7 @@
  },
  {
   "company": "Stripe",
-  "title": "Software Engineer, Intern (Summer)",
+  "title": "Software Engineer, Intern (Summer or Winter)",
   "location": "Dublin",
   "url": "https://stripe.com/jobs/search?gh_jid=8097801",
   "kind": "Internship",
@@ -1507,7 +1547,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1523,7 +1563,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
