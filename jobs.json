@@ -2,6 +2,14 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
+  "location": "Bucharest",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+  "kind": "New Grad",
+  "first_seen": "2026-09-01"
+ },
+ {
+  "company": "Stripe",
+  "title": "Software Engineer, New Grad",
   "location": "Dublin",
   "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
@@ -12,14 +20,6 @@
   "title": "Software Engineer, New Grad",
   "location": "Toronto",
   "url": "https://stripe.com/jobs/search?gh_jid=8157838",
-  "kind": "New Grad",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "Stripe",
-  "title": "Software Engineer, New Grad",
-  "location": "Bucharest",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -36,6 +36,38 @@
   "title": "Software Engineer, Intern ",
   "location": "Bucharest",
   "url": "https://stripe.com/jobs/search?gh_jid=8130807",
+  "kind": "Internship",
+  "first_seen": "2026-09-01"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Test Development Software Engineering Intern - 2027",
+  "location": "China, Shanghai",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Test-Development-Software-Engineering-Intern---2027_JR2023632",
+  "kind": "Internship",
+  "first_seen": "2026-09-01"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "NVIDIA 2027 New College Graduate: Hardware ASIC Engineering - China",
+  "location": "China, Shanghai",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Hardware-ASIC-Engineering---China_JR2024110",
+  "kind": "New Grad",
+  "first_seen": "2026-09-01"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Enterprise Software Test Development Engineer (RDSS Intern)",
+  "location": "Taiwan, Taipei",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2023913",
+  "kind": "Internship",
+  "first_seen": "2026-09-01"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Enterprise Software Test Development Engineer (RDSS Intern)",
+  "location": "Taiwan, Taipei",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2023905",
   "kind": "Internship",
   "first_seen": "2026-09-01"
  },
@@ -225,14 +257,6 @@
  },
  {
   "company": "NVIDIA",
-  "title": "Technical Product Marketing Engineer, Metropolis - New College Grad 2026",
-  "location": "US, CA, Santa Clara",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Engineer--Metropolis---New-College-Grad-2026_JR2022906-1",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-29"
- },
- {
-  "company": "NVIDIA",
   "title": "System Software Engineer, SOC - New College Graduate",
   "location": "2 Locations",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer--SOC--New-College-Graduate_JR2020781",
@@ -341,14 +365,6 @@
   "location": "China, Shanghai",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023641",
   "kind": "Internship",
-  "first_seen": "2026-08-29"
- },
- {
-  "company": "NVIDIA",
-  "title": "Compiler Engineer, Backend- New College Grad 2026",
-  "location": "US, CA, Santa Clara",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290",
-  "kind": "Entry Level",
   "first_seen": "2026-08-29"
  },
  {
@@ -633,14 +649,6 @@
  },
  {
   "company": "Oracle",
-  "title": "Platform Software Engineer 1",
-  "location": "Nashville, TN, United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343770",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-24"
- },
- {
-  "company": "Oracle",
   "title": "Support Engineer 1",
   "location": "Kansas City, MO, United States",
   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/336894",
@@ -716,14 +724,6 @@
   "title": "Software Engineer, Intern (Summer or Winter)",
   "location": "Dublin",
   "url": "https://stripe.com/jobs/search?gh_jid=8097801",
-  "kind": "Internship",
-  "first_seen": "2026-08-18"
- },
- {
-  "company": "Samsara",
-  "title": "Software Engineering Internship - London",
-  "location": "London - UK2",
-  "url": "https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093",
   "kind": "Internship",
   "first_seen": "2026-08-18"
  },
@@ -1811,7 +1811,7 @@
   "company": "Amazon",
   "title": "2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
   "location": "US, CA, San Francisco",
-  "url": "https://www.amazon.jobs/en/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
+  "url": "https://www.amazon.jobs/en/jobs/3071340/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1819,7 +1819,7 @@
   "company": "Amazon",
   "title": "2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
   "location": "US, CA, San Francisco",
-  "url": "https://www.amazon.jobs/en/jobs/3071340/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
+  "url": "https://www.amazon.jobs/en/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
