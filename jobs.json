@@ -32,12 +32,28 @@
   "first_seen": "2026-09-02"
  },
  {
+  "company": "Amazon",
+  "title": "Software Development Engineer Intern, Amazon University Talent Acquisition ",
+  "location": "BR, SP, Sao Paulo",
+  "url": "https://www.amazon.jobs/en/jobs/3063220/software-development-engineer-intern-amazon-university-talent-acquisition",
+  "kind": "Internship",
+  "first_seen": "2026-09-02"
+ },
+ {
   "company": "Adobe",
   "title": "Computer Scientist I ( Full Stack - Frontend Heavy )",
   "location": "Bangalore",
   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist---Full-Stack---Frontend-Heavy--_R170649-1",
   "kind": "Entry Level",
   "first_seen": "2026-09-02"
+ },
+ {
+  "company": "Stripe",
+  "title": "Software Engineer, New Grad",
+  "location": "Bucharest",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+  "kind": "New Grad",
+  "first_seen": "2026-09-01"
  },
  {
   "company": "Stripe",
@@ -52,14 +68,6 @@
   "title": "Software Engineer, New Grad",
   "location": "Dublin",
   "url": "https://stripe.com/jobs/search?gh_jid=8130881",
-  "kind": "New Grad",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "Stripe",
-  "title": "Software Engineer, New Grad",
-  "location": "Bucharest",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -122,16 +130,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "London",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+  "location": "London",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
@@ -276,14 +284,6 @@
   "title": "System Design Validation Engineer (RDSS Intern)",
   "location": "Taiwan, Taipei",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Validation-Engineer--RDSS-Intern-_JR2023644",
-  "kind": "Internship",
-  "first_seen": "2026-08-29"
- },
- {
-  "company": "NVIDIA",
-  "title": "Software Engineering Intern, Test Development - 2027",
-  "location": "China, Shanghai",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023649-1",
   "kind": "Internship",
   "first_seen": "2026-08-29"
  },
@@ -842,16 +842,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Servicing International)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
   "kind": "Entry Level",
   "first_seen": "2026-08-05"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Servicing International)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
   "kind": "Entry Level",
   "first_seen": "2026-08-05"
  },
@@ -1467,7 +1467,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1475,7 +1475,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1522,22 +1522,6 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "ZA, Cape Town",
-  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer \u2013 2026",
-  "location": "GB, London",
-  "url": "https://www.amazon.jobs/en/jobs/10408763/software-development-engineer-2026",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer \u2013 2026",
   "location": "SE, Stockholm",
   "url": "https://www.amazon.jobs/en/jobs/3119051/software-development-engineer-2026",
   "kind": "Entry Level",
@@ -1548,6 +1532,22 @@
   "title": "Software Development Engineer \u2013 2026",
   "location": "ES, M, Madrid",
   "url": "https://www.amazon.jobs/en/jobs/3175845/software-development-engineer-2026",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer \u2013 2026",
+  "location": "ZA, Cape Town",
+  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer \u2013 2026",
+  "location": "GB, London",
+  "url": "https://www.amazon.jobs/en/jobs/10408763/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
