@@ -1,5 +1,21 @@
 [
  {
+  "company": "Salesforce",
+  "title": "Associate Technical Support Engineer",
+  "location": "India - Hyderabad",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Associate-Technical-Support-Engineer_JR356515",
+  "kind": "Entry Level",
+  "first_seen": "2026-09-02"
+ },
+ {
+  "company": "Perplexity",
+  "title": "Internship - Machine Learning Research Engineer",
+  "location": "Berlin",
+  "url": "https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c",
+  "kind": "Internship",
+  "first_seen": "2026-09-02"
+ },
+ {
   "company": "Oracle",
   "title": "Platform Software Engineer 1",
   "location": "Nashville, TN, United States",
@@ -16,6 +32,14 @@
   "first_seen": "2026-09-02"
  },
  {
+  "company": "Adobe",
+  "title": "Computer Scientist I ( Full Stack - Frontend Heavy )",
+  "location": "Bangalore",
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist---Full-Stack---Frontend-Heavy--_R170649-1",
+  "kind": "Entry Level",
+  "first_seen": "2026-09-02"
+ },
+ {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
   "location": "Toronto",
@@ -26,16 +50,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Bucharest",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+  "location": "Bucharest",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -313,34 +337,10 @@
  },
  {
   "company": "NVIDIA",
-  "title": "Deep Learning Software Engineering Intern, Test Development - 2027",
-  "location": "China, Shanghai",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023639",
-  "kind": "Internship",
-  "first_seen": "2026-08-29"
- },
- {
-  "company": "NVIDIA",
-  "title": "Deep Learning Software Engineering Intern, Test Development - 2027",
-  "location": "China, Shanghai",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023641",
-  "kind": "Internship",
-  "first_seen": "2026-08-29"
- },
- {
-  "company": "NVIDIA",
   "title": "Cell Modeling and Verification Engineer - New College Grad 2026",
   "location": "US, CA, Santa Clara",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cell-Modelling-and-Verification-Engineer---New-College-Grad-2026_JR2011631",
   "kind": "Entry Level",
-  "first_seen": "2026-08-29"
- },
- {
-  "company": "NVIDIA",
-  "title": "CUDA Full Stack & AI Test Dev Intern - 2027",
-  "location": "China, Shanghai",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/CUDA-Full-Stack---AI-Test-Dev-Intern---2027_JR2023666-1",
-  "kind": "Internship",
   "first_seen": "2026-08-29"
  },
  {
@@ -1475,7 +1475,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1483,7 +1483,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1530,6 +1530,14 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
+  "location": "GB, London",
+  "url": "https://www.amazon.jobs/en/jobs/10408763/software-development-engineer-2026",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer \u2013 2026",
   "location": "SE, Stockholm",
   "url": "https://www.amazon.jobs/en/jobs/3119051/software-development-engineer-2026",
   "kind": "Entry Level",
@@ -1540,14 +1548,6 @@
   "title": "Software Development Engineer \u2013 2026",
   "location": "ES, M, Madrid",
   "url": "https://www.amazon.jobs/en/jobs/3175845/software-development-engineer-2026",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer \u2013 2026",
-  "location": "GB, London",
-  "url": "https://www.amazon.jobs/en/jobs/10408763/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1628,14 +1628,6 @@
   "title": "Software Dev Engineer Internship - Embedded Development (Linux)",
   "location": "DE, Dresden",
   "url": "https://www.amazon.jobs/en/jobs/3130528/software-dev-engineer-internship-embedded-development-linux",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Software Dev Engineer Intern Machine Learning, Amazon Robotics",
-  "location": "DE, BE, Berlin",
-  "url": "https://www.amazon.jobs/en/jobs/10401402/software-dev-engineer-intern-machine-learning-amazon-robotics",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
