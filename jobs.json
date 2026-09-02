@@ -1,5 +1,13 @@
 [
  {
+  "company": "Samsara",
+  "title": "Software Engineering Internship - London",
+  "location": "London - UK2",
+  "url": "https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093",
+  "kind": "Internship",
+  "first_seen": "2026-09-02"
+ },
+ {
   "company": "Salesforce",
   "title": "Associate Technical Support Engineer",
   "location": "India - Hyderabad",
@@ -17,9 +25,9 @@
  },
  {
   "company": "Oracle",
-  "title": "Platform Software Engineer 1",
+  "title": "Core Infrastructure Engineer 1",
   "location": "Nashville, TN, United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343770",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/344360",
   "kind": "Entry Level",
   "first_seen": "2026-09-02"
  },
@@ -29,6 +37,14 @@
   "location": "US, CA, Santa Clara",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Systems-Engineering-Rotation-Engineer---New-College-Graduate-2026_JR2024713",
   "kind": "New Grad",
+  "first_seen": "2026-09-02"
+ },
+ {
+  "company": "Atlassian",
+  "title": "Software Engineer Intern, 2027 Canada",
+  "location": "Canada -     Canada; Remote - Remote",
+  "url": "https://campus-globalcareers-atlassian.icims.com/jobs/26275/software-engineer-intern%2c-2027-canada/job",
+  "kind": "Internship",
   "first_seen": "2026-09-02"
  },
  {
@@ -50,8 +66,8 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Bucharest",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -66,8 +82,8 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+  "location": "Bucharest",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -269,14 +285,6 @@
   "location": "2 Locations",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer--SOC--New-College-Graduate_JR2020781",
   "kind": "New Grad",
-  "first_seen": "2026-08-29"
- },
- {
-  "company": "NVIDIA",
-  "title": "System Software Engineer \u2013 Embedded Power Management (RDSS Intern)",
-  "location": "Taiwan, Taipei",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Embedded-Power-Management--RDSS-Intern-_JR2023967",
-  "kind": "Internship",
   "first_seen": "2026-08-29"
  },
  {
@@ -776,14 +784,6 @@
   "first_seen": "2026-08-15"
  },
  {
-  "company": "Amazon",
-  "title": "Applied Scientist, Internal Audit",
-  "location": "US, WA, Seattle",
-  "url": "https://www.amazon.jobs/en/jobs/10502711/applied-scientist-internal-audit",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-15"
- },
- {
   "company": "Cloudflare",
   "title": "Software Engineer Intern (Fall 2026)",
   "location": "In-Office",
@@ -842,16 +842,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Servicing International)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
   "kind": "Entry Level",
   "first_seen": "2026-08-05"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Servicing International)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
   "kind": "Entry Level",
   "first_seen": "2026-08-05"
  },
@@ -1467,7 +1467,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1475,7 +1475,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
