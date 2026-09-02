@@ -1,5 +1,29 @@
 [
  {
+  "company": "Oracle",
+  "title": "Platform Software Engineer 1",
+  "location": "Nashville, TN, United States",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343770",
+  "kind": "Entry Level",
+  "first_seen": "2026-09-02"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Applied Systems Engineering Rotation Engineer - New College Graduate 2026",
+  "location": "US, CA, Santa Clara",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Systems-Engineering-Rotation-Engineer---New-College-Graduate-2026_JR2024713",
+  "kind": "New Grad",
+  "first_seen": "2026-09-02"
+ },
+ {
+  "company": "Stripe",
+  "title": "Software Engineer, New Grad",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "kind": "New Grad",
+  "first_seen": "2026-09-01"
+ },
+ {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
   "location": "Bucharest",
@@ -17,14 +41,6 @@
  },
  {
   "company": "Stripe",
-  "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
-  "kind": "New Grad",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "Stripe",
   "title": "Software Engineer, Intern (Summer or Winter)",
   "location": "Toronto",
   "url": "https://stripe.com/jobs/search?gh_jid=8130805",
@@ -36,38 +52,6 @@
   "title": "Software Engineer, Intern ",
   "location": "Bucharest",
   "url": "https://stripe.com/jobs/search?gh_jid=8130807",
-  "kind": "Internship",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "NVIDIA",
-  "title": "Test Development Software Engineering Intern - 2027",
-  "location": "China, Shanghai",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Test-Development-Software-Engineering-Intern---2027_JR2023632",
-  "kind": "Internship",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "NVIDIA",
-  "title": "NVIDIA 2027 New College Graduate: Hardware ASIC Engineering - China",
-  "location": "China, Shanghai",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Hardware-ASIC-Engineering---China_JR2024110",
-  "kind": "New Grad",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "NVIDIA",
-  "title": "Enterprise Software Test Development Engineer (RDSS Intern)",
-  "location": "Taiwan, Taipei",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2023913",
-  "kind": "Internship",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "NVIDIA",
-  "title": "Enterprise Software Test Development Engineer (RDSS Intern)",
-  "location": "Taiwan, Taipei",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2023905",
   "kind": "Internship",
   "first_seen": "2026-09-01"
  },
@@ -232,14 +216,6 @@
   "first_seen": "2026-08-30"
  },
  {
-  "company": "Amazon",
-  "title": "Data Scientist I, Amazon Currency Convertor",
-  "location": "US, WA, Seattle",
-  "url": "https://www.amazon.jobs/en/jobs/10521278/data-scientist-i-amazon-currency-convertor",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-30"
- },
- {
   "company": "Oracle",
   "title": "Support Engineer 1",
   "location": "Orlando, FL, United States",
@@ -285,22 +261,6 @@
   "location": "China, Shanghai",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023649-1",
   "kind": "Internship",
-  "first_seen": "2026-08-29"
- },
- {
-  "company": "NVIDIA",
-  "title": "NVIDIA 2027 New College Graduate: Software Engineering - China",
-  "location": "3 Locations",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Software-Engineering---China_JR2024111",
-  "kind": "New Grad",
-  "first_seen": "2026-08-29"
- },
- {
-  "company": "NVIDIA",
-  "title": "NVIDIA 2027 New College Graduate: Deep Learning and High-Performance Computing Engineering - China",
-  "location": "3 Locations",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Deep-Learning-and-High-Performance-Computing-Engineering---China_JR2024107",
-  "kind": "New Grad",
   "first_seen": "2026-08-29"
  },
  {
@@ -558,14 +518,6 @@
   "url": "https://www.amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027",
   "kind": "Internship",
   "first_seen": "2026-08-27"
- },
- {
-  "company": "Zip",
-  "title": "Software Engineer, New Grad (2027 Start)",
-  "location": "San Francisco",
-  "url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea",
-  "kind": "New Grad",
-  "first_seen": "2026-08-26"
  },
  {
   "company": "Zip",
@@ -890,16 +842,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Servicing International)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
   "kind": "Entry Level",
   "first_seen": "2026-08-05"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Servicing International)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
   "kind": "Entry Level",
   "first_seen": "2026-08-05"
  },
@@ -1523,7 +1475,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1531,7 +1483,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1570,6 +1522,14 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
+  "location": "ZA, Cape Town",
+  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer \u2013 2026",
   "location": "SE, Stockholm",
   "url": "https://www.amazon.jobs/en/jobs/3119051/software-development-engineer-2026",
   "kind": "Entry Level",
@@ -1580,14 +1540,6 @@
   "title": "Software Development Engineer \u2013 2026",
   "location": "ES, M, Madrid",
   "url": "https://www.amazon.jobs/en/jobs/3175845/software-development-engineer-2026",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer \u2013 2026",
-  "location": "ZA, Cape Town",
-  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1811,7 +1763,7 @@
   "company": "Amazon",
   "title": "2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
   "location": "US, CA, San Francisco",
-  "url": "https://www.amazon.jobs/en/jobs/3071340/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
+  "url": "https://www.amazon.jobs/en/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1819,7 +1771,7 @@
   "company": "Amazon",
   "title": "2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
   "location": "US, CA, San Francisco",
-  "url": "https://www.amazon.jobs/en/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
+  "url": "https://www.amazon.jobs/en/jobs/3071340/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
