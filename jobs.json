@@ -9,10 +9,18 @@
  },
  {
   "company": "Oracle",
-  "title": "Platform Software Engineer 1",
+  "title": "Software Developer 1",
   "location": "Nashville, TN, United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343770",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/344446",
   "kind": "Entry Level",
+  "first_seen": "2026-09-03"
+ },
+ {
+  "company": "Adobe",
+  "title": "2027 Intern - Software Engineer",
+  "location": "7 Locations",
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
+  "kind": "Internship",
   "first_seen": "2026-09-03"
  },
  {
@@ -66,8 +74,8 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -82,8 +90,8 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -464,14 +472,6 @@
   "first_seen": "2026-08-27"
  },
  {
-  "company": "Oracle",
-  "title": "Application Software Engineer 1",
-  "location": "Nashville, TN, United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343874",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-27"
- },
- {
   "company": "Figma",
   "title": "IT Engineer, Internal AI Infrastructure",
   "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
@@ -606,14 +606,6 @@
   "url": "https://www.amazon.jobs/en/jobs/10428762/front-end-engineer-2026-us",
   "kind": "Entry Level",
   "first_seen": "2026-08-21"
- },
- {
-  "company": "Samsara",
-  "title": "Software Engineer I (New Grad)",
-  "location": "London - UK2",
-  "url": "https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345",
-  "kind": "New Grad",
-  "first_seen": "2026-08-20"
  },
  {
   "company": "Cloudflare",
@@ -818,16 +810,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Servicing International)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
   "kind": "Entry Level",
   "first_seen": "2026-08-05"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Servicing International)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
   "kind": "Entry Level",
   "first_seen": "2026-08-05"
  },
@@ -1490,6 +1482,14 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
+  "location": "ZA, Cape Town",
+  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer \u2013 2026",
   "location": "SE, Stockholm",
   "url": "https://www.amazon.jobs/en/jobs/3119051/software-development-engineer-2026",
   "kind": "Entry Level",
@@ -1500,14 +1500,6 @@
   "title": "Software Development Engineer \u2013 2026",
   "location": "ES, M, Madrid",
   "url": "https://www.amazon.jobs/en/jobs/3175845/software-development-engineer-2026",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer \u2013 2026",
-  "location": "ZA, Cape Town",
-  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
