@@ -1,5 +1,29 @@
 [
  {
+  "company": "Scale AI",
+  "title": "Software Engineering Intern (Summer 2027) ",
+  "location": "San Francisco, CA",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
+  "kind": "Internship",
+  "first_seen": "2026-09-04"
+ },
+ {
+  "company": "Scale AI",
+  "title": "Software Engineer - New Grad",
+  "location": "San Francisco, CA",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+  "kind": "New Grad",
+  "first_seen": "2026-09-04"
+ },
+ {
+  "company": "Samsara",
+  "title": "Software Engineer I (New Grad)",
+  "location": "London - UK2",
+  "url": "https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345",
+  "kind": "New Grad",
+  "first_seen": "2026-09-04"
+ },
+ {
   "company": "Salesforce",
   "title": "Associate proactive Monitoring Engineer",
   "location": "India - Hyderabad",
@@ -16,11 +40,11 @@
   "first_seen": "2026-09-04"
  },
  {
-  "company": "DoorDash",
-  "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US",
-  "location": "Los Angeles, CA; New York, NY; San Francisco, CA; Sunnyvale, CA ; Seattle, WA",
-  "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709",
-  "kind": "Entry Level",
+  "company": "Amazon",
+  "title": "Software Development Engineer, Early Careers ",
+  "location": "US, NJ, Newark",
+  "url": "https://www.amazon.jobs/en/jobs/10529830/software-development-engineer-early-careers",
+  "kind": "New Grad",
   "first_seen": "2026-09-04"
  },
  {
@@ -146,8 +170,8 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -162,8 +186,8 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -226,16 +250,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+  "location": "London",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "London",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
@@ -389,14 +413,6 @@
   "location": "2 Locations",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Developer-Technology-Engineering-Intern---2027_JR2024122",
   "kind": "Internship",
-  "first_seen": "2026-08-29"
- },
- {
-  "company": "NVIDIA",
-  "title": "Cell Modeling and Verification Engineer - New College Grad 2026",
-  "location": "US, CA, Santa Clara",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cell-Modelling-and-Verification-Engineer---New-College-Grad-2026_JR2011631",
-  "kind": "Entry Level",
   "first_seen": "2026-08-29"
  },
  {
@@ -1452,30 +1468,6 @@
   "title": "Software Engineer Intern (Fall 2026) - Austin, TX",
   "location": "In-Office",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Cloudflare",
-  "title": "Research Engineer Intern (Fall 2026)",
-  "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Cloudflare",
-  "title": "Research Engineer Intern (Fall 2026)",
-  "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Cloudflare",
-  "title": "Research Engineer Intern (Fall 2026)",
-  "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
