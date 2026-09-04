@@ -1,5 +1,13 @@
 [
  {
+  "company": "Amazon",
+  "title": "Software Development Engineer Intern, ROBOTICS - 2027",
+  "location": "US, MA, North Reading",
+  "url": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027",
+  "kind": "Internship",
+  "first_seen": "2026-09-04"
+ },
+ {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
   "location": "Singapore",
@@ -114,14 +122,6 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
-  "kind": "New Grad",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "Stripe",
-  "title": "Software Engineer, New Grad",
   "location": "Toronto",
   "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
@@ -132,6 +132,14 @@
   "title": "Software Engineer, New Grad",
   "location": "Bucharest",
   "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+  "kind": "New Grad",
+  "first_seen": "2026-09-01"
+ },
+ {
+  "company": "Stripe",
+  "title": "Software Engineer, New Grad",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -194,16 +202,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+  "location": "London",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "London",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
@@ -280,14 +288,6 @@
   "first_seen": "2026-08-31"
  },
  {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "Kansas City, MO, United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343611",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-30"
- },
- {
   "company": "NVIDIA",
   "title": "System Software Engineer (RDSS Intern)",
   "location": "Taiwan, Taipei",
@@ -310,22 +310,6 @@
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023652",
   "kind": "Internship",
   "first_seen": "2026-08-30"
- },
- {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "Orlando, FL, United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343561",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-29"
- },
- {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "Orlando, FL, United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343556",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-29"
  },
  {
   "company": "NVIDIA",
@@ -984,14 +968,6 @@
   "first_seen": "2026-07-29"
  },
  {
-  "company": "Ramp",
-  "title": "Software Engineer Internship, Android ",
-  "location": "New York, NY (HQ)",
-  "url": "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
   "company": "Perplexity",
   "title": "Internship - Search Machine Learning Engineer",
   "location": "Belgrade",
@@ -1459,7 +1435,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1475,7 +1451,7 @@
   "company": "Cloudflare",
   "title": "Research Engineer Intern (Fall 2026)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1514,6 +1490,14 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
+  "location": "ZA, Cape Town",
+  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer \u2013 2026",
   "location": "SE, Stockholm",
   "url": "https://www.amazon.jobs/en/jobs/3119051/software-development-engineer-2026",
   "kind": "Entry Level",
@@ -1530,24 +1514,16 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "RO, Iasi",
-  "url": "https://www.amazon.jobs/en/jobs/3119226/software-development-engineer-2026",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer \u2013 2026",
-  "location": "ZA, Cape Town",
-  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer \u2013 2026",
   "location": "GB, London",
   "url": "https://www.amazon.jobs/en/jobs/10408763/software-development-engineer-2026",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer \u2013 2026",
+  "location": "RO, Iasi",
+  "url": "https://www.amazon.jobs/en/jobs/3119226/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
