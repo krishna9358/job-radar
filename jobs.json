@@ -1,5 +1,21 @@
 [
  {
+  "company": "Zip",
+  "title": "Software Engineer, New Grad (2027 Start)",
+  "location": "San Francisco",
+  "url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea",
+  "kind": "New Grad",
+  "first_seen": "2026-09-04"
+ },
+ {
+  "company": "Zip",
+  "title": "Software Engineer Intern (Winter 2027)",
+  "location": "Toronto",
+  "url": "https://jobs.ashbyhq.com/zip/2bc7327b-1c06-418a-beeb-bec1dd70480e",
+  "kind": "Internship",
+  "first_seen": "2026-09-04"
+ },
+ {
   "company": "Scale AI",
   "title": "Software Engineering Intern (Summer 2027) ",
   "location": "San Francisco, CA",
@@ -40,10 +56,42 @@
   "first_seen": "2026-09-04"
  },
  {
+  "company": "NVIDIA",
+  "title": "Deep Learning Algorithm Engineering Intern - 2026",
+  "location": "Switzerland, Zurich",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Deep-Learning-Algorithm-Engineering-Intern---2026_JR2012814",
+  "kind": "Internship",
+  "first_seen": "2026-09-04"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Compute System Arch AI Infra Intern - 2027",
+  "location": "China, Shanghai",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Compute-System-Arch-AI-Infra-Intern---2027_JR2023889",
+  "kind": "Internship",
+  "first_seen": "2026-09-04"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "AI Developer Technology Engineering Intern - 2027",
+  "location": "3 Locations",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineering-Intern---2027_JR2024818",
+  "kind": "Internship",
+  "first_seen": "2026-09-04"
+ },
+ {
   "company": "Amazon",
   "title": "Software Development Engineer, Early Careers ",
   "location": "US, NJ, Newark",
   "url": "https://www.amazon.jobs/en/jobs/10529830/software-development-engineer-early-careers",
+  "kind": "New Grad",
+  "first_seen": "2026-09-04"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer, Early Careers ",
+  "location": "US, MA, Cambridge",
+  "url": "https://www.amazon.jobs/en/jobs/10530257/software-development-engineer-early-careers",
   "kind": "New Grad",
   "first_seen": "2026-09-04"
  },
@@ -128,14 +176,6 @@
   "first_seen": "2026-09-02"
  },
  {
-  "company": "Salesforce",
-  "title": "Associate Technical Support Engineer",
-  "location": "India - Hyderabad",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Associate-Technical-Support-Engineer_JR356515",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-02"
- },
- {
   "company": "Perplexity",
   "title": "Internship - Machine Learning Research Engineer",
   "location": "Berlin",
@@ -170,14 +210,6 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
-  "kind": "New Grad",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "Stripe",
-  "title": "Software Engineer, New Grad",
   "location": "Bucharest",
   "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
@@ -188,6 +220,14 @@
   "title": "Software Engineer, New Grad",
   "location": "Dublin",
   "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+  "kind": "New Grad",
+  "first_seen": "2026-09-01"
+ },
+ {
+  "company": "Stripe",
+  "title": "Software Engineer, New Grad",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -653,14 +693,6 @@
   "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
   "kind": "Internship",
-  "first_seen": "2026-08-21"
- },
- {
-  "company": "Amazon",
-  "title": "Front-End Engineer \u2013 2026 (US)",
-  "location": "US, WA, Seattle",
-  "url": "https://www.amazon.jobs/en/jobs/10428762/front-end-engineer-2026-us",
-  "kind": "Entry Level",
   "first_seen": "2026-08-21"
  },
  {
@@ -1506,8 +1538,8 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "RO, Iasi",
-  "url": "https://www.amazon.jobs/en/jobs/3119226/software-development-engineer-2026",
+  "location": "ZA, Cape Town",
+  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1530,16 +1562,16 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "ZA, Cape Town",
-  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
+  "location": "GB, London",
+  "url": "https://www.amazon.jobs/en/jobs/10408763/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "GB, London",
-  "url": "https://www.amazon.jobs/en/jobs/10408763/software-development-engineer-2026",
+  "location": "RO, Iasi",
+  "url": "https://www.amazon.jobs/en/jobs/3119226/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1572,14 +1604,6 @@
   "title": "Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)",
   "location": "US, WA, Seattle",
   "url": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer Fall Intern - Military Veteran",
-  "location": "US, WA, Seattle",
-  "url": "https://www.amazon.jobs/en/jobs/3179209/software-development-engineer-fall-intern-military-veteran",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -1641,14 +1665,6 @@
  },
  {
   "company": "Amazon",
-  "title": "Jr. Software Development Engineer - Santa Barbara, CA, Jr. Developer Program",
-  "location": "US, CA, Santa Barbara",
-  "url": "https://www.amazon.jobs/en/jobs/10464138/jr-software-development-engineer-santa-barbara-ca-jr-developer-program",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
   "title": "Jr. Software Develoment Engineer, Jr. Developer Program",
   "location": "ES, M, Madrid",
   "url": "https://www.amazon.jobs/en/jobs/10479837/jr-software-develoment-engineer-jr-developer-program",
@@ -1698,6 +1714,14 @@
  {
   "company": "Amazon",
   "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
+  "location": "DE, BE, Berlin",
+  "url": "https://www.amazon.jobs/en/jobs/3115016/2026-applied-scientist-intern-amazon-university-talent-acquisition",
+  "kind": "Internship",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
   "location": "LU, Luxembourg",
   "url": "https://www.amazon.jobs/en/jobs/3128215/2026-applied-scientist-intern-amazon-university-talent-acquisition",
   "kind": "Internship",
@@ -1708,14 +1732,6 @@
   "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
   "location": "GB, London",
   "url": "https://www.amazon.jobs/en/jobs/3126764/2026-applied-scientist-intern-amazon-university-talent-acquisition",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
-  "location": "DE, BE, Berlin",
-  "url": "https://www.amazon.jobs/en/jobs/3115016/2026-applied-scientist-intern-amazon-university-talent-acquisition",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
