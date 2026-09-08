@@ -1,5 +1,45 @@
 [
  {
+  "company": "Salesforce",
+  "title": "Associate proactive Monitoring Engineer",
+  "location": "India - Hyderabad",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Associate-proactive-Monitoring-Engineer_JR341087-2",
+  "kind": "Entry Level",
+  "first_seen": "2026-09-08"
+ },
+ {
+  "company": "Datadog",
+  "title": "Software Engineering Intern (Summer)",
+  "location": "Boston, Massachusetts, USA; New York, New York, USA",
+  "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
+  "kind": "Internship",
+  "first_seen": "2026-09-08"
+ },
+ {
+  "company": "Datadog",
+  "title": "Software Engineering Intern",
+  "location": "Paris, France",
+  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+  "kind": "Internship",
+  "first_seen": "2026-09-08"
+ },
+ {
+  "company": "Datadog",
+  "title": "Software Engineering Intern",
+  "location": "Madrid, Spain",
+  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
+  "kind": "Internship",
+  "first_seen": "2026-09-08"
+ },
+ {
+  "company": "Amazon",
+  "title": "2026 Software Dev Engineer Intern - Spain",
+  "location": "ES, M, Madrid",
+  "url": "https://www.amazon.jobs/en/jobs/10531760/2026-software-dev-engineer-intern-spain",
+  "kind": "Internship",
+  "first_seen": "2026-09-08"
+ },
+ {
   "company": "Stripe",
   "title": "Software Engineer, Intern",
   "location": "Singapore",
@@ -138,16 +178,16 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer, Early Careers ",
-  "location": "US, NJ, Newark",
-  "url": "https://www.amazon.jobs/en/jobs/10529830/software-development-engineer-early-careers",
+  "location": "US, MA, Cambridge",
+  "url": "https://www.amazon.jobs/en/jobs/10530257/software-development-engineer-early-careers",
   "kind": "New Grad",
   "first_seen": "2026-09-04"
  },
  {
   "company": "Amazon",
   "title": "Software Development Engineer, Early Careers ",
-  "location": "US, MA, Cambridge",
-  "url": "https://www.amazon.jobs/en/jobs/10530257/software-development-engineer-early-careers",
+  "location": "US, NJ, Newark",
+  "url": "https://www.amazon.jobs/en/jobs/10529830/software-development-engineer-early-careers",
   "kind": "New Grad",
   "first_seen": "2026-09-04"
  },
@@ -306,16 +346,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "London",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+  "location": "London",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
@@ -1482,6 +1522,14 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
+  "location": "GB, London",
+  "url": "https://www.amazon.jobs/en/jobs/10408763/software-development-engineer-2026",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer \u2013 2026",
   "location": "SE, Stockholm",
   "url": "https://www.amazon.jobs/en/jobs/3119051/software-development-engineer-2026",
   "kind": "Entry Level",
@@ -1492,14 +1540,6 @@
   "title": "Software Development Engineer \u2013 2026",
   "location": "ES, M, Madrid",
   "url": "https://www.amazon.jobs/en/jobs/3175845/software-development-engineer-2026",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer \u2013 2026",
-  "location": "GB, London",
-  "url": "https://www.amazon.jobs/en/jobs/10408763/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
