@@ -216,14 +216,6 @@
   "first_seen": "2026-09-08"
  },
  {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "Kansas City, MO, United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/344542",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-08"
- },
- {
   "company": "Datadog",
   "title": "Software Engineering Intern (Summer)",
   "location": "Boston, Massachusetts, USA; New York, New York, USA",
@@ -400,14 +392,6 @@
   "first_seen": "2026-09-03"
  },
  {
-  "company": "Oracle",
-  "title": "Software Developer 1",
-  "location": "Nashville, TN, United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/344446",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-03"
- },
- {
   "company": "Adobe",
   "title": "2027 Intern - Software Engineer",
   "location": "7 Locations",
@@ -450,8 +434,8 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -466,8 +450,8 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -1562,16 +1546,16 @@
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Shanghai, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
+  "location": "Beijing, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Beijing, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
+  "location": "Shanghai, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
