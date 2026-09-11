@@ -1,6 +1,38 @@
 [
  {
   "company": "Oracle",
+  "title": "ONA AI Agent Intern (Logistics Focus) - OVIP",
+  "location": "Austin, TX, United States",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/334345",
+  "kind": "Internship",
+  "first_seen": "2026-09-11"
+ },
+ {
+  "company": "Oracle",
+  "title": "OCI Software Engineer Intern - OVIP",
+  "location": "Austin, TX, United States",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/334333",
+  "kind": "Internship",
+  "first_seen": "2026-09-11"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "System Application Engineer (RDSS Intern)",
+  "location": "Taiwan, Taipei",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Application-Engineer--RDSS-Intern-_JR2025314",
+  "kind": "Internship",
+  "first_seen": "2026-09-11"
+ },
+ {
+  "company": "Amazon",
+  "title": "Industrial Development Engineer Intern/Co-op, ROBOTICS - 2027",
+  "location": "US, MA, North Reading",
+  "url": "https://www.amazon.jobs/en/jobs/10536817/industrial-development-engineer-intern-co-op-robotics-2027",
+  "kind": "Internship",
+  "first_seen": "2026-09-11"
+ },
+ {
+  "company": "Oracle",
   "title": "Support Engineer 1",
   "location": "United States",
   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/344737",
@@ -202,16 +234,16 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer, Early Career",
-  "location": "US, NJ, Newark",
-  "url": "https://www.amazon.jobs/en/jobs/10529830/software-development-engineer-early-career",
+  "location": "US, MA, Cambridge",
+  "url": "https://www.amazon.jobs/en/jobs/10530257/software-development-engineer-early-career",
   "kind": "New Grad",
   "first_seen": "2026-09-09"
  },
  {
   "company": "Amazon",
   "title": "Software Development Engineer, Early Career",
-  "location": "US, MA, Cambridge",
-  "url": "https://www.amazon.jobs/en/jobs/10530257/software-development-engineer-early-career",
+  "location": "US, NJ, Newark",
+  "url": "https://www.amazon.jobs/en/jobs/10529830/software-development-engineer-early-career",
   "kind": "New Grad",
   "first_seen": "2026-09-09"
  },
@@ -266,16 +298,16 @@
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Madrid, Spain",
-  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
+  "location": "Paris, France",
+  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Paris, France",
-  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+  "location": "Madrid, Spain",
+  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
@@ -474,16 +506,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Bucharest",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+  "location": "Bucharest",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -741,14 +773,6 @@
   "location": "New York, NY",
   "url": "https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb",
   "kind": "Internship",
-  "first_seen": "2026-08-27"
- },
- {
-  "company": "Oracle",
-  "title": "Associate Support Engineer",
-  "location": "United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343409",
-  "kind": "Entry Level",
   "first_seen": "2026-08-27"
  },
  {
@@ -1026,16 +1050,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Servicing International)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
   "kind": "Entry Level",
   "first_seen": "2026-08-05"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Servicing International)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
   "kind": "Entry Level",
   "first_seen": "2026-08-05"
  },
@@ -1674,8 +1698,8 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "GB, London",
-  "url": "https://www.amazon.jobs/en/jobs/10408763/software-development-engineer-2026",
+  "location": "RO, Iasi",
+  "url": "https://www.amazon.jobs/en/jobs/3119226/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -1690,8 +1714,8 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "RO, Iasi",
-  "url": "https://www.amazon.jobs/en/jobs/3119226/software-development-engineer-2026",
+  "location": "GB, London",
+  "url": "https://www.amazon.jobs/en/jobs/10408763/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
