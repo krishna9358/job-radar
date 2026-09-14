@@ -1,5 +1,77 @@
 [
  {
+  "company": "Robinhood",
+  "title": "Software Engineering Intern, iOS (Summer 2027)",
+  "location": "Menlo Park, CA; New York, NY",
+  "url": "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959",
+  "kind": "Internship",
+  "first_seen": "2026-09-14"
+ },
+ {
+  "company": "Robinhood",
+  "title": "Software Engineering Intern, Web (Summer 2027)",
+  "location": "Menlo Park, CA; New York, NY",
+  "url": "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963",
+  "kind": "Internship",
+  "first_seen": "2026-09-14"
+ },
+ {
+  "company": "Robinhood",
+  "title": "Software Engineering Intern, Backend (Summer 2027)",
+  "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
+  "url": "https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&gh_jid=8123225",
+  "kind": "Internship",
+  "first_seen": "2026-09-14"
+ },
+ {
+  "company": "Robinhood",
+  "title": "Software Engineering Intern, Android (Summer 2027)",
+  "location": "Menlo Park, CA; New York, NY",
+  "url": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961",
+  "kind": "Internship",
+  "first_seen": "2026-09-14"
+ },
+ {
+  "company": "Robinhood",
+  "title": "Software Developer Intern/Co-op, Backend (Winter 2027)",
+  "location": "Toronto, Canada",
+  "url": "https://boards.greenhouse.io/robinhood/jobs/8194428?t=gh_src=&gh_jid=8194428",
+  "kind": "Internship",
+  "first_seen": "2026-09-14"
+ },
+ {
+  "company": "Robinhood",
+  "title": "Software Developer Intern, iOS (Summer 2027)",
+  "location": "Toronto, Canada",
+  "url": "https://boards.greenhouse.io/robinhood/jobs/8199729?t=gh_src=&gh_jid=8199729",
+  "kind": "Internship",
+  "first_seen": "2026-09-14"
+ },
+ {
+  "company": "Robinhood",
+  "title": "Software Developer Intern, Web (Summer 2027)",
+  "location": "Toronto, Canada",
+  "url": "https://boards.greenhouse.io/robinhood/jobs/8199744?t=gh_src=&gh_jid=8199744",
+  "kind": "Internship",
+  "first_seen": "2026-09-14"
+ },
+ {
+  "company": "Robinhood",
+  "title": "Software Developer Intern, Backend (Summer 2027)",
+  "location": "Toronto, Canada",
+  "url": "https://boards.greenhouse.io/robinhood/jobs/8142930?t=gh_src=&gh_jid=8142930",
+  "kind": "Internship",
+  "first_seen": "2026-09-14"
+ },
+ {
+  "company": "Robinhood",
+  "title": "PeopleX Insights & Analytics Intern (Summer 2027)",
+  "location": "Menlo Park, CA",
+  "url": "https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src=&gh_jid=8198255",
+  "kind": "Internship",
+  "first_seen": "2026-09-14"
+ },
+ {
   "company": "Samsara",
   "title": "Technical Support Engineer I - Mexico",
   "location": "Remote - Mexico",
@@ -738,6 +810,14 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "kind": "New Grad",
+  "first_seen": "2026-09-01"
+ },
+ {
+  "company": "Stripe",
+  "title": "Software Engineer, New Grad",
   "location": "Bucharest",
   "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
@@ -748,14 +828,6 @@
   "title": "Software Engineer, New Grad",
   "location": "Dublin",
   "url": "https://stripe.com/jobs/search?gh_jid=8130881",
-  "kind": "New Grad",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "Stripe",
-  "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -894,14 +966,6 @@
   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
   "kind": "Internship",
   "first_seen": "2026-08-31"
- },
- {
-  "company": "NVIDIA",
-  "title": "AI Developer Technology Engineer Intern, AI - 2027",
-  "location": "2 Locations",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineer-Intern--AI---2027_JR2024002",
-  "kind": "Internship",
-  "first_seen": "2026-08-29"
  },
  {
   "company": "Autodesk",
