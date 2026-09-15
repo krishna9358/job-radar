@@ -57,9 +57,41 @@
  },
  {
   "company": "NVIDIA",
+  "title": "Research Intern, Fundamental Generative AI - 2027",
+  "location": "US, CA, Santa Clara",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406",
+  "kind": "Internship",
+  "first_seen": "2026-09-15"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Physical Design and Timing Engineer Intern - Summer 2027",
+  "location": "US, CA, Santa Clara",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511",
+  "kind": "Internship",
+  "first_seen": "2026-09-15"
+ },
+ {
+  "company": "NVIDIA",
   "title": "Physical Design Engineer (RDSS Intern)",
   "location": "Taiwan, Hsinchu",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Physical-Design-Engineer--RDSS-Intern-_JR2025027",
+  "kind": "Internship",
+  "first_seen": "2026-09-15"
+ },
+ {
+  "company": "Duolingo",
+  "title": "Software Engineer, Thrive Intern",
+  "location": "Pittsburgh, PA",
+  "url": "https://careers.duolingo.com/jobs/8806114002?gh_jid=8806114002",
+  "kind": "Internship",
+  "first_seen": "2026-09-15"
+ },
+ {
+  "company": "Duolingo",
+  "title": "Software Engineer, Intern",
+  "location": "New York, NY; New York, NY; Pittsburgh, PA; Pittsburgh, PA; Seattle, WA; Seattle, WA",
+  "url": "https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002",
   "kind": "Internship",
   "first_seen": "2026-09-15"
  },
@@ -154,16 +186,16 @@
  {
   "company": "Scale AI",
   "title": "Software Engineer - New Grad",
-  "location": "London, UK",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
+  "location": "Doha, Qatar ",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
   "kind": "New Grad",
   "first_seen": "2026-09-14"
  },
  {
   "company": "Scale AI",
   "title": "Software Engineer - New Grad",
-  "location": "Doha, Qatar ",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
+  "location": "London, UK",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
   "kind": "New Grad",
   "first_seen": "2026-09-14"
  },
@@ -498,6 +530,14 @@
  {
   "company": "Lyft",
   "title": "Data Science Intern, Algorithms (Summer 2027)",
+  "location": "San Francisco, CA",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+  "kind": "Internship",
+  "first_seen": "2026-09-11"
+ },
+ {
+  "company": "Lyft",
+  "title": "Data Science Intern, Algorithms (Summer 2027)",
   "location": "New York, NY",
   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
   "kind": "Internship",
@@ -508,14 +548,6 @@
   "title": "Data Science Intern, Algorithms (Summer 2027)",
   "location": "Toronto, Canada",
   "url": "https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002",
-  "kind": "Internship",
-  "first_seen": "2026-09-11"
- },
- {
-  "company": "Lyft",
-  "title": "Data Science Intern, Algorithms (Summer 2027)",
-  "location": "San Francisco, CA",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
@@ -978,6 +1010,14 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+  "kind": "New Grad",
+  "first_seen": "2026-09-01"
+ },
+ {
+  "company": "Stripe",
+  "title": "Software Engineer, New Grad",
   "location": "Toronto",
   "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
@@ -988,14 +1028,6 @@
   "title": "Software Engineer, New Grad",
   "location": "Bucharest",
   "url": "https://stripe.com/jobs/search?gh_jid=8130922",
-  "kind": "New Grad",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "Stripe",
-  "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -1012,30 +1044,6 @@
   "title": "Software Engineer, Intern ",
   "location": "Bucharest",
   "url": "https://stripe.com/jobs/search?gh_jid=8130807",
-  "kind": "Internship",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "NVIDIA",
-  "title": "Developer Technology Engineering Intern, HPC and AI - 2027",
-  "location": "Taiwan, Taipei",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Developer-Technology-Engineering-Intern--HPC-and-AI---2027_JR2024509",
-  "kind": "Internship",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "NVIDIA",
-  "title": "Design Verification Engineer (RDSS Intern)",
-  "location": "Taiwan, Hsinchu",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Design-Verification-Engineer--RDSS-Intern-_JR2024681",
-  "kind": "Internship",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "NVIDIA",
-  "title": "ASIC Design Engineer (RDSS Intern)",
-  "location": "Taiwan, Hsinchu",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/ASIC-Design-Engineer--RDSS-Intern-_JR2024822",
   "kind": "Internship",
   "first_seen": "2026-09-01"
  },
@@ -1058,16 +1066,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+  "location": "London",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "London",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
@@ -2282,16 +2290,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  }
