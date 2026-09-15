@@ -1,5 +1,53 @@
 [
  {
+  "company": "Oracle",
+  "title": "Support Engineer 1",
+  "location": "Kansas City, MO, United States",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/345427",
+  "kind": "Entry Level",
+  "first_seen": "2026-09-15"
+ },
+ {
+  "company": "Oracle",
+  "title": "Software Development Consultant I",
+  "location": "Morocco",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/345287",
+  "kind": "Entry Level",
+  "first_seen": "2026-09-15"
+ },
+ {
+  "company": "Oracle",
+  "title": "Software Development Consultant I",
+  "location": "Morocco",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/345288",
+  "kind": "Entry Level",
+  "first_seen": "2026-09-15"
+ },
+ {
+  "company": "Oracle",
+  "title": "Software Development Consultant I",
+  "location": "Morocco",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/345289",
+  "kind": "Entry Level",
+  "first_seen": "2026-09-15"
+ },
+ {
+  "company": "Oracle",
+  "title": "Software Development Consultant I",
+  "location": "Morocco",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/345290",
+  "kind": "Entry Level",
+  "first_seen": "2026-09-15"
+ },
+ {
+  "company": "Oracle",
+  "title": "Software Development Consultant I",
+  "location": "Morocco",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/345291",
+  "kind": "Entry Level",
+  "first_seen": "2026-09-15"
+ },
+ {
   "company": "OpenAI",
   "title": "Software Engineer, Applied Emerging Talent (2027)",
   "location": "San Francisco",
@@ -29,6 +77,14 @@
   "location": "Los Angeles, CA; New York, NY; San Francisco, CA; Sunnyvale, CA; Seattle, WA",
   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709",
   "kind": "Entry Level",
+  "first_seen": "2026-09-15"
+ },
+ {
+  "company": "Autodesk",
+  "title": "Intern, Software Developer, Stagiaire en D\u00e9veloppement Logiciel",
+  "location": "Montreal, QC, CAN",
+  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101101-2",
+  "kind": "Internship",
   "first_seen": "2026-09-15"
  },
  {
@@ -82,14 +138,6 @@
  {
   "company": "Scale AI",
   "title": "Software Engineering Intern (Summer 2027) ",
-  "location": "London, UK",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
-  "kind": "Internship",
-  "first_seen": "2026-09-14"
- },
- {
-  "company": "Scale AI",
-  "title": "Software Engineering Intern (Summer 2027) ",
   "location": "Doha, Qatar ",
   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
   "kind": "Internship",
@@ -97,10 +145,10 @@
  },
  {
   "company": "Scale AI",
-  "title": "Software Engineer - New Grad",
-  "location": "Doha, Qatar ",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
-  "kind": "New Grad",
+  "title": "Software Engineering Intern (Summer 2027) ",
+  "location": "London, UK",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+  "kind": "Internship",
   "first_seen": "2026-09-14"
  },
  {
@@ -108,6 +156,14 @@
   "title": "Software Engineer - New Grad",
   "location": "London, UK",
   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
+  "kind": "New Grad",
+  "first_seen": "2026-09-14"
+ },
+ {
+  "company": "Scale AI",
+  "title": "Software Engineer - New Grad",
+  "location": "Doha, Qatar ",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
   "kind": "New Grad",
   "first_seen": "2026-09-14"
  },
@@ -345,14 +401,6 @@
  },
  {
   "company": "Oracle",
-  "title": "Support Engineer 1 (Hospitality and Restaurants)",
-  "location": "Philippines",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/344931",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-11"
- },
- {
-  "company": "Oracle",
   "title": "OCI Core Infrastructure Engineer 2 - Nashville Campus",
   "location": "Nashville, TN, United States",
   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/345223",
@@ -418,8 +466,8 @@
  {
   "company": "Lyft",
   "title": "Software Engineer Intern, Backend (Summer 2027)",
-  "location": "San Francisco, CA",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
+  "location": "Mexico City, Mexico",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8767715002?gh_jid=8767715002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
@@ -434,8 +482,8 @@
  {
   "company": "Lyft",
   "title": "Software Engineer Intern, Backend (Summer 2027)",
-  "location": "Mexico City, Mexico",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8767715002?gh_jid=8767715002",
+  "location": "San Francisco, CA",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
@@ -458,16 +506,16 @@
  {
   "company": "Lyft",
   "title": "Data Science Intern, Algorithms (Summer 2027)",
-  "location": "San Francisco, CA",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+  "location": "Toronto, Canada",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
  {
   "company": "Lyft",
   "title": "Data Science Intern, Algorithms (Summer 2027)",
-  "location": "Toronto, Canada",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002",
+  "location": "San Francisco, CA",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
@@ -533,14 +581,6 @@
   "location": "US, VA, Sterling",
   "url": "https://www.amazon.jobs/en/jobs/10537998/data-center-engineering-operations-technician-internship",
   "kind": "Internship",
-  "first_seen": "2026-09-11"
- },
- {
-  "company": "Amazon",
-  "title": "Applied Scientist I, Ads Trust",
-  "location": "IN, KA, Bengaluru",
-  "url": "https://www.amazon.jobs/en/jobs/10537673/applied-scientist-i-ads-trust",
-  "kind": "Entry Level",
   "first_seen": "2026-09-11"
  },
  {
@@ -690,7 +730,7 @@
  {
   "company": "Atlassian",
   "title": "Software Engineer, 2027 Graduate Canada",
-  "location": "Canada -     Canada; Remote - Remote",
+  "location": "Canada -     Canada",
   "url": "https://campus-globalcareers-atlassian.icims.com/jobs/26070/software-engineer%2c-2027-graduate-canada/job",
   "kind": "New Grad",
   "first_seen": "2026-09-09"
@@ -712,14 +752,6 @@
   "first_seen": "2026-09-09"
  },
  {
-  "company": "Adobe",
-  "title": "Computer Scientist I (Frontend)",
-  "location": "Noida",
-  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist-I--Frontend-_R171581",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-09"
- },
- {
   "company": "Salesforce",
   "title": "Associate proactive Monitoring Engineer",
   "location": "India - Hyderabad",
@@ -738,16 +770,16 @@
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Paris, France",
-  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+  "location": "Madrid, Spain",
+  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Madrid, Spain",
-  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
+  "location": "Paris, France",
+  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
@@ -938,7 +970,7 @@
  {
   "company": "Atlassian",
   "title": "Software Engineer Intern, 2027 Canada",
-  "location": "Canada -     Canada; Remote - Remote",
+  "location": "Canada -     Canada",
   "url": "https://campus-globalcareers-atlassian.icims.com/jobs/26275/software-engineer-intern%2c-2027-canada/job",
   "kind": "Internship",
   "first_seen": "2026-09-02"
@@ -1970,16 +2002,16 @@
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Shanghai, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
+  "location": "Beijing, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Beijing, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
+  "location": "Shanghai, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
