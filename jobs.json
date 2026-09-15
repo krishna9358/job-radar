@@ -40,18 +40,58 @@
   "first_seen": "2026-09-15"
  },
  {
-  "company": "Scale AI",
-  "title": "Software Engineering Intern (Summer 2027) ",
-  "location": "Doha, Qatar ",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
+  "company": "Amazon",
+  "title": "Operations Engineering Intern -  start date Q3 2027 ",
+  "location": "DE, BE, Berlin",
+  "url": "https://www.amazon.jobs/en/jobs/10541498/operations-engineering-intern-start-date-q3-2027",
   "kind": "Internship",
-  "first_seen": "2026-09-14"
+  "first_seen": "2026-09-15"
+ },
+ {
+  "company": "Amazon",
+  "title": "Operations Engineering Intern -  start date Q2 2027 ",
+  "location": "FR, Clichy",
+  "url": "https://www.amazon.jobs/en/jobs/10541508/operations-engineering-intern-start-date-q2-2027",
+  "kind": "Internship",
+  "first_seen": "2026-09-15"
+ },
+ {
+  "company": "Amazon",
+  "title": "Operations Engineering Intern -  start date Q1 2027 ",
+  "location": "IT, Milan",
+  "url": "https://www.amazon.jobs/en/jobs/10541483/operations-engineering-intern-start-date-q1-2027",
+  "kind": "Internship",
+  "first_seen": "2026-09-15"
+ },
+ {
+  "company": "Amazon",
+  "title": "Operations Engineering Intern -  start date Q1 2027 ",
+  "location": "DE, BE, Berlin",
+  "url": "https://www.amazon.jobs/en/jobs/10541497/operations-engineering-intern-start-date-q1-2027",
+  "kind": "Internship",
+  "first_seen": "2026-09-15"
+ },
+ {
+  "company": "Amazon",
+  "title": "Operations Engineering Intern -  12 months, start date Q2 2027 ",
+  "location": "GB, London",
+  "url": "https://www.amazon.jobs/en/jobs/10541452/operations-engineering-intern-12-months-start-date-q2-2027",
+  "kind": "Internship",
+  "first_seen": "2026-09-15"
  },
  {
   "company": "Scale AI",
   "title": "Software Engineering Intern (Summer 2027) ",
   "location": "London, UK",
   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+  "kind": "Internship",
+  "first_seen": "2026-09-14"
+ },
+ {
+  "company": "Scale AI",
+  "title": "Software Engineering Intern (Summer 2027) ",
+  "location": "Doha, Qatar ",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
   "kind": "Internship",
   "first_seen": "2026-09-14"
  },
@@ -305,14 +345,6 @@
  },
  {
   "company": "Oracle",
-  "title": "Support Engineer 1, Arabic Speaker",
-  "location": "DUBAI, United Arab Emirates",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343405",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-11"
- },
- {
-  "company": "Oracle",
   "title": "Support Engineer 1 (Hospitality and Restaurants)",
   "location": "Philippines",
   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/344931",
@@ -386,8 +418,8 @@
  {
   "company": "Lyft",
   "title": "Software Engineer Intern, Backend (Summer 2027)",
-  "location": "Mexico City, Mexico",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8767715002?gh_jid=8767715002",
+  "location": "San Francisco, CA",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
@@ -402,8 +434,8 @@
  {
   "company": "Lyft",
   "title": "Software Engineer Intern, Backend (Summer 2027)",
-  "location": "San Francisco, CA",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
+  "location": "Mexico City, Mexico",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8767715002?gh_jid=8767715002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
@@ -413,14 +445,6 @@
   "location": "Montreal, Canada",
   "url": "https://app.careerpuck.com/job-board/lyft/job/8796052002?gh_jid=8796052002",
   "kind": "Entry Level",
-  "first_seen": "2026-09-11"
- },
- {
-  "company": "Lyft",
-  "title": "Data Science Intern, Algorithms (Summer 2027)",
-  "location": "Toronto, Canada",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002",
-  "kind": "Internship",
   "first_seen": "2026-09-11"
  },
  {
@@ -436,6 +460,14 @@
   "title": "Data Science Intern, Algorithms (Summer 2027)",
   "location": "San Francisco, CA",
   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+  "kind": "Internship",
+  "first_seen": "2026-09-11"
+ },
+ {
+  "company": "Lyft",
+  "title": "Data Science Intern, Algorithms (Summer 2027)",
+  "location": "Toronto, Canada",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
@@ -533,14 +565,6 @@
   "location": "Boston, Massachusetts; New York, New York; Pennsylvania",
   "url": "https://www.okta.com/company/careers/opportunity/8191371?gh_jid=8191371",
   "kind": "Entry Level",
-  "first_seen": "2026-09-10"
- },
- {
-  "company": "NVIDIA",
-  "title": "System Software Engineering Intern, GPU - 2027",
-  "location": "2 Locations",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334",
-  "kind": "Internship",
   "first_seen": "2026-09-10"
  },
  {
@@ -922,16 +946,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Bucharest",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "location": "Bucharest",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -1946,16 +1970,16 @@
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Beijing, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
+  "location": "Shanghai, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Shanghai, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
+  "location": "Beijing, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -2226,16 +2250,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  }
