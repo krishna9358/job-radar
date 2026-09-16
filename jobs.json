@@ -80,50 +80,18 @@
   "first_seen": "2026-09-16"
  },
  {
+  "company": "Adobe",
+  "title": "2027 University Graduate - People Data Scientist",
+  "location": "2 Locations",
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-University-Graduate---People-Data-Scientist_R171843",
+  "kind": "New Grad",
+  "first_seen": "2026-09-16"
+ },
+ {
   "company": "Oracle",
   "title": "Support Engineer 1",
   "location": "Kansas City, MO, United States",
   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/345427",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-15"
- },
- {
-  "company": "Oracle",
-  "title": "Software Development Consultant I",
-  "location": "Morocco",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/345287",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-15"
- },
- {
-  "company": "Oracle",
-  "title": "Software Development Consultant I",
-  "location": "Morocco",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/345288",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-15"
- },
- {
-  "company": "Oracle",
-  "title": "Software Development Consultant I",
-  "location": "Morocco",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/345289",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-15"
- },
- {
-  "company": "Oracle",
-  "title": "Software Development Consultant I",
-  "location": "Morocco",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/345290",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-15"
- },
- {
-  "company": "Oracle",
-  "title": "Software Development Consultant I",
-  "location": "Morocco",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/345291",
   "kind": "Entry Level",
   "first_seen": "2026-09-15"
  },
@@ -578,8 +546,8 @@
  {
   "company": "Lyft",
   "title": "Software Engineer Intern, Backend (Summer 2027)",
-  "location": "San Francisco, CA",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
+  "location": "Mexico City, Mexico",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8767715002?gh_jid=8767715002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
@@ -594,8 +562,8 @@
  {
   "company": "Lyft",
   "title": "Software Engineer Intern, Backend (Summer 2027)",
-  "location": "Mexico City, Mexico",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8767715002?gh_jid=8767715002",
+  "location": "San Francisco, CA",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
@@ -618,16 +586,16 @@
  {
   "company": "Lyft",
   "title": "Data Science Intern, Algorithms (Summer 2027)",
-  "location": "San Francisco, CA",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+  "location": "Toronto, Canada",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
  {
   "company": "Lyft",
   "title": "Data Science Intern, Algorithms (Summer 2027)",
-  "location": "Toronto, Canada",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002",
+  "location": "San Francisco, CA",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
@@ -866,16 +834,16 @@
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Madrid, Spain",
-  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
+  "location": "Paris, France",
+  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Paris, France",
-  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+  "location": "Madrid, Spain",
+  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
@@ -952,14 +920,6 @@
   "first_seen": "2026-09-06"
  },
  {
-  "company": "Amazon",
-  "title": "Applied Scientist, Alexa International Tech",
-  "location": "GB, Cambridge",
-  "url": "https://www.amazon.jobs/en/jobs/10438451/applied-scientist-alexa-international-tech",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-06"
- },
- {
   "company": "Zip",
   "title": "Software Engineer, New Grad (2027 Start)",
   "location": "San Francisco",
@@ -997,14 +957,6 @@
   "location": "London - UK2",
   "url": "https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345",
   "kind": "New Grad",
-  "first_seen": "2026-09-04"
- },
- {
-  "company": "NVIDIA",
-  "title": "Deep Learning Algorithm Engineering Intern - 2026",
-  "location": "Switzerland, Zurich",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Deep-Learning-Algorithm-Engineering-Intern---2026_JR2012814",
-  "kind": "Internship",
   "first_seen": "2026-09-04"
  },
  {
@@ -1074,14 +1026,6 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
-  "kind": "New Grad",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "Stripe",
-  "title": "Software Engineer, New Grad",
   "location": "Toronto",
   "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
@@ -1092,6 +1036,14 @@
   "title": "Software Engineer, New Grad",
   "location": "Bucharest",
   "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+  "kind": "New Grad",
+  "first_seen": "2026-09-01"
+ },
+ {
+  "company": "Stripe",
+  "title": "Software Engineer, New Grad",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -1130,16 +1082,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+  "location": "London",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "London",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
@@ -1522,16 +1474,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Servicing International)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
   "kind": "Entry Level",
   "first_seen": "2026-08-05"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Servicing International)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
   "kind": "Entry Level",
   "first_seen": "2026-08-05"
  },
@@ -2322,14 +2274,6 @@
  {
   "company": "Amazon",
   "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
-  "location": "ES, Barcelona",
-  "url": "https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
   "location": "LU, Luxembourg",
   "url": "https://www.amazon.jobs/en/jobs/3128215/2026-applied-scientist-intern-amazon-university-talent-acquisition",
   "kind": "Internship",
@@ -2345,6 +2289,14 @@
  },
  {
   "company": "Amazon",
+  "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
+  "location": "ES, Barcelona",
+  "url": "https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition",
+  "kind": "Internship",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
   "title": "2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
   "location": "US, CA, San Francisco",
   "url": "https://www.amazon.jobs/en/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
@@ -2354,16 +2306,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  }
