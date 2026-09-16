@@ -16,6 +16,46 @@
   "first_seen": "2026-09-16"
  },
  {
+  "company": "Twilio",
+  "title": "Software Engineer Intern (January 12th start, 23 weeks) ",
+  "location": "Remote - India",
+  "url": "https://job-boards.greenhouse.io/twilio/jobs/8190889",
+  "kind": "Internship",
+  "first_seen": "2026-09-16"
+ },
+ {
+  "company": "Salesforce",
+  "title": "Associate Solution Engineer - French speaking",
+  "location": "Ireland - Dublin",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Associate-Solution-Engineer---French-speaking_JR359323",
+  "kind": "Entry Level",
+  "first_seen": "2026-09-16"
+ },
+ {
+  "company": "Ramp",
+  "title": "Software Engineer, International",
+  "location": "London",
+  "url": "https://jobs.ashbyhq.com/ramp/009dc18b-26a3-4fac-a773-c60d742cf840",
+  "kind": "Entry Level",
+  "first_seen": "2026-09-16"
+ },
+ {
+  "company": "Oracle",
+  "title": "Software Development Consultant I",
+  "location": "CASABLANCA, Morocco",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/345292",
+  "kind": "Entry Level",
+  "first_seen": "2026-09-16"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Software Engineering Intern \u2014 Replay Tooling and Test Automation - Autonomous Driving",
+  "location": "Germany, Munich",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086",
+  "kind": "Internship",
+  "first_seen": "2026-09-16"
+ },
+ {
   "company": "NVIDIA",
   "title": "Software Engineer, Coding Agent Harness Engineering -  New College Grad 2026",
   "location": "2 Locations",
@@ -57,6 +97,14 @@
  },
  {
   "company": "Amazon",
+  "title": "Software Development Engineer Intern, Amazon University Talent Acquisition ",
+  "location": "BR, SP, Sao Paulo",
+  "url": "https://www.amazon.jobs/en/jobs/3063220/software-development-engineer-intern-amazon-university-talent-acquisition",
+  "kind": "Internship",
+  "first_seen": "2026-09-16"
+ },
+ {
+  "company": "Amazon",
   "title": "Software Developer Intern, Field Innovation, Security Search and Observability (SSO)",
   "location": "SG, Singapore",
   "url": "https://www.amazon.jobs/en/jobs/10544261/software-developer-intern-field-innovation-security-search-and-observability-sso",
@@ -80,14 +128,6 @@
   "first_seen": "2026-09-16"
  },
  {
-  "company": "Adobe",
-  "title": "2027 University Graduate - People Data Scientist",
-  "location": "2 Locations",
-  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-University-Graduate---People-Data-Scientist_R171843",
-  "kind": "New Grad",
-  "first_seen": "2026-09-16"
- },
- {
   "company": "Oracle",
   "title": "Support Engineer 1",
   "location": "Kansas City, MO, United States",
@@ -101,14 +141,6 @@
   "location": "San Francisco",
   "url": "https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511",
   "kind": "Entry Level",
-  "first_seen": "2026-09-15"
- },
- {
-  "company": "NVIDIA",
-  "title": "Research Intern, Fundamental Generative AI - 2027",
-  "location": "US, CA, Santa Clara",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406",
-  "kind": "Internship",
   "first_seen": "2026-09-15"
  },
  {
@@ -401,14 +433,6 @@
  },
  {
   "company": "Oracle",
-  "title": "ONA AI Agent Intern (Logistics Focus) - OVIP",
-  "location": "Austin, TX, United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/334345",
-  "kind": "Internship",
-  "first_seen": "2026-09-12"
- },
- {
-  "company": "Oracle",
   "title": "OCI Software Engineer Intern - OVIP",
   "location": "Austin, TX, United States",
   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/334333",
@@ -514,16 +538,16 @@
  {
   "company": "Lyft",
   "title": "Software Engineer Intern, Fullstack (Summer 2027)",
-  "location": "New York, NY",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002",
+  "location": "Toronto, Canada",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
  {
   "company": "Lyft",
   "title": "Software Engineer Intern, Fullstack (Summer 2027)",
-  "location": "Toronto, Canada",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002",
+  "location": "New York, NY",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
@@ -538,16 +562,16 @@
  {
   "company": "Lyft",
   "title": "Software Engineer Intern, Backend (Summer 2027)",
-  "location": "Toronto, Canada",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002",
+  "location": "Mexico City, Mexico",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8767715002?gh_jid=8767715002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
  {
   "company": "Lyft",
   "title": "Software Engineer Intern, Backend (Summer 2027)",
-  "location": "Mexico City, Mexico",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8767715002?gh_jid=8767715002",
+  "location": "San Francisco, CA",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
@@ -562,8 +586,8 @@
  {
   "company": "Lyft",
   "title": "Software Engineer Intern, Backend (Summer 2027)",
-  "location": "San Francisco, CA",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
+  "location": "Toronto, Canada",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
@@ -586,16 +610,16 @@
  {
   "company": "Lyft",
   "title": "Data Science Intern, Algorithms (Summer 2027)",
-  "location": "Toronto, Canada",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002",
+  "location": "San Francisco, CA",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
  {
   "company": "Lyft",
   "title": "Data Science Intern, Algorithms (Summer 2027)",
-  "location": "San Francisco, CA",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+  "location": "Toronto, Canada",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
@@ -670,14 +694,6 @@
   "url": "https://www.amazon.jobs/en/jobs/10537284/2026-software-dev-engineer-intern-spain",
   "kind": "Internship",
   "first_seen": "2026-09-11"
- },
- {
-  "company": "Okta",
-  "title": "Solutions Engineering Associate, Okta",
-  "location": "Boston, Massachusetts; New York, New York; Pennsylvania",
-  "url": "https://www.okta.com/company/careers/opportunity/8191371?gh_jid=8191371",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-10"
  },
  {
   "company": "Cursor",
@@ -1008,20 +1024,20 @@
   "first_seen": "2026-09-02"
  },
  {
-  "company": "NVIDIA",
-  "title": "Applied Systems Engineering Rotation Engineer - New College Graduate 2026",
-  "location": "US, CA, Santa Clara",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Systems-Engineering-Rotation-Engineer---New-College-Graduate-2026_JR2024713",
-  "kind": "New Grad",
-  "first_seen": "2026-09-02"
- },
- {
   "company": "Atlassian",
   "title": "Software Engineer Intern, 2027 Canada",
   "location": "Canada -     Canada",
   "url": "https://campus-globalcareers-atlassian.icims.com/jobs/26275/software-engineer-intern%2c-2027-canada/job",
   "kind": "Internship",
   "first_seen": "2026-09-02"
+ },
+ {
+  "company": "Stripe",
+  "title": "Software Engineer, New Grad",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+  "kind": "New Grad",
+  "first_seen": "2026-09-01"
  },
  {
   "company": "Stripe",
@@ -1036,14 +1052,6 @@
   "title": "Software Engineer, New Grad",
   "location": "Bucharest",
   "url": "https://stripe.com/jobs/search?gh_jid=8130922",
-  "kind": "New Grad",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "Stripe",
-  "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -1082,16 +1090,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "London",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+  "location": "London",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
