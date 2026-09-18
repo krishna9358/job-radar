@@ -16,6 +16,14 @@
   "first_seen": "2026-09-18"
  },
  {
+  "company": "Samsara",
+  "title": "Software Engineer I, External Platform EMEA (Poland, Remote)",
+  "location": "Remote - Poland",
+  "url": "https://www.samsara.com/company/careers/roles/8210695?gh_jid=8210695",
+  "kind": "Entry Level",
+  "first_seen": "2026-09-18"
+ },
+ {
   "company": "Oracle",
   "title": "ONA AI Agent Intern (Logistics Focus) - OVIP",
   "location": "Austin, TX, United States",
@@ -33,9 +41,9 @@
  },
  {
   "company": "Amazon",
-  "title": "Software Development Engineer Internship - Summer -2027 (USA)",
+  "title": "Software Development Engineer Intern - Summer 2027 (USA)",
   "location": "US, WA, Seattle",
-  "url": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa",
+  "url": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa",
   "kind": "Internship",
   "first_seen": "2026-09-18"
  },
@@ -60,22 +68,6 @@
   "title": "Associate Technical Support Engineer",
   "location": "India - Hyderabad",
   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Associate-Technical-Support-Engineer_JR356515",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-17"
- },
- {
-  "company": "Oracle",
-  "title": "Application Software Engineer 1",
-  "location": "BENGALURU, KARNATAKA, India",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/345514",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-17"
- },
- {
-  "company": "Oracle",
-  "title": "Application Software Engineer 1",
-  "location": "BENGALURU, KARNATAKA, India",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/345521",
   "kind": "Entry Level",
   "first_seen": "2026-09-17"
  },
@@ -1044,14 +1036,6 @@
   "title": "Software Engineer - New Grad",
   "location": "San Francisco, CA",
   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
-  "kind": "New Grad",
-  "first_seen": "2026-09-04"
- },
- {
-  "company": "Samsara",
-  "title": "Software Engineer I (New Grad)",
-  "location": "London - UK2",
-  "url": "https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345",
   "kind": "New Grad",
   "first_seen": "2026-09-04"
  },
@@ -2056,14 +2040,6 @@
   "first_seen": "2026-07-29"
  },
  {
-  "company": "OpenAI",
-  "title": "Software Engineer, Internal Applications - Enterprise",
-  "location": "San Francisco",
-  "url": "https://jobs.ashbyhq.com/openai/db053b0e-c1a5-4b7a-bcb6-6e766629e7b1",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
   "company": "Lyft",
   "title": "Junior Software Engineer, Luxury",
   "location": "Mexico City, Mexico",
@@ -2074,16 +2050,16 @@
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Shanghai, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
+  "location": "Beijing, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Beijing, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
+  "location": "Shanghai, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -2117,14 +2093,6 @@
   "location": "HK, Hong Kong",
   "url": "https://www.amazon.jobs/en/jobs/10394507/technical-business-developer-intern-2026-hong-kong",
   "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Sr. Applied Scientist, Alexa International",
-  "location": "GB, Cambridge",
-  "url": "https://www.amazon.jobs/en/jobs/10438453/sr-applied-scientist-alexa-international",
-  "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
