@@ -8,6 +8,14 @@
   "first_seen": "2026-09-22"
  },
  {
+  "company": "Stripe",
+  "title": "Integration Reliability Engineer Intern, Technical Operations",
+  "location": "Singapore",
+  "url": "https://stripe.com/jobs/search?gh_jid=8186367",
+  "kind": "Internship",
+  "first_seen": "2026-09-22"
+ },
+ {
   "company": "Okta",
   "title": "Associate Solutions Engineer, Auth0",
   "location": "Dublin, Ireland",
@@ -20,6 +28,14 @@
   "title": "System Software Engineer - USB (RDSS Intern)",
   "location": "Taiwan, Taipei",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---USB--RDSS-Intern-_JR2025914-1",
+  "kind": "Internship",
+  "first_seen": "2026-09-22"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Product Design Intern, AI Infrastructure - Summer 2027",
+  "location": "2 Locations",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Design-Intern--AI-Infrastructure---Summer-2027_JR2025784",
   "kind": "Internship",
   "first_seen": "2026-09-22"
  },
@@ -40,11 +56,11 @@
   "first_seen": "2026-09-22"
  },
  {
-  "company": "Amazon",
-  "title": "Software Development Engineer, Early Career",
-  "location": "US, NJ, Newark",
-  "url": "https://www.amazon.jobs/en/jobs/10529830/software-development-engineer-early-career",
-  "kind": "New Grad",
+  "company": "Atlassian",
+  "title": "AI Demand Intelligence Intern, 2027 Summer U.S.",
+  "location": "San Francisco - United States -   San Francisco, California 94104 United States; Remote - Remote",
+  "url": "https://careers-americas.icims.com/jobs/26843/ai-demand-intelligence-intern%2c-2027-summer-u.s./job",
+  "kind": "Internship",
   "first_seen": "2026-09-22"
  },
  {
@@ -104,19 +120,19 @@
   "first_seen": "2026-09-22"
  },
  {
+  "company": "Adobe",
+  "title": "2027 University Graduate - AI Forward Deployed Engineer",
+  "location": "2 Locations",
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-University-Graduate---AI-Forward-Deployed-Engineer_R172018",
+  "kind": "New Grad",
+  "first_seen": "2026-09-22"
+ },
+ {
   "company": "NVIDIA",
   "title": "Software Engineer, Simulation and Virtualization (RDSS Intern)",
   "location": "2 Locations",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Simulation-and-Virtualization--RDSS-Intern-_JR2025783",
   "kind": "Internship",
-  "first_seen": "2026-09-21"
- },
- {
-  "company": "NVIDIA",
-  "title": "Compiler Engineer, Agentic Compilation Systems - New College Grad 2027",
-  "location": "US, CA, Santa Clara",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Agentic-Compilation-Systems---New-College-Grad-2027_JR2026218",
-  "kind": "Entry Level",
   "first_seen": "2026-09-21"
  },
  {
@@ -257,14 +273,6 @@
  },
  {
   "company": "NVIDIA",
-  "title": "Software QA Engineer- New College Grad 2026",
-  "location": "US, CA, Santa Clara",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-QA-Engineer--New-College-Grad-2026_JR2025900",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-17"
- },
- {
-  "company": "NVIDIA",
   "title": "AI Infrastructure and Frameworks Intern, Cosmos Lab - 2027",
   "location": "3 Locations",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/AI-Infrastructure-and-Frameworks-Intern--Cosmos-Lab---2027_JR2025559",
@@ -325,14 +333,6 @@
   "location": "Germany, Munich",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086",
   "kind": "Internship",
-  "first_seen": "2026-09-16"
- },
- {
-  "company": "NVIDIA",
-  "title": "Software Engineer, Coding Agent Harness Engineering -  New College Grad 2026",
-  "location": "2 Locations",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749",
-  "kind": "Entry Level",
   "first_seen": "2026-09-16"
  },
  {
@@ -522,16 +522,16 @@
  {
   "company": "Scale AI",
   "title": "Software Engineer - New Grad",
-  "location": "Doha, Qatar ",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
+  "location": "London, UK",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
   "kind": "New Grad",
   "first_seen": "2026-09-14"
  },
  {
   "company": "Scale AI",
   "title": "Software Engineer - New Grad",
-  "location": "London, UK",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
+  "location": "Doha, Qatar ",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
   "kind": "New Grad",
   "first_seen": "2026-09-14"
  },
@@ -1026,16 +1026,16 @@
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Paris, France",
-  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+  "location": "Madrid, Spain",
+  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Madrid, Spain",
-  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
+  "location": "Paris, France",
+  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
@@ -1170,16 +1170,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -1420,14 +1420,6 @@
   "title": "Associate Solutions Engineer, Okta",
   "location": "Bengaluru, India",
   "url": "https://www.okta.com/company/careers/opportunity/8155883?gh_jid=8155883",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-25"
- },
- {
-  "company": "Amazon",
-  "title": "Data Scientist I, Amazon 1P Credito, Payments",
-  "location": "BR, SP, Sao Paulo",
-  "url": "https://www.amazon.jobs/en/jobs/10513220/data-scientist-i-amazon-1p-credito-payments",
   "kind": "Entry Level",
   "first_seen": "2026-08-25"
  },
@@ -2186,16 +2178,16 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "GB, London",
-  "url": "https://www.amazon.jobs/en/jobs/10408763/software-development-engineer-2026",
+  "location": "RO, Iasi",
+  "url": "https://www.amazon.jobs/en/jobs/3119226/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "RO, Iasi",
-  "url": "https://www.amazon.jobs/en/jobs/3119226/software-development-engineer-2026",
+  "location": "GB, London",
+  "url": "https://www.amazon.jobs/en/jobs/10408763/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
