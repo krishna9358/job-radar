@@ -1,5 +1,13 @@
 [
  {
+  "company": "Workday",
+  "title": "Sr Associate Support Engineer, Adaptive Planning AI, ML & Platform Operations",
+  "location": "IND.Pune",
+  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Sr-Associate-Support-Engineer--Adaptive-Planning-AI--ML---Platform-Operations_JR-0110344",
+  "kind": "Entry Level",
+  "first_seen": "2026-09-23"
+ },
+ {
   "company": "Oracle",
   "title": "ONA AI Agent Intern (Logistics Focus) - OVIP",
   "location": "Austin, TX, United States",
@@ -16,11 +24,75 @@
   "first_seen": "2026-09-23"
  },
  {
+  "company": "NVIDIA",
+  "title": "Software Engineering Intern, Compiler Verification - Spring 2027",
+  "location": "2 Locations",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Software-Engineering-Intern--Compiler-Verification---Spring-2027_JR2026177",
+  "kind": "Internship",
+  "first_seen": "2026-09-23"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Performance Software Intern, Deep Learning Libraries - 2027",
+  "location": "2 Locations",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Software-Intern--Deep-Learning-Libraries---2027_JR2026171",
+  "kind": "Internship",
+  "first_seen": "2026-09-23"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "AI Computing Software Intern, GPU Kernel Libraries - 2027",
+  "location": "2 Locations",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Software-Intern--GPU-Kernel-Libraries---2027_JR2026170",
+  "kind": "Internship",
+  "first_seen": "2026-09-23"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "AI Computing Software Development Intern, LLM Inference - 2027",
+  "location": "2 Locations",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Software-Development-Intern--LLM-Inference---2027_JR2026173",
+  "kind": "Internship",
+  "first_seen": "2026-09-23"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "AI Computing Software Development Intern - 2027",
+  "location": "2 Locations",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Software-Development-Intern---2027_JR2026164",
+  "kind": "Internship",
+  "first_seen": "2026-09-23"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "AI Computing Development Intern, TensorRT-LLM - 2027",
+  "location": "China, Shanghai",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Development-Intern--TensorRT-LLM---2027_JR2026160",
+  "kind": "Internship",
+  "first_seen": "2026-09-23"
+ },
+ {
+  "company": "Anthropic",
+  "title": "Associate Applied AI, Rotational Program, London",
+  "location": "London, UK",
+  "url": "https://job-boards.greenhouse.io/anthropic/jobs/5425724008",
+  "kind": "Entry Level",
+  "first_seen": "2026-09-23"
+ },
+ {
   "company": "Amazon",
   "title": "Security Engineer Internship \u2013 2027 (US)",
   "location": "US, WA, Seattle",
   "url": "https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us",
   "kind": "Internship",
+  "first_seen": "2026-09-23"
+ },
+ {
+  "company": "Amazon",
+  "title": "Applied Scientist I, Amazon Shipping",
+  "location": "IN, HR, Gurugram",
+  "url": "https://www.amazon.jobs/en/jobs/10557374/applied-scientist-i-amazon-shipping",
+  "kind": "Entry Level",
   "first_seen": "2026-09-23"
  },
  {
@@ -242,22 +314,22 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, Early Career \u2014 Immediate Start",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8212517",
-  "kind": "New Grad",
-  "first_seen": "2026-09-18"
- },
- {
-  "company": "Stripe",
-  "title": "Software Engineer, Early Career \u2014 Immediate Start",
   "location": "San Francisco, Seattle, New York",
   "url": "https://stripe.com/jobs/search?gh_jid=8212508",
   "kind": "New Grad",
   "first_seen": "2026-09-18"
  },
  {
+  "company": "Stripe",
+  "title": "Software Engineer, Early Career \u2014 Immediate Start",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8212517",
+  "kind": "New Grad",
+  "first_seen": "2026-09-18"
+ },
+ {
   "company": "Samsara",
-  "title": "Software Engineer I, External Platform EMEA (Poland, Remote)",
+  "title": "Software Engineer I, External Platform EMEA (Poland, Remote, B2B)",
   "location": "Remote - Poland",
   "url": "https://www.samsara.com/company/careers/roles/8210695?gh_jid=8210695",
   "kind": "Entry Level",
@@ -960,14 +1032,6 @@
   "first_seen": "2026-09-10"
  },
  {
-  "company": "NVIDIA",
-  "title": "System Software Intern, Video Chips - Summer 2027",
-  "location": "China, Shanghai",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Intern--Video-Chips---Summer-2027_JR2025179",
-  "kind": "Internship",
-  "first_seen": "2026-09-09"
- },
- {
   "company": "Coinbase",
   "title": "Software Engineer Intern",
   "location": "Hybrid - San Francisco, CA",
@@ -1250,16 +1314,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+  "location": "London",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "London",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
