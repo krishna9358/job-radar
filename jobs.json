@@ -1,6 +1,102 @@
 [
  {
   "company": "Workday",
+  "title": "Sr Associate Support Engineer: AI-ML & Financials-Spend Operations (Monday-Friday, 12pm to 9pm)",
+  "location": "Costa Rica",
+  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Costa-Rica/Sr-Associate-Support-Engineer--AI-ML---Financials-Spend-Operations--Monday-Friday--12pm-to-9pm-_JR-0110173",
+  "kind": "Entry Level",
+  "first_seen": "2026-09-25"
+ },
+ {
+  "company": "Workday",
+  "title": "Sr Associate Customer Support Analyst: AI-ML Financials-Spend Application Support (Monday - Friday, 12pm to 9pm)",
+  "location": "Costa Rica",
+  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Costa-Rica/Sr-Associate-Customer-Support-Analyst--AI-ML-Financials-Spend-Application-Support--Monday---Friday--12pm-to-9pm-_JR-0110175",
+  "kind": "Entry Level",
+  "first_seen": "2026-09-25"
+ },
+ {
+  "company": "Stripe",
+  "title": "Financial Data Analyst Intern, Technical Operations",
+  "location": "Singapore",
+  "url": "https://stripe.com/jobs/search?gh_jid=8186442",
+  "kind": "Internship",
+  "first_seen": "2026-09-25"
+ },
+ {
+  "company": "Palantir",
+  "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
+  "location": "Washington, D.C.",
+  "url": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9",
+  "kind": "Internship",
+  "first_seen": "2026-09-25"
+ },
+ {
+  "company": "Palantir",
+  "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
+  "location": "Palo Alto, CA",
+  "url": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69",
+  "kind": "Internship",
+  "first_seen": "2026-09-25"
+ },
+ {
+  "company": "Palantir",
+  "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
+  "location": "New York, NY",
+  "url": "https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b",
+  "kind": "Internship",
+  "first_seen": "2026-09-25"
+ },
+ {
+  "company": "Oracle",
+  "title": "ONA AI Agent Intern (Logistics Focus) - OVIP",
+  "location": "Austin, TX, United States",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/334345",
+  "kind": "Internship",
+  "first_seen": "2026-09-25"
+ },
+ {
+  "company": "Oracle",
+  "title": "OCI Software Engineer Intern - OVIP",
+  "location": "Austin, TX, United States",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/334333",
+  "kind": "Internship",
+  "first_seen": "2026-09-25"
+ },
+ {
+  "company": "Atlassian",
+  "title": "Machine Learning Engineer, 2027 Graduate U.S.",
+  "location": "Seattle - United States -   Seattle, Washington  United States",
+  "url": "https://globalcareers-atlassian.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job",
+  "kind": "New Grad",
+  "first_seen": "2026-09-25"
+ },
+ {
+  "company": "Atlassian",
+  "title": "Data Scientist Intern, 2027 Summer U.S.",
+  "location": "Seattle - United States -   Seattle, Washington  United States",
+  "url": "https://globalcareers-atlassian.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job",
+  "kind": "Internship",
+  "first_seen": "2026-09-25"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
+  "location": "US, WA, Redmond",
+  "url": "https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa",
+  "kind": "Internship",
+  "first_seen": "2026-09-25"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)",
+  "location": "US, WA, Seattle",
+  "url": "https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc",
+  "kind": "Internship",
+  "first_seen": "2026-09-25"
+ },
+ {
+  "company": "Workday",
   "title": "Sr Associate Customer Support Analyst - Adaptive Planning  AI, ML & Application Support (Tuesday-Saturday,\u00a08am to 5pm)",
   "location": "Costa Rica",
   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Costa-Rica/Sr-Associate-Customer-Support-Analyst---Adaptive-Planning--AI--ML---Application-Support--Tuesday-Saturday--8am-to-5pm-_JR-0110222",
@@ -53,14 +149,6 @@
   "location": "Seattle - United States -   Seattle, Washington  United States; San Francisco - United States -   San Francisco, California 94104 United States",
   "url": "https://globalcareers-atlassian.icims.com/jobs/26267/security-engineer-intern%2c-2027-summer-u.s./job",
   "kind": "Internship",
-  "first_seen": "2026-09-24"
- },
- {
-  "company": "Amazon",
-  "title": "Sr. Applied Scientist, International Emerging Stores Payments",
-  "location": "US, WA, Seattle",
-  "url": "https://www.amazon.jobs/en/jobs/10515228/sr-applied-scientist-international-emerging-stores-payments",
-  "kind": "Entry Level",
   "first_seen": "2026-09-24"
  },
  {
@@ -402,16 +490,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, Early Career \u2014 Immediate Start",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8212508",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8212517",
   "kind": "New Grad",
   "first_seen": "2026-09-18"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, Early Career \u2014 Immediate Start",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8212517",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8212508",
   "kind": "New Grad",
   "first_seen": "2026-09-18"
  },
@@ -549,14 +637,6 @@
   "location": "SG, Singapore",
   "url": "https://www.amazon.jobs/en/jobs/10544261/software-developer-intern-field-innovation-security-search-and-observability-sso",
   "kind": "Internship",
-  "first_seen": "2026-09-16"
- },
- {
-  "company": "Amazon",
-  "title": "Applied Scientist I, Alexa Shopping",
-  "location": "US, WA, Seattle",
-  "url": "https://www.amazon.jobs/en/jobs/10544180/applied-scientist-i-alexa-shopping",
-  "kind": "Entry Level",
   "first_seen": "2026-09-16"
  },
  {
@@ -848,22 +928,6 @@
   "first_seen": "2026-09-13"
  },
  {
-  "company": "Workday",
-  "title": "Sr Associate Support Engineer, AI/ML & Platform Operations (8am-5pm) or (12md-9pm)",
-  "location": "Costa Rica",
-  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Costa-Rica/Sr-Associate-Support-Engineer--AI-ML---Platform-Operations--8am-5pm--or--12md-9pm-_JR-0110081",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-12"
- },
- {
-  "company": "Workday",
-  "title": "Sr Associate Customer Support Analyst, AI/ML Application Support (8am-5pm) or (12md-9pm)",
-  "location": "Costa Rica",
-  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Costa-Rica/Sr-Associate-Customer-Support-Analyst--AI-ML-Application-Support--8am-5pm--or--12md-9pm-_JR-0110083",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-12"
- },
- {
   "company": "Amazon",
   "title": "ML Systems Software Development Engineer Intern, Annapurna Labs - 2027",
   "location": "CA, ON, Toronto",
@@ -986,16 +1050,16 @@
  {
   "company": "Lyft",
   "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-  "location": "New York, NY",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+  "location": "San Francisco, CA",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
  {
   "company": "Lyft",
   "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-  "location": "San Francisco, CA",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+  "location": "New York, NY",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
@@ -1208,14 +1272,6 @@
   "first_seen": "2026-09-07"
  },
  {
-  "company": "Samsara",
-  "title": "Sr.Data Scientist I",
-  "location": "Bengaluru - BLR1",
-  "url": "https://www.samsara.com/company/careers/roles/8066320?gh_jid=8066320",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-07"
- },
- {
   "company": "Dropbox",
   "title": "Software Engineering Intern (Summer 2027)",
   "location": "Remote - US: All locations",
@@ -1314,6 +1370,14 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
+  "location": "Bucharest",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+  "kind": "New Grad",
+  "first_seen": "2026-09-01"
+ },
+ {
+  "company": "Stripe",
+  "title": "Software Engineer, New Grad",
   "location": "Dublin",
   "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
@@ -1324,14 +1388,6 @@
   "title": "Software Engineer, New Grad",
   "location": "Toronto",
   "url": "https://stripe.com/jobs/search?gh_jid=8157838",
-  "kind": "New Grad",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "Stripe",
-  "title": "Software Engineer, New Grad",
-  "location": "Bucharest",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -1370,16 +1426,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "London",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+  "location": "London",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
@@ -2314,16 +2370,16 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "RO, Iasi",
-  "url": "https://www.amazon.jobs/en/jobs/3119226/software-development-engineer-2026",
+  "location": "GB, London",
+  "url": "https://www.amazon.jobs/en/jobs/10408763/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "GB, London",
-  "url": "https://www.amazon.jobs/en/jobs/10408763/software-development-engineer-2026",
+  "location": "RO, Iasi",
+  "url": "https://www.amazon.jobs/en/jobs/3119226/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -2426,16 +2482,16 @@
  {
   "company": "Amazon",
   "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
-  "location": "DE, BE, Berlin",
-  "url": "https://www.amazon.jobs/en/jobs/3115016/2026-applied-scientist-intern-amazon-university-talent-acquisition",
+  "location": "ES, Barcelona",
+  "url": "https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Amazon",
   "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
-  "location": "ES, Barcelona",
-  "url": "https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition",
+  "location": "DE, BE, Berlin",
+  "url": "https://www.amazon.jobs/en/jobs/3115016/2026-applied-scientist-intern-amazon-university-talent-acquisition",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
@@ -2458,16 +2514,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  }
