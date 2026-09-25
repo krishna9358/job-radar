@@ -24,6 +24,22 @@
   "first_seen": "2026-09-25"
  },
  {
+  "company": "Salesforce",
+  "title": "Commercial Graduate Rotation Program - Solution Engineering Path - Hebrew Speaking Market",
+  "location": "Ireland - Dublin",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Solution-Engineering-Path---Hebrew-Speaking-Market_JR361685-1",
+  "kind": "New Grad",
+  "first_seen": "2026-09-25"
+ },
+ {
+  "company": "Salesforce",
+  "title": "Commercial Graduate Rotation Program - Solution Engineer Path - Arabic Speaking Markets",
+  "location": "Ireland - Dublin",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Solution-Engineer-Path---Arabic-Speaking-Markets_JR361682-1",
+  "kind": "New Grad",
+  "first_seen": "2026-09-25"
+ },
+ {
   "company": "Palantir",
   "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
   "location": "Washington, D.C.",
@@ -48,82 +64,10 @@
   "first_seen": "2026-09-25"
  },
  {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "BENGALURU, KARNATAKA, India",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/345516",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-25"
- },
- {
-  "company": "Autodesk",
-  "title": "Intern, Software Development Engineer [PSET-Localization]",
-  "location": "Singapore, SGP",
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100998-2",
-  "kind": "Internship",
-  "first_seen": "2026-09-25"
- },
- {
-  "company": "Autodesk",
-  "title": "Intern, Software Development Engineer [PSET-Localization]",
-  "location": "Singapore, SGP",
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100997-2",
-  "kind": "Internship",
-  "first_seen": "2026-09-25"
- },
- {
-  "company": "Autodesk",
-  "title": "Intern, Software Development Engineer [PSET-Connected Delivery]",
-  "location": "Singapore, SGP",
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Connected-Delivery-_26WD100995-2",
-  "kind": "Internship",
-  "first_seen": "2026-09-25"
- },
- {
-  "company": "Autodesk",
-  "title": "Intern, Software Development Engineer [PSET-Access-ENG]",
-  "location": "Singapore, SGP",
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100989-2",
-  "kind": "Internship",
-  "first_seen": "2026-09-25"
- },
- {
-  "company": "Autodesk",
-  "title": "Intern, Software Development Engineer [PSET-Access-ENG]",
-  "location": "Singapore, SGP",
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100988-2",
-  "kind": "Internship",
-  "first_seen": "2026-09-25"
- },
- {
-  "company": "Autodesk",
-  "title": "Intern, Software Development Engineer [PSET-Access-ENG]",
-  "location": "Singapore, SGP",
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100986-2",
-  "kind": "Internship",
-  "first_seen": "2026-09-25"
- },
- {
-  "company": "Autodesk",
-  "title": "Intern, Software Development Engineer [PSET-Access-ENG]",
-  "location": "Singapore, SGP",
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100987-2",
-  "kind": "Internship",
-  "first_seen": "2026-09-25"
- },
- {
-  "company": "Autodesk",
-  "title": "Intern, Software Development Engineer [PSET-Access-ENG]",
-  "location": "Singapore, SGP",
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100985-2",
-  "kind": "Internship",
-  "first_seen": "2026-09-25"
- },
- {
-  "company": "Autodesk",
-  "title": "Intern, Software Development Engineer [PSET - Product Data -\u00a0 Document Management]",
-  "location": "Singapore, SGP",
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET---Product-Data----Document-Management-_26WD100984",
+  "company": "Atlassian",
+  "title": "Security Engineer Intern, 2027 Summer U.S.",
+  "location": "Seattle - United States -   Seattle, Washington  United States; San Francisco - United States -   San Francisco, California 94104 United States",
+  "url": "https://campus-americas.icims.com/jobs/26267/security-engineer-intern%2c-2027-summer-u.s./job",
   "kind": "Internship",
   "first_seen": "2026-09-25"
  },
@@ -131,7 +75,7 @@
   "company": "Atlassian",
   "title": "Machine Learning Engineer, 2027 Graduate U.S.",
   "location": "Seattle - United States -   Seattle, Washington  United States",
-  "url": "https://globalcareers-atlassian.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job",
+  "url": "https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job",
   "kind": "New Grad",
   "first_seen": "2026-09-25"
  },
@@ -139,16 +83,8 @@
   "company": "Atlassian",
   "title": "Data Scientist Intern, 2027 Summer U.S.",
   "location": "Seattle - United States -   Seattle, Washington  United States",
-  "url": "https://globalcareers-atlassian.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job",
+  "url": "https://campus-americas.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job",
   "kind": "Internship",
-  "first_seen": "2026-09-25"
- },
- {
-  "company": "Amazon",
-  "title": "Sr. Applied Scientist, International Emerging Stores Payments",
-  "location": "US, WA, Seattle",
-  "url": "https://www.amazon.jobs/en/jobs/10515228/sr-applied-scientist-international-emerging-stores-payments",
-  "kind": "Entry Level",
   "first_seen": "2026-09-25"
  },
  {
@@ -204,14 +140,6 @@
   "title": "Software Engineer Internship, Frontend",
   "location": "New York, NY (HQ)",
   "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74",
-  "kind": "Internship",
-  "first_seen": "2026-09-24"
- },
- {
-  "company": "Atlassian",
-  "title": "Security Engineer Intern, 2027 Summer U.S.",
-  "location": "Seattle - United States -   Seattle, Washington  United States; San Francisco - United States -   San Francisco, California 94104 United States",
-  "url": "https://globalcareers-atlassian.icims.com/jobs/26267/security-engineer-intern%2c-2027-summer-u.s./job",
   "kind": "Internship",
   "first_seen": "2026-09-24"
  },
@@ -546,16 +474,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, Early Career \u2014 Immediate Start",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8212517",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8212508",
   "kind": "New Grad",
   "first_seen": "2026-09-18"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, Early Career \u2014 Immediate Start",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8212508",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8212517",
   "kind": "New Grad",
   "first_seen": "2026-09-18"
  },
@@ -596,14 +524,6 @@
   "title": "AI Infrastructure and Frameworks Intern, Cosmos Lab - 2027",
   "location": "3 Locations",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/AI-Infrastructure-and-Frameworks-Intern--Cosmos-Lab---2027_JR2025559",
-  "kind": "Internship",
-  "first_seen": "2026-09-17"
- },
- {
-  "company": "Autodesk",
-  "title": "Intern, Software Developer/ Stagiaire en D\u00e9veloppement Logiciel",
-  "location": "Montreal, QC, CAN",
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114-1",
   "kind": "Internship",
   "first_seen": "2026-09-17"
  },
@@ -696,14 +616,6 @@
   "first_seen": "2026-09-16"
  },
  {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "Kansas City, MO, United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/345427",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-15"
- },
- {
   "company": "OpenAI",
   "title": "Software Engineer, Applied Emerging Talent (2027)",
   "location": "San Francisco",
@@ -760,14 +672,6 @@
   "first_seen": "2026-09-15"
  },
  {
-  "company": "Autodesk",
-  "title": "Intern, Software Developer, Stagiaire en D\u00e9veloppement Logiciel",
-  "location": "Montreal, QC, CAN",
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101101-2",
-  "kind": "Internship",
-  "first_seen": "2026-09-15"
- },
- {
   "company": "Atlassian",
   "title": "Software Engineer, 2027 Graduate U.S.",
   "location": "Seattle - United States -   Seattle, Washington  United States",
@@ -818,14 +722,6 @@
  {
   "company": "Scale AI",
   "title": "Software Engineering Intern (Summer 2027) ",
-  "location": "Doha, Qatar ",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
-  "kind": "Internship",
-  "first_seen": "2026-09-14"
- },
- {
-  "company": "Scale AI",
-  "title": "Software Engineering Intern (Summer 2027) ",
   "location": "London, UK",
   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
   "kind": "Internship",
@@ -833,10 +729,10 @@
  },
  {
   "company": "Scale AI",
-  "title": "Software Engineer - New Grad",
+  "title": "Software Engineering Intern (Summer 2027) ",
   "location": "Doha, Qatar ",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
-  "kind": "New Grad",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
+  "kind": "Internship",
   "first_seen": "2026-09-14"
  },
  {
@@ -844,6 +740,14 @@
   "title": "Software Engineer - New Grad",
   "location": "London, UK",
   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
+  "kind": "New Grad",
+  "first_seen": "2026-09-14"
+ },
+ {
+  "company": "Scale AI",
+  "title": "Software Engineer - New Grad",
+  "location": "Doha, Qatar ",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
   "kind": "New Grad",
   "first_seen": "2026-09-14"
  },
@@ -1016,14 +920,6 @@
   "first_seen": "2026-09-11"
  },
  {
-  "company": "Oracle",
-  "title": "OCI Core Infrastructure Engineer 2 - Nashville Campus",
-  "location": "Nashville, TN, United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/345223",
-  "kind": "New Grad",
-  "first_seen": "2026-09-11"
- },
- {
   "company": "Lyft",
   "title": "Software Engineer Intern, Test Automation (Summer 2027)",
   "location": "Montreal, Canada",
@@ -1106,16 +1002,16 @@
  {
   "company": "Lyft",
   "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-  "location": "San Francisco, CA",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+  "location": "New York, NY",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
  {
   "company": "Lyft",
   "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-  "location": "New York, NY",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+  "location": "San Francisco, CA",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
@@ -1298,16 +1194,16 @@
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Madrid, Spain",
-  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
+  "location": "Paris, France",
+  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Paris, France",
-  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+  "location": "Madrid, Spain",
+  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
@@ -1426,8 +1322,8 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "location": "Bucharest",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -1442,8 +1338,8 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Bucharest",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -1542,54 +1438,6 @@
   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
   "kind": "Internship",
   "first_seen": "2026-08-31"
- },
- {
-  "company": "Autodesk",
-  "title": "Stagiaire en D\u00e9veloppement Cloud, Intern Cloud Developer \u2013 FCAP",
-  "location": "Montreal, QC, CAN",
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2",
-  "kind": "Internship",
-  "first_seen": "2026-08-29"
- },
- {
-  "company": "Autodesk",
-  "title": "Stagiaire en D\u00e9veloppement Cloud, Intern Cloud Developer",
-  "location": "Montreal, QC, CAN",
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400",
-  "kind": "Internship",
-  "first_seen": "2026-08-29"
- },
- {
-  "company": "Autodesk",
-  "title": "Software Engineering Intern Summer 2027",
-  "location": "Norway - Oslo",
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046",
-  "kind": "Internship",
-  "first_seen": "2026-08-29"
- },
- {
-  "company": "Autodesk",
-  "title": "Intern, AI Developer/ Stagiaire en d\u00e9veloppement IA",
-  "location": "Montreal, QC, CAN",
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2",
-  "kind": "Internship",
-  "first_seen": "2026-08-29"
- },
- {
-  "company": "Autodesk",
-  "title": "Intern Software Developer, Stagiaire en D\u00e9veloppement Logiciel",
-  "location": "Montreal, QC, CAN",
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2",
-  "kind": "Internship",
-  "first_seen": "2026-08-29"
- },
- {
-  "company": "Autodesk",
-  "title": "Graduate Software Engineer",
-  "location": "Norway - Oslo",
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Norway---Oslo/Graduate-Software-Engineer_26WD100002-1",
-  "kind": "New Grad",
-  "first_seen": "2026-08-29"
  },
  {
   "company": "Adobe",
@@ -1700,14 +1548,6 @@
   "title": "\u3010Class of 2029\uff0fInternship\u3011Applied Scientists , Amazon International Stores, Amazon Japan Store Tech",
   "location": "JP, 13, Tokyo",
   "url": "https://www.amazon.jobs/en/jobs/10504617/class-of-2029-internship-applied-scientists-amazon-international-stores-amazon-japan-store-tech",
-  "kind": "Internship",
-  "first_seen": "2026-08-18"
- },
- {
-  "company": "Amazon",
-  "title": "\u3010Class of 2028 & 2029\uff0fInternship\u3011Software Development Engineers , Amazon International Stores",
-  "location": "JP, 13, Tokyo",
-  "url": "https://www.amazon.jobs/en/jobs/10503558/class-of-2028-2029-internship-software-development-engineers-amazon-international-stores",
   "kind": "Internship",
   "first_seen": "2026-08-18"
  },
@@ -2418,14 +2258,6 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "RO, Iasi",
-  "url": "https://www.amazon.jobs/en/jobs/3119226/software-development-engineer-2026",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer \u2013 2026",
   "location": "GB, London",
   "url": "https://www.amazon.jobs/en/jobs/10408763/software-development-engineer-2026",
   "kind": "Entry Level",
@@ -2433,10 +2265,10 @@
  },
  {
   "company": "Amazon",
-  "title": "Software Development Engineer Internship, Mexico City",
-  "location": "MX, DIF, Mexico City",
-  "url": "https://www.amazon.jobs/en/jobs/3123246/software-development-engineer-internship-mexico-city",
-  "kind": "Internship",
+  "title": "Software Development Engineer \u2013 2026",
+  "location": "RO, Iasi",
+  "url": "https://www.amazon.jobs/en/jobs/3119226/software-development-engineer-2026",
+  "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
@@ -2453,14 +2285,6 @@
   "location": "DE, BE, Berlin",
   "url": "https://www.amazon.jobs/en/jobs/3110381/software-development-engineer-2026",
   "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Software Dev Engineer internship - Embedded Development",
-  "location": "DE, BE, Berlin",
-  "url": "https://www.amazon.jobs/en/jobs/3134271/software-dev-engineer-internship-embedded-development",
-  "kind": "Internship",
   "first_seen": "2026-07-29"
  },
  {
@@ -2530,16 +2354,16 @@
  {
   "company": "Amazon",
   "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
-  "location": "DE, BE, Berlin",
-  "url": "https://www.amazon.jobs/en/jobs/3115016/2026-applied-scientist-intern-amazon-university-talent-acquisition",
+  "location": "ES, Barcelona",
+  "url": "https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Amazon",
   "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
-  "location": "ES, Barcelona",
-  "url": "https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition",
+  "location": "DE, BE, Berlin",
+  "url": "https://www.amazon.jobs/en/jobs/3115016/2026-applied-scientist-intern-amazon-university-talent-acquisition",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
