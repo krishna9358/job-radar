@@ -1,5 +1,13 @@
 [
  {
+  "company": "Amazon",
+  "title": "Sr. Applied Scientist, International Emerging Stores Payments",
+  "location": "US, WA, Seattle",
+  "url": "https://www.amazon.jobs/en/jobs/10515228/sr-applied-scientist-international-emerging-stores-payments",
+  "kind": "Entry Level",
+  "first_seen": "2026-09-27"
+ },
+ {
   "company": "Oracle",
   "title": "ONA AI Agent Intern (Logistics Focus) - OVIP",
   "location": "Austin, TX, United States",
@@ -2506,16 +2514,16 @@
  {
   "company": "Amazon",
   "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
-  "location": "DE, BE, Berlin",
-  "url": "https://www.amazon.jobs/en/jobs/3115016/2026-applied-scientist-intern-amazon-university-talent-acquisition",
+  "location": "ES, Barcelona",
+  "url": "https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Amazon",
   "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
-  "location": "ES, Barcelona",
-  "url": "https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition",
+  "location": "DE, BE, Berlin",
+  "url": "https://www.amazon.jobs/en/jobs/3115016/2026-applied-scientist-intern-amazon-university-talent-acquisition",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
