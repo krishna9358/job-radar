@@ -1,10 +1,74 @@
 [
  {
+  "company": "Workday",
+  "title": "Sr Associate Machine Learning Engineer",
+  "location": "Canada, BC, Vancouver",
+  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Sr-Associate-Machine-Learning-Engineer_JR-0110395",
+  "kind": "Entry Level",
+  "first_seen": "2026-09-29"
+ },
+ {
   "company": "Rubrik",
   "title": "Software Engineer - Winter Intern",
   "location": "Bangalore",
   "url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523",
   "kind": "Internship",
+  "first_seen": "2026-09-29"
+ },
+ {
+  "company": "Oracle",
+  "title": "Support Engineer 1",
+  "location": "BENGALURU, KARNATAKA, India",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346200",
+  "kind": "Entry Level",
+  "first_seen": "2026-09-29"
+ },
+ {
+  "company": "Oracle",
+  "title": "Support Engineer 1",
+  "location": "BENGALURU, KARNATAKA, India",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346201",
+  "kind": "Entry Level",
+  "first_seen": "2026-09-29"
+ },
+ {
+  "company": "Oracle",
+  "title": "Support Engineer 1",
+  "location": "Kansas City, MO, United States",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/345533",
+  "kind": "Entry Level",
+  "first_seen": "2026-09-29"
+ },
+ {
+  "company": "Netflix",
+  "title": "Associate, Revenue Analytics Finance & Strategy - AI Automation",
+  "location": "Los Gatos,California,United States of America",
+  "url": "https://explore.jobs.netflix.net/careers/job/790317599353",
+  "kind": "Entry Level",
+  "first_seen": "2026-09-29"
+ },
+ {
+  "company": "Netflix",
+  "title": "Associate, APAC Revenue Analytics",
+  "location": "Mumbai,India",
+  "url": "https://explore.jobs.netflix.net/careers/job/790317336766",
+  "kind": "Entry Level",
+  "first_seen": "2026-09-29"
+ },
+ {
+  "company": "Netflix",
+  "title": "Associate Technical Supervisor (Front End) - Netflix Animation Studios",
+  "location": "Vancouver,Canada",
+  "url": "https://explore.jobs.netflix.net/careers/job/790316431938",
+  "kind": "Entry Level",
+  "first_seen": "2026-09-29"
+ },
+ {
+  "company": "Netflix",
+  "title": "Associate Technical Supervisor (Back-End) - Netflix Animation Studios",
+  "location": "Vancouver,Canada",
+  "url": "https://explore.jobs.netflix.net/careers/job/790315043614",
+  "kind": "Entry Level",
   "first_seen": "2026-09-29"
  },
  {
@@ -25,17 +89,17 @@
  },
  {
   "company": "NVIDIA",
-  "title": "AI Computing Software Development Intern - 2027",
-  "location": "Taiwan, Taipei",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Computing-Software-Development-Intern---2027_JR2026298",
-  "kind": "Internship",
+  "title": "Applied Machine Learning Engineer, AI for VLSI Design - New College Grad 2026",
+  "location": "US, CA, Santa Clara",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576",
+  "kind": "Entry Level",
   "first_seen": "2026-09-29"
  },
  {
-  "company": "Amazon",
-  "title": "\u3010Class of 2029\uff0fInternship\u3011Applied Scientists , Amazon International Stores, Amazon Japan Store Tech",
-  "location": "JP, 13, Tokyo",
-  "url": "https://www.amazon.jobs/en/jobs/10504617/class-of-2029-internship-applied-scientists-amazon-international-stores-amazon-japan-store-tech",
+  "company": "NVIDIA",
+  "title": "AI Computing Software Development Intern - 2027",
+  "location": "Taiwan, Taipei",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Computing-Software-Development-Intern---2027_JR2026298",
   "kind": "Internship",
   "first_seen": "2026-09-29"
  },
@@ -158,22 +222,6 @@
   "url": "https://www.samsara.com/company/careers/roles/8112694?gh_jid=8112694",
   "kind": "Entry Level",
   "first_seen": "2026-09-27"
- },
- {
-  "company": "Oracle",
-  "title": "ONA AI Agent Intern (Logistics Focus) - OVIP",
-  "location": "Austin, TX, United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/334345",
-  "kind": "Internship",
-  "first_seen": "2026-09-26"
- },
- {
-  "company": "Oracle",
-  "title": "OCI Software Engineer Intern - OVIP",
-  "location": "Austin, TX, United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/334333",
-  "kind": "Internship",
-  "first_seen": "2026-09-26"
  },
  {
   "company": "Autodesk",
@@ -1056,14 +1104,6 @@
   "first_seen": "2026-09-14"
  },
  {
-  "company": "Okta",
-  "title": "Developer Support Associate (New Grad)",
-  "location": "Chicago, Illinois",
-  "url": "https://www.okta.com/company/careers/opportunity/8191506?gh_jid=8191506",
-  "kind": "New Grad",
-  "first_seen": "2026-09-14"
- },
- {
   "company": "Figma",
   "title": "Software Engineer Intern (Summer 2027)",
   "location": "San Francisco, CA \u2022 New York, NY",
@@ -1110,22 +1150,6 @@
   "url": "https://job-boards.greenhouse.io/affirm/jobs/7985907003",
   "kind": "Entry Level",
   "first_seen": "2026-09-12"
- },
- {
-  "company": "Salesforce",
-  "title": "AI Builder Intern [Mexico]",
-  "location": "Mexico - Mexico City",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/AI-Builder-Intern--Mexico-_JR359971-2",
-  "kind": "Internship",
-  "first_seen": "2026-09-11"
- },
- {
-  "company": "Salesforce",
-  "title": "AI Builder Intern [Brazil]",
-  "location": "Brazil - Sao Paulo",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Sao-Paulo/AI-Builder-Intern--Brazil-_JR359969",
-  "kind": "Internship",
-  "first_seen": "2026-09-11"
  },
  {
   "company": "Lyft",
@@ -1578,16 +1602,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+  "location": "London",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "London",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
@@ -2546,16 +2570,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  }
