@@ -1,5 +1,13 @@
 [
  {
+  "company": "Rubrik",
+  "title": "Software Engineer - Winter Intern",
+  "location": "Bangalore",
+  "url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523",
+  "kind": "Internship",
+  "first_seen": "2026-09-29"
+ },
+ {
   "company": "NVIDIA",
   "title": "Mixed Signal Design Engineer - New College Grad 2026",
   "location": "2 Locations",
@@ -1530,6 +1538,14 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+  "kind": "New Grad",
+  "first_seen": "2026-09-01"
+ },
+ {
+  "company": "Stripe",
+  "title": "Software Engineer, New Grad",
   "location": "Toronto",
   "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
@@ -1540,14 +1556,6 @@
   "title": "Software Engineer, New Grad",
   "location": "Bucharest",
   "url": "https://stripe.com/jobs/search?gh_jid=8130922",
-  "kind": "New Grad",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "Stripe",
-  "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
