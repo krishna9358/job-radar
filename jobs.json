@@ -1,5 +1,37 @@
 [
  {
+  "company": "Oracle",
+  "title": "ONA AI Agent Intern (Logistics Focus) - OVIP",
+  "location": "Austin, TX, United States",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/334345",
+  "kind": "Internship",
+  "first_seen": "2026-10-01"
+ },
+ {
+  "company": "Oracle",
+  "title": "OCI Software Engineer Intern - OVIP",
+  "location": "Austin, TX, United States",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/334333",
+  "kind": "Internship",
+  "first_seen": "2026-10-01"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer, Early Career",
+  "location": "US, MA, Cambridge",
+  "url": "https://www.amazon.jobs/en/jobs/10530257/software-development-engineer-early-career",
+  "kind": "New Grad",
+  "first_seen": "2026-10-01"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer - 2026 (US)",
+  "location": "US, WA, Seattle",
+  "url": "https://www.amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-01"
+ },
+ {
   "company": "Stripe",
   "title": "High School Internship, Software Engineering (Summer 2027)",
   "location": "Seattle, San Francisco",
@@ -154,16 +186,16 @@
  {
   "company": "Amazon",
   "title": "Operations Engineer Intern (Field)",
-  "location": "DE, HE, Bad Hersfeld",
-  "url": "https://www.amazon.jobs/en/jobs/10551626/operations-engineer-intern-field",
+  "location": "IE, D, Dublin",
+  "url": "https://www.amazon.jobs/en/jobs/10551649/operations-engineer-intern-field",
   "kind": "Internship",
   "first_seen": "2026-09-30"
  },
  {
   "company": "Amazon",
   "title": "Operations Engineer Intern (Field)",
-  "location": "IE, D, Dublin",
-  "url": "https://www.amazon.jobs/en/jobs/10551649/operations-engineer-intern-field",
+  "location": "DE, HE, Bad Hersfeld",
+  "url": "https://www.amazon.jobs/en/jobs/10551626/operations-engineer-intern-field",
   "kind": "Internship",
   "first_seen": "2026-09-30"
  },
@@ -208,27 +240,11 @@
   "first_seen": "2026-09-30"
  },
  {
-  "company": "Workday",
-  "title": "Sr Associate Machine Learning Engineer",
-  "location": "Canada, BC, Vancouver",
-  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Sr-Associate-Machine-Learning-Engineer_JR-0110395",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-29"
- },
- {
   "company": "Rubrik",
   "title": "Software Engineer - Winter Intern",
   "location": "Bangalore",
   "url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523",
   "kind": "Internship",
-  "first_seen": "2026-09-29"
- },
- {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "Kansas City, MO, United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/345533",
-  "kind": "Entry Level",
   "first_seen": "2026-09-29"
  },
  {
@@ -664,14 +680,6 @@
   "first_seen": "2026-09-24"
  },
  {
-  "company": "Workday",
-  "title": "Sr Associate Support Engineer, Adaptive Planning AI, ML & Platform Operations",
-  "location": "IND.Pune",
-  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Sr-Associate-Support-Engineer--Adaptive-Planning-AI--ML---Platform-Operations_JR-0110344",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-23"
- },
- {
   "company": "Scale AI",
   "title": "Software Engineer, Public Sector - New Grad",
   "location": "San Francisco, CA",
@@ -906,16 +914,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, Early Career \u2014 Immediate Start",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8212508",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8212517",
   "kind": "New Grad",
   "first_seen": "2026-09-18"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, Early Career \u2014 Immediate Start",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8212517",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8212508",
   "kind": "New Grad",
   "first_seen": "2026-09-18"
  },
@@ -1024,22 +1032,6 @@
   "first_seen": "2026-09-15"
  },
  {
-  "company": "Duolingo",
-  "title": "Software Engineer, Thrive Intern",
-  "location": "Pittsburgh, PA",
-  "url": "https://careers.duolingo.com/jobs/8806114002?gh_jid=8806114002",
-  "kind": "Internship",
-  "first_seen": "2026-09-15"
- },
- {
-  "company": "Duolingo",
-  "title": "Software Engineer, Intern",
-  "location": "New York, NY; Pittsburgh, PA; Seattle, WA",
-  "url": "https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002",
-  "kind": "Internship",
-  "first_seen": "2026-09-15"
- },
- {
   "company": "DoorDash",
   "title": "Software Engineer, Intern (Summer 2027) - US",
   "location": "New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA",
@@ -1106,14 +1098,6 @@
  {
   "company": "Scale AI",
   "title": "Software Engineering Intern (Summer 2027) ",
-  "location": "Doha, Qatar ",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
-  "kind": "Internship",
-  "first_seen": "2026-09-14"
- },
- {
-  "company": "Scale AI",
-  "title": "Software Engineering Intern (Summer 2027) ",
   "location": "London, UK",
   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
   "kind": "Internship",
@@ -1121,10 +1105,10 @@
  },
  {
   "company": "Scale AI",
-  "title": "Software Engineer - New Grad",
+  "title": "Software Engineering Intern (Summer 2027) ",
   "location": "Doha, Qatar ",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
-  "kind": "New Grad",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
+  "kind": "Internship",
   "first_seen": "2026-09-14"
  },
  {
@@ -1132,6 +1116,14 @@
   "title": "Software Engineer - New Grad",
   "location": "London, UK",
   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
+  "kind": "New Grad",
+  "first_seen": "2026-09-14"
+ },
+ {
+  "company": "Scale AI",
+  "title": "Software Engineer - New Grad",
+  "location": "Doha, Qatar ",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
   "kind": "New Grad",
   "first_seen": "2026-09-14"
  },
@@ -1593,14 +1585,6 @@
  },
  {
   "company": "Zip",
-  "title": "Software Engineer, New Grad (2027 Start)",
-  "location": "San Francisco",
-  "url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea",
-  "kind": "New Grad",
-  "first_seen": "2026-09-04"
- },
- {
-  "company": "Zip",
   "title": "Software Engineer Intern (Winter 2027)",
   "location": "Toronto",
   "url": "https://jobs.ashbyhq.com/zip/2bc7327b-1c06-418a-beeb-bec1dd70480e",
@@ -1658,14 +1642,6 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
-  "kind": "New Grad",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "Stripe",
-  "title": "Software Engineer, New Grad",
   "location": "Toronto",
   "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
@@ -1676,6 +1652,14 @@
   "title": "Software Engineer, New Grad",
   "location": "Bucharest",
   "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+  "kind": "New Grad",
+  "first_seen": "2026-09-01"
+ },
+ {
+  "company": "Stripe",
+  "title": "Software Engineer, New Grad",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -1829,14 +1813,6 @@
   "location": "Toronto",
   "url": "https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792",
   "kind": "New Grad",
-  "first_seen": "2026-08-26"
- },
- {
-  "company": "Zip",
-  "title": "Software Engineer Intern (Summer 2027)",
-  "location": "San Francisco",
-  "url": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf",
-  "kind": "Internship",
   "first_seen": "2026-08-26"
  },
  {
@@ -2530,14 +2506,6 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
-  "location": "ZA, Cape Town",
-  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer \u2013 2026",
   "location": "ES, M, Madrid",
   "url": "https://www.amazon.jobs/en/jobs/3175845/software-development-engineer-2026",
   "kind": "Entry Level",
@@ -2548,6 +2516,14 @@
   "title": "Software Development Engineer \u2013 2026",
   "location": "GB, London",
   "url": "https://www.amazon.jobs/en/jobs/10408763/software-development-engineer-2026",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer \u2013 2026",
+  "location": "ZA, Cape Town",
+  "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -2642,16 +2618,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  }
