@@ -1,5 +1,37 @@
 [
  {
+  "company": "Workday",
+  "title": "Sr Associate Support Engineer, Adaptive Planning AI, ML & Platform Operations",
+  "location": "IND.Pune",
+  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Sr-Associate-Support-Engineer--Adaptive-Planning-AI--ML---Platform-Operations_JR-0110344",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-01"
+ },
+ {
+  "company": "Workday",
+  "title": "Sr Associate Machine Learning Engineer",
+  "location": "Canada, BC, Vancouver",
+  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Sr-Associate-Machine-Learning-Engineer_JR-0110395",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-01"
+ },
+ {
+  "company": "Salesforce",
+  "title": "Associate proactive Monitoring Engineer",
+  "location": "India - Hyderabad",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Associate-proactive-Monitoring-Engineer_JR341087-2",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-01"
+ },
+ {
+  "company": "Salesforce",
+  "title": "Associate Technical Support Engineer",
+  "location": "India - Hyderabad",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Associate-Technical-Support-Engineer_JR356515",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-01"
+ },
+ {
   "company": "Oracle",
   "title": "ONA AI Agent Intern (Logistics Focus) - OVIP",
   "location": "Austin, TX, United States",
@@ -28,6 +60,38 @@
   "title": "Software Development Engineer - 2026 (US)",
   "location": "US, WA, Seattle",
   "url": "https://www.amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-01"
+ },
+ {
+  "company": "Amazon",
+  "title": "Operations Engineer Intern (Field)",
+  "location": "DE, HE, Bad Hersfeld",
+  "url": "https://www.amazon.jobs/en/jobs/10566344/operations-engineer-intern-field",
+  "kind": "Internship",
+  "first_seen": "2026-10-01"
+ },
+ {
+  "company": "Amazon",
+  "title": "Data Center Engineering Operations - 2027 Internship, Data Center Engineering Operations",
+  "location": "ZA, Cape Town",
+  "url": "https://www.amazon.jobs/en/jobs/10566414/data-center-engineering-operations-2027-internship-data-center-engineering-operations",
+  "kind": "Internship",
+  "first_seen": "2026-10-01"
+ },
+ {
+  "company": "Amazon",
+  "title": "Applied Scientist, International Seller Services ",
+  "location": "US, WA, Seattle",
+  "url": "https://www.amazon.jobs/en/jobs/10566351/applied-scientist-international-seller-services",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-01"
+ },
+ {
+  "company": "Amazon",
+  "title": "Applied Scientist, International Seller Services",
+  "location": "US, WA, Seattle",
+  "url": "https://www.amazon.jobs/en/jobs/10566354/applied-scientist-international-seller-services",
   "kind": "Entry Level",
   "first_seen": "2026-10-01"
  },
@@ -180,22 +244,6 @@
   "title": "Operations Engineer Intern (Field)",
   "location": "FR, Saran",
   "url": "https://www.amazon.jobs/en/jobs/10551637/operations-engineer-intern-field",
-  "kind": "Internship",
-  "first_seen": "2026-09-30"
- },
- {
-  "company": "Amazon",
-  "title": "Operations Engineer Intern (Field)",
-  "location": "IE, D, Dublin",
-  "url": "https://www.amazon.jobs/en/jobs/10551649/operations-engineer-intern-field",
-  "kind": "Internship",
-  "first_seen": "2026-09-30"
- },
- {
-  "company": "Amazon",
-  "title": "Operations Engineer Intern (Field)",
-  "location": "DE, HE, Bad Hersfeld",
-  "url": "https://www.amazon.jobs/en/jobs/10551626/operations-engineer-intern-field",
   "kind": "Internship",
   "first_seen": "2026-09-30"
  },
@@ -364,14 +412,6 @@
   "title": "Sr. Applied Scientist, International Emerging Stores Payments",
   "location": "US, WA, Seattle",
   "url": "https://www.amazon.jobs/en/jobs/10515228/sr-applied-scientist-international-emerging-stores-payments",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-28"
- },
- {
-  "company": "Amazon",
-  "title": "Applied Scientist, Mobile Manipulation Robotics (I/O)",
-  "location": "US, MA, North Reading",
-  "url": "https://www.amazon.jobs/en/jobs/10393255/applied-scientist-mobile-manipulation-robotics-i-o",
   "kind": "Entry Level",
   "first_seen": "2026-09-28"
  },
@@ -914,16 +954,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, Early Career \u2014 Immediate Start",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8212517",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8212508",
   "kind": "New Grad",
   "first_seen": "2026-09-18"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, Early Career \u2014 Immediate Start",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8212508",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8212517",
   "kind": "New Grad",
   "first_seen": "2026-09-18"
  },
@@ -996,14 +1036,6 @@
   "title": "Software Engineering Intern \u2014 Replay Tooling and Test Automation - Autonomous Driving",
   "location": "Germany, Munich",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086",
-  "kind": "Internship",
-  "first_seen": "2026-09-16"
- },
- {
-  "company": "NVIDIA",
-  "title": "Firmware Application Engineer (RDSS Intern)",
-  "location": "Taiwan, Taipei",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Firmware-Application-Engineer--RDSS-Intern-_JR2024884",
   "kind": "Internship",
   "first_seen": "2026-09-16"
  },
@@ -1098,16 +1130,16 @@
  {
   "company": "Scale AI",
   "title": "Software Engineering Intern (Summer 2027) ",
-  "location": "London, UK",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+  "location": "Doha, Qatar ",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
   "kind": "Internship",
   "first_seen": "2026-09-14"
  },
  {
   "company": "Scale AI",
   "title": "Software Engineering Intern (Summer 2027) ",
-  "location": "Doha, Qatar ",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
+  "location": "London, UK",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
   "kind": "Internship",
   "first_seen": "2026-09-14"
  },
@@ -1642,16 +1674,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "location": "Bucharest",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Bucharest",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -2458,16 +2490,16 @@
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Shanghai, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
+  "location": "Beijing, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Beijing, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
+  "location": "Shanghai, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -2618,16 +2650,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  }
