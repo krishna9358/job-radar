@@ -1,5 +1,53 @@
 [
  {
+  "company": "Netflix",
+  "title": "Associate, Revenue Analytics Finance & Strategy - AI Automation",
+  "location": "Los Gatos,California,United States of America",
+  "url": "https://explore.jobs.netflix.net/careers/job/790317599353",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-02"
+ },
+ {
+  "company": "Netflix",
+  "title": "Associate, APAC Revenue Analytics",
+  "location": "Mumbai,India",
+  "url": "https://explore.jobs.netflix.net/careers/job/790317336766",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-02"
+ },
+ {
+  "company": "Netflix",
+  "title": "Associate Technical Supervisor (Front End) - Netflix Animation Studios",
+  "location": "Vancouver,Canada",
+  "url": "https://explore.jobs.netflix.net/careers/job/790316431938",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-02"
+ },
+ {
+  "company": "Netflix",
+  "title": "Associate Technical Supervisor (Back-End) - Netflix Animation Studios",
+  "location": "Vancouver,Canada",
+  "url": "https://explore.jobs.netflix.net/careers/job/790315043614",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-02"
+ },
+ {
+  "company": "Amazon",
+  "title": "Data Center Engineering Operations - 2027 Internship ",
+  "location": "ES, Zaragoza",
+  "url": "https://www.amazon.jobs/en/jobs/10567712/data-center-engineering-operations-2027-internship",
+  "kind": "Internship",
+  "first_seen": "2026-10-02"
+ },
+ {
+  "company": "Amazon",
+  "title": "Business Intelligence Engineer Intern Germany",
+  "location": "DE, Munich",
+  "url": "https://www.amazon.jobs/en/jobs/10567688/business-intelligence-engineer-intern-germany",
+  "kind": "Internship",
+  "first_seen": "2026-10-02"
+ },
+ {
   "company": "Workday",
   "title": "Sr Associate Support Engineer, Adaptive Planning AI, ML & Platform Operations",
   "location": "IND.Pune",
@@ -42,16 +90,16 @@
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "New York, Seattle, South San Francisco HQ",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+  "location": "New York, Seattle, South San Francisco HQ",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
@@ -1098,16 +1146,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, Early Career \u2014 Immediate Start",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8212517",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8212508",
   "kind": "New Grad",
   "first_seen": "2026-09-18"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, Early Career \u2014 Immediate Start",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8212508",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8212517",
   "kind": "New Grad",
   "first_seen": "2026-09-18"
  },
@@ -1158,14 +1206,6 @@
   "url": "https://www.amazon.jobs/en/jobs/10552039/business-developer-intern-2027-12-months-amazon-university-talent-acquisition",
   "kind": "Internship",
   "first_seen": "2026-09-17"
- },
- {
-  "company": "Salesforce",
-  "title": "Associate Solution Engineer - French speaking",
-  "location": "Ireland - Dublin",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Associate-Solution-Engineer---French-speaking_JR359323",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-16"
  },
  {
   "company": "Ramp",
@@ -1698,16 +1738,16 @@
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Paris, France",
-  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+  "location": "Madrid, Spain",
+  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Madrid, Spain",
-  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
+  "location": "Paris, France",
+  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
@@ -1810,16 +1850,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -2764,14 +2804,6 @@
   "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
   "location": "ES, Barcelona",
   "url": "https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
-  "location": "DE, BE, Berlin",
-  "url": "https://www.amazon.jobs/en/jobs/3115016/2026-applied-scientist-intern-amazon-university-talent-acquisition",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
