@@ -328,38 +328,6 @@
   "first_seen": "2026-09-30"
  },
  {
-  "company": "Netflix",
-  "title": "Associate, Revenue Analytics Finance & Strategy - AI Automation",
-  "location": "Los Gatos,California,United States of America",
-  "url": "https://explore.jobs.netflix.net/careers/job/790317599353",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-30"
- },
- {
-  "company": "Netflix",
-  "title": "Associate, APAC Revenue Analytics",
-  "location": "Mumbai,India",
-  "url": "https://explore.jobs.netflix.net/careers/job/790317336766",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-30"
- },
- {
-  "company": "Netflix",
-  "title": "Associate Technical Supervisor (Front End) - Netflix Animation Studios",
-  "location": "Vancouver,Canada",
-  "url": "https://explore.jobs.netflix.net/careers/job/790316431938",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-30"
- },
- {
-  "company": "Netflix",
-  "title": "Associate Technical Supervisor (Back-End) - Netflix Animation Studios",
-  "location": "Vancouver,Canada",
-  "url": "https://explore.jobs.netflix.net/careers/job/790315043614",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-30"
- },
- {
   "company": "NVIDIA",
   "title": "System Design Engineer - New College Grad 2026",
   "location": "US, CA, Santa Clara",
@@ -461,22 +429,6 @@
   "location": "GB, NTT, Mansfield",
   "url": "https://www.amazon.jobs/en/jobs/10551645/operations-engineer-intern-field",
   "kind": "Internship",
-  "first_seen": "2026-09-30"
- },
- {
-  "company": "Amazon",
-  "title": "Applied Scientist I, Worldwide Returns & Recommerce - Science ",
-  "location": "IN, TS, Hyderabad",
-  "url": "https://www.amazon.jobs/en/jobs/10565185/applied-scientist-i-worldwide-returns-recommerce-science",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-30"
- },
- {
-  "company": "Amazon",
-  "title": "Applied Scientist I",
-  "location": "IN, TS, Hyderabad",
-  "url": "https://www.amazon.jobs/en/jobs/10565196/applied-scientist-i",
-  "kind": "Entry Level",
   "first_seen": "2026-09-30"
  },
  {
@@ -1746,16 +1698,16 @@
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Madrid, Spain",
-  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
+  "location": "Paris, France",
+  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Paris, France",
-  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+  "location": "Madrid, Spain",
+  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
@@ -1866,16 +1818,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Bucharest",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+  "location": "Bucharest",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -1914,16 +1866,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "London",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+  "location": "London",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
