@@ -1,10 +1,50 @@
 [
  {
-  "company": "Oracle",
-  "title": "OCI Software Engineer Intern - OVIP",
-  "location": "Austin, TX, United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/334333",
+  "company": "NVIDIA",
+  "title": "Tools and Methodology Engineer, CAD DFT (RDSS Intern)",
+  "location": "2 Locations",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Tools-and-Methodology-Engineer--CAD-DFT--RDSS-Intern-_JR2026887",
   "kind": "Internship",
+  "first_seen": "2026-10-05"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "System Software Engineer - Embedded and Automotive (RDSS Intern)",
+  "location": "Taiwan, Taipei",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Embedded-and-Automotive--RDSS-Intern-_JR2026965",
+  "kind": "Internship",
+  "first_seen": "2026-10-05"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Software Engineering Intern, Nsight Systems - 2026",
+  "location": "2 Locations",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Remote/Software-Engineering-Intern--Nsight-Systems---2026_JR2007248",
+  "kind": "Internship",
+  "first_seen": "2026-10-05"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Software Engineer \u2013 DFT CAD Tools (RDSS Intern)",
+  "location": "Taiwan, Taipei",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer---DFT-CAD-Tools--RDSS-Intern-_JR2026878-1",
+  "kind": "Internship",
+  "first_seen": "2026-10-05"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "NVIDIA 2027 Ignite Internships: Software Engineering",
+  "location": "US, CA, Santa Clara",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-05"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "NVIDIA 2027 Ignite Internships: Hardware Engineering",
+  "location": "US, CA, Santa Clara",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047",
+  "kind": "Entry Level",
   "first_seen": "2026-10-05"
  },
  {
@@ -16,10 +56,58 @@
   "first_seen": "2026-10-05"
  },
  {
+  "company": "NVIDIA",
+  "title": "AI Compiler Formal Verification Intern",
+  "location": "2 Locations",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025",
+  "kind": "Internship",
+  "first_seen": "2026-10-05"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "AI Agent Development Engineer (RDSS Intern)",
+  "location": "2 Locations",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Agent-Development-Engineer--RDSS-Intern-_JR2026971",
+  "kind": "Internship",
+  "first_seen": "2026-10-05"
+ },
+ {
+  "company": "Autodesk",
+  "title": "Intern, Software Engineer in Test [AEC Autocad Engineering]",
+  "location": "Singapore, SGP",
+  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Engineer-in-Test--AEC-Autocad-Engineering-_26WD101362-1",
+  "kind": "Internship",
+  "first_seen": "2026-10-05"
+ },
+ {
+  "company": "Autodesk",
+  "title": "Intern, Software Development Engineer [AEC-AutoCAD Backend]",
+  "location": "Singapore, SGP",
+  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--AEC-AutoCAD-Backend-_26WD101365-1",
+  "kind": "Internship",
+  "first_seen": "2026-10-05"
+ },
+ {
+  "company": "Autodesk",
+  "title": "Intern, DevOps Engineer [AEC-Connected Infrastructure Engineering]",
+  "location": "Singapore, SGP",
+  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--DevOps-Engineer--AEC-Connected-Infrastructure-Engineering-_26WD101363-1",
+  "kind": "Internship",
+  "first_seen": "2026-10-05"
+ },
+ {
   "company": "Amazon",
   "title": "Software Development Engineer Internship, Guadalajara",
   "location": "MX, Zapopan",
   "url": "https://www.amazon.jobs/en/jobs/3123243/software-development-engineer-internship-guadalajara",
+  "kind": "Internship",
+  "first_seen": "2026-10-05"
+ },
+ {
+  "company": "Amazon",
+  "title": "Operations Engineer Intern (Field)",
+  "location": "FR, Saran",
+  "url": "https://www.amazon.jobs/en/jobs/10568804/operations-engineer-intern-field",
   "kind": "Internship",
   "first_seen": "2026-10-05"
  },
@@ -38,14 +126,6 @@
   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/345533",
   "kind": "Entry Level",
   "first_seen": "2026-10-04"
- },
- {
-  "company": "Samsara",
-  "title": "Software Engineer I, Agentic Platform EMEA (Poland, Remote, B2B)",
-  "location": "Remote - Poland",
-  "url": "https://www.samsara.com/company/careers/roles/8210695?gh_jid=8210695",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-03"
  },
  {
   "company": "Netflix",
@@ -226,16 +306,16 @@
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+  "location": "New York, Seattle, South San Francisco HQ",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "New York, Seattle, South San Francisco HQ",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
@@ -554,14 +634,6 @@
  {
   "company": "Amazon",
   "title": "Operations Engineer Intern (Field)",
-  "location": "FR, Saran",
-  "url": "https://www.amazon.jobs/en/jobs/10551637/operations-engineer-intern-field",
-  "kind": "Internship",
-  "first_seen": "2026-09-30"
- },
- {
-  "company": "Amazon",
-  "title": "Operations Engineer Intern (Field)",
   "location": "PL, Sosnowiec",
   "url": "https://www.amazon.jobs/en/jobs/10551663/operations-engineer-intern-field",
   "kind": "Internship",
@@ -740,14 +812,6 @@
   "title": "Stagiaire en D\u00e9veloppement Cloud, Intern Cloud Developer",
   "location": "Montreal, QC, CAN",
   "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400",
-  "kind": "Internship",
-  "first_seen": "2026-09-26"
- },
- {
-  "company": "Autodesk",
-  "title": "Software Engineering Intern Summer 2027",
-  "location": "Norway - Oslo",
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046",
   "kind": "Internship",
   "first_seen": "2026-09-26"
  },
@@ -1264,14 +1328,6 @@
   "first_seen": "2026-09-18"
  },
  {
-  "company": "Adobe",
-  "title": "Computer Scientist I (Frontend)",
-  "location": "Noida",
-  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist-I--Frontend-_R171581",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-18"
- },
- {
   "company": "Amazon",
   "title": "Business Developer Intern - 2027 - 12 Months, Amazon University Talent Acquisition",
   "location": "GB, London",
@@ -1368,12 +1424,12 @@
   "first_seen": "2026-09-15"
  },
  {
-  "company": "Amazon",
-  "title": "Operations Engineering Intern -  12 months, start date Q2 2027 ",
-  "location": "GB, London",
-  "url": "https://www.amazon.jobs/en/jobs/10541452/operations-engineering-intern-12-months-start-date-q2-2027",
+  "company": "Scale AI",
+  "title": "Software Engineering Intern (Summer 2027) ",
+  "location": "London, UK",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
   "kind": "Internship",
-  "first_seen": "2026-09-15"
+  "first_seen": "2026-09-14"
  },
  {
   "company": "Scale AI",
@@ -1385,10 +1441,10 @@
  },
  {
   "company": "Scale AI",
-  "title": "Software Engineering Intern (Summer 2027) ",
-  "location": "London, UK",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
-  "kind": "Internship",
+  "title": "Software Engineer - New Grad",
+  "location": "Doha, Qatar ",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
+  "kind": "New Grad",
   "first_seen": "2026-09-14"
  },
  {
@@ -1396,14 +1452,6 @@
   "title": "Software Engineer - New Grad",
   "location": "London, UK",
   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
-  "kind": "New Grad",
-  "first_seen": "2026-09-14"
- },
- {
-  "company": "Scale AI",
-  "title": "Software Engineer - New Grad",
-  "location": "Doha, Qatar ",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
   "kind": "New Grad",
   "first_seen": "2026-09-14"
  },
@@ -1673,14 +1721,6 @@
  },
  {
   "company": "Amazon",
-  "title": "Operations Engineering Intern -  start date Q1 2027 ",
-  "location": "LU, Luxembourg",
-  "url": "https://www.amazon.jobs/en/jobs/10537436/operations-engineering-intern-start-date-q1-2027",
-  "kind": "Internship",
-  "first_seen": "2026-09-11"
- },
- {
-  "company": "Amazon",
   "title": "Industrial Development Engineer Intern/Co-op, ROBOTICS - 2027",
   "location": "US, MA, North Reading",
   "url": "https://www.amazon.jobs/en/jobs/10536817/industrial-development-engineer-intern-co-op-robotics-2027",
@@ -1840,14 +1880,6 @@
   "first_seen": "2026-09-07"
  },
  {
-  "company": "Adobe",
-  "title": "Computer Scientist I (Full Stack Growth Engineer)",
-  "location": "Bangalore",
-  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist-I--Full-Stack-Growth-Engineer-_R171690",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-07"
- },
- {
   "company": "Rubrik",
   "title": "Software Engineer (CPD) - Winter Intern",
   "location": "Bangalore",
@@ -1914,6 +1946,14 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+  "kind": "New Grad",
+  "first_seen": "2026-09-01"
+ },
+ {
+  "company": "Stripe",
+  "title": "Software Engineer, New Grad",
   "location": "Toronto",
   "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
@@ -1924,14 +1964,6 @@
   "title": "Software Engineer, New Grad",
   "location": "Bucharest",
   "url": "https://stripe.com/jobs/search?gh_jid=8130922",
-  "kind": "New Grad",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "Stripe",
-  "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -1970,16 +2002,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "London",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+  "location": "London",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
@@ -2022,14 +2054,6 @@
   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
   "kind": "Internship",
   "first_seen": "2026-08-31"
- },
- {
-  "company": "Adobe",
-  "title": "Computer Scientist I - Full Stack",
-  "location": "2 Locations",
-  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist-I---Full-Stack_R170393",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-29"
  },
  {
   "company": "Amazon",
