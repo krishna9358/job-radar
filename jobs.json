@@ -9,10 +9,34 @@
  },
  {
   "company": "NVIDIA",
+  "title": "Software Engineer, Simulation and Virtualization (RDSS Intern)",
+  "location": "2 Locations",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Simulation-and-Virtualization--RDSS-Intern-_JR2025783",
+  "kind": "Internship",
+  "first_seen": "2026-10-06"
+ },
+ {
+  "company": "NVIDIA",
   "title": "Software Engineer, Data Center Compute Software Tools (RDSS Intern)",
   "location": "Taiwan, Taipei",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Data-Center-Compute-Software-Tools--RDSS-Intern-_JR2025645",
   "kind": "Internship",
+  "first_seen": "2026-10-06"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "High Speed SerDes Validation Engineer - New College Grad 2026",
+  "location": "US, CA, Santa Clara",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Speed-SerDes-Validation-Engineer---New-College-Grad-2026_JR2026800",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-06"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Formal Verification Engineer - New College Grad 2026",
+  "location": "US, CA, Santa Clara",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2020837",
+  "kind": "Entry Level",
   "first_seen": "2026-10-06"
  },
  {
@@ -27,7 +51,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -35,7 +59,23 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+  "kind": "Internship",
+  "first_seen": "2026-10-06"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA)",
+  "location": "US, WA, Seattle",
+  "url": "https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa",
+  "kind": "Internship",
+  "first_seen": "2026-10-06"
+ },
+ {
+  "company": "Amazon",
+  "title": "Network Development Engineer Intern",
+  "location": "IE, D, Dublin",
+  "url": "https://www.amazon.jobs/en/jobs/10571025/network-development-engineer-intern",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -51,8 +91,40 @@
   "company": "Amazon",
   "title": "2027 Software Dev Engineer Intern - Germany",
   "location": "DE, BE, Berlin",
+  "url": "https://www.amazon.jobs/en/jobs/10554701/2027-software-dev-engineer-intern-germany",
+  "kind": "Internship",
+  "first_seen": "2026-10-06"
+ },
+ {
+  "company": "Amazon",
+  "title": "2027 Software Dev Engineer Intern - Germany",
+  "location": "DE, BE, Berlin",
   "url": "https://www.amazon.jobs/en/jobs/10554717/2027-software-dev-engineer-intern-germany",
   "kind": "Internship",
+  "first_seen": "2026-10-06"
+ },
+ {
+  "company": "Airbnb",
+  "title": "Early Career Mobile Software Engineer, Quality Platform",
+  "location": "S\u00e3o Paulo, Brazil",
+  "url": "https://careers.airbnb.com/positions/8257855?gh_jid=8257855",
+  "kind": "New Grad",
+  "first_seen": "2026-10-06"
+ },
+ {
+  "company": "Affirm",
+  "title": "Software Engineer I (New Grad 2027) (SF)",
+  "location": "San Francisco, California, United States",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8010617003",
+  "kind": "New Grad",
+  "first_seen": "2026-10-06"
+ },
+ {
+  "company": "Affirm",
+  "title": "Software Engineer I (New Grad 2027) (NYC)",
+  "location": "New York, New York, United States",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003",
+  "kind": "New Grad",
   "first_seen": "2026-10-06"
  },
  {
@@ -401,14 +473,6 @@
  },
  {
   "company": "Workday",
-  "title": "Sr Associate Software Development Engineer (US Federal)",
-  "location": "USA, GA, Atlanta",
-  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Sr-Associate-Software-Development-Engineer--US-Federal-_JR-0108519",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-01"
- },
- {
-  "company": "Workday",
   "title": "Sr Associate Machine Learning Engineer",
   "location": "Canada, BC, Vancouver",
   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Sr-Associate-Machine-Learning-Engineer_JR-0110395",
@@ -418,16 +482,16 @@
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "New York, Seattle, South San Francisco HQ",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+  "location": "New York, Seattle, South San Francisco HQ",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
@@ -460,14 +524,6 @@
   "title": "UX Quantitative Research Intern (USA)",
   "location": "Remote, US",
   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140217",
-  "kind": "Internship",
-  "first_seen": "2026-10-01"
- },
- {
-  "company": "Pinterest",
-  "title": "UX Engineering Intern (San Francisco)",
-  "location": "San Francisco, CA, US",
-  "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140210",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
@@ -549,14 +605,6 @@
   "location": "Toronto, ON, CA",
   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138080",
   "kind": "Internship",
-  "first_seen": "2026-10-01"
- },
- {
-  "company": "NVIDIA",
-  "title": "Systems Software Engineer - New College Grad 2026",
-  "location": "US, OR, Hillsboro",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083",
-  "kind": "Entry Level",
   "first_seen": "2026-10-01"
  },
  {
@@ -660,14 +708,6 @@
   "title": "February 2027 - Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) - Nashville, TN",
   "location": "Nashville, TN, United States",
   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346357",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-30"
- },
- {
-  "company": "NVIDIA",
-  "title": "Software Engineer, DGX Cloud AI Infrastructure - New College Grad 2026",
-  "location": "5 Locations",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DGX-Cloud-AI-Infrastructure---New-College-Grad-2026_JR2026477",
   "kind": "Entry Level",
   "first_seen": "2026-09-30"
  },
@@ -852,14 +892,6 @@
   "title": "Business Systems Engineer Intern, Finance Technology (Summer 2027)",
   "location": "Toronto, Canada",
   "url": "https://app.careerpuck.com/job-board/lyft/job/8802222002?gh_jid=8802222002",
-  "kind": "Internship",
-  "first_seen": "2026-09-28"
- },
- {
-  "company": "Lyft",
-  "title": "Applied Scientist Intern (Summer 2027)",
-  "location": "San Francisco, CA",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002",
   "kind": "Internship",
   "first_seen": "2026-09-28"
  },
@@ -1410,7 +1442,7 @@
  {
   "company": "Ramp",
   "title": "Software Engineer, International",
-  "location": "London",
+  "location": "London, UK",
   "url": "https://jobs.ashbyhq.com/ramp/009dc18b-26a3-4fac-a773-c60d742cf840",
   "kind": "Entry Level",
   "first_seen": "2026-09-16"
@@ -1490,14 +1522,6 @@
  {
   "company": "Scale AI",
   "title": "Software Engineering Intern (Summer 2027) ",
-  "location": "London, UK",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
-  "kind": "Internship",
-  "first_seen": "2026-09-14"
- },
- {
-  "company": "Scale AI",
-  "title": "Software Engineering Intern (Summer 2027) ",
   "location": "Doha, Qatar ",
   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
   "kind": "Internship",
@@ -1505,10 +1529,10 @@
  },
  {
   "company": "Scale AI",
-  "title": "Software Engineer - New Grad",
+  "title": "Software Engineering Intern (Summer 2027) ",
   "location": "London, UK",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
-  "kind": "New Grad",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+  "kind": "Internship",
   "first_seen": "2026-09-14"
  },
  {
@@ -1516,6 +1540,14 @@
   "title": "Software Engineer - New Grad",
   "location": "Doha, Qatar ",
   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
+  "kind": "New Grad",
+  "first_seen": "2026-09-14"
+ },
+ {
+  "company": "Scale AI",
+  "title": "Software Engineer - New Grad",
+  "location": "London, UK",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
   "kind": "New Grad",
   "first_seen": "2026-09-14"
  },
@@ -2018,16 +2050,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -2066,16 +2098,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+  "location": "London",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "London",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
@@ -2206,14 +2238,6 @@
   "url": "https://stripe.com/jobs/search?gh_jid=8097801",
   "kind": "Internship",
   "first_seen": "2026-08-18"
- },
- {
-  "company": "Samsara",
-  "title": "Associate Specialist Sales Engineer",
-  "location": "Remote - US",
-  "url": "https://www.samsara.com/company/careers/roles/7717258?gh_jid=7717258",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-17"
  },
  {
   "company": "Samsara",
@@ -2818,16 +2842,16 @@
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Shanghai, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
+  "location": "Beijing, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Beijing, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
+  "location": "Shanghai, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
