@@ -1,9 +1,57 @@
 [
  {
+  "company": "Stripe",
+  "title": "Security Engineer, New Grad",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8257892",
+  "kind": "New Grad",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Systems Software Engineer,  AI and Cloud - New College Grad 2026",
+  "location": "US, CA, Santa Clara",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "company": "Elastic",
+  "title": "Software Engineer I - AI Observability",
+  "location": "Portugal",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8260767&gh_jid=8260767",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "company": "Elastic",
+  "title": "Software Engineer I - AI Observability",
+  "location": "Greece",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8260766&gh_jid=8260766",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "company": "Elastic",
+  "title": "Software Engineer I - AI Observability",
+  "location": "Spain",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8245844&gh_jid=8245844",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-07"
+ },
+ {
   "company": "Cloudflare",
   "title": "People Team: Software Engineer Intern (Winter/Spring 2027)",
   "location": "Hybrid",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/7774167?gh_jid=7774167",
+  "kind": "Internship",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "company": "Autodesk",
+  "title": "Intern, Software Engineer [PDMS-DPM-Engineering]",
+  "location": "Singapore, SGP",
+  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Engineer--PDMS-DPM-Engineering-_26WD101277-1",
   "kind": "Internship",
   "first_seen": "2026-10-07"
  },
@@ -13,6 +61,14 @@
   "location": "US, WA, Redmond",
   "url": "https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa",
   "kind": "Internship",
+  "first_seen": "2026-10-07"
+ },
+ {
+  "company": "Amazon",
+  "title": "Applied Scientist, International Seller Services",
+  "location": "IN, TS, Hyderabad",
+  "url": "https://www.amazon.jobs/en/jobs/10566353/applied-scientist-international-seller-services",
+  "kind": "Entry Level",
   "first_seen": "2026-10-07"
  },
  {
@@ -59,7 +115,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -67,7 +123,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -326,38 +382,6 @@
   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/345533",
   "kind": "Entry Level",
   "first_seen": "2026-10-04"
- },
- {
-  "company": "Netflix",
-  "title": "Associate, Revenue Analytics Finance & Strategy - AI Automation",
-  "location": "Los Gatos,California,United States of America",
-  "url": "https://explore.jobs.netflix.net/careers/job/790317599353",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-03"
- },
- {
-  "company": "Netflix",
-  "title": "Associate, APAC Revenue Analytics",
-  "location": "Mumbai,India",
-  "url": "https://explore.jobs.netflix.net/careers/job/790317336766",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-03"
- },
- {
-  "company": "Netflix",
-  "title": "Associate Technical Supervisor (Front End) - Netflix Animation Studios",
-  "location": "Vancouver,Canada",
-  "url": "https://explore.jobs.netflix.net/careers/job/790316431938",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-03"
- },
- {
-  "company": "Netflix",
-  "title": "Associate Technical Supervisor (Back-End) - Netflix Animation Studios",
-  "location": "Vancouver,Canada",
-  "url": "https://explore.jobs.netflix.net/careers/job/790315043614",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-03"
  },
  {
   "company": "Robinhood",
@@ -1530,16 +1554,16 @@
  {
   "company": "Scale AI",
   "title": "Software Engineer - New Grad",
-  "location": "Doha, Qatar ",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
+  "location": "London, UK",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
   "kind": "New Grad",
   "first_seen": "2026-09-14"
  },
  {
   "company": "Scale AI",
   "title": "Software Engineer - New Grad",
-  "location": "London, UK",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
+  "location": "Doha, Qatar ",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
   "kind": "New Grad",
   "first_seen": "2026-09-14"
  },
@@ -2034,8 +2058,8 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -2050,8 +2074,8 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -2090,16 +2114,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+  "location": "London",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "London",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
@@ -2834,16 +2858,16 @@
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Shanghai, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
+  "location": "Beijing, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Flexport",
   "title": "Software Engineer I",
-  "location": "Beijing, China",
-  "url": "https://job-boards.greenhouse.io/flexport/jobs/7994960",
+  "location": "Shanghai, China",
+  "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
