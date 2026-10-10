@@ -1,5 +1,77 @@
 [
  {
+  "company": "Salesforce",
+  "title": "Software Engineer AMTS (Junior) - Keynote Demo",
+  "location": "Mexico - Mexico City",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Technical-Architect---Keynote-Demos-AMTS_JR362623",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-10"
+ },
+ {
+  "company": "Salesforce",
+  "title": "Commercial Graduate Solution Engineering Path  - Italian Market",
+  "location": "Ireland - Dublin",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Solution-Engineering-Path----Italian-Market_JR362673-1",
+  "kind": "New Grad",
+  "first_seen": "2026-10-10"
+ },
+ {
+  "company": "Salesforce",
+  "title": "Commercial Graduate Solution Engineering Path  - French Market",
+  "location": "Ireland - Dublin",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Solution-Engineering-Path----French-Market_JR362670-1",
+  "kind": "New Grad",
+  "first_seen": "2026-10-10"
+ },
+ {
+  "company": "Salesforce",
+  "title": "Commercial Graduate Solution Engineering Path  - Eastern Europe - Polish or Croatian or Czech Market",
+  "location": "Ireland - Dublin",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Solution-Engineering-Path----Eastern-Europe---Polish-or-Croatian-or-Czech-Market_JR362668-1",
+  "kind": "New Grad",
+  "first_seen": "2026-10-10"
+ },
+ {
+  "company": "Salesforce",
+  "title": "Commercial Graduate Rotation Program - Solution Engineering Path - Hebrew Speaking Market",
+  "location": "Ireland - Dublin",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Solution-Engineering-Path---Hebrew-Speaking-Market_JR361685-1",
+  "kind": "New Grad",
+  "first_seen": "2026-10-10"
+ },
+ {
+  "company": "Salesforce",
+  "title": "Commercial Graduate Rotation Program - Solution Engineering Path - BNL Dutch Speaking Market",
+  "location": "Ireland - Dublin",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Solution-Engineering-Path---BNL-Dutch-Speaking-Market_JR362669-1",
+  "kind": "New Grad",
+  "first_seen": "2026-10-10"
+ },
+ {
+  "company": "Salesforce",
+  "title": "Commercial Graduate Rotation Program - Solution Engineer Path - German Speaking Markets",
+  "location": "Ireland - Dublin",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Solution-Engineer-Path---German-Speaking-Markets_JR363351-1",
+  "kind": "New Grad",
+  "first_seen": "2026-10-10"
+ },
+ {
+  "company": "Salesforce",
+  "title": "Commercial Graduate Rotation Program - Solution Engineer Path - Arabic Speaking Markets",
+  "location": "Ireland - Dublin",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Solution-Engineer-Path---Arabic-Speaking-Markets_JR361682-1",
+  "kind": "New Grad",
+  "first_seen": "2026-10-10"
+ },
+ {
+  "company": "Salesforce",
+  "title": "Associate Solution Engineer - French speaking",
+  "location": "Ireland - Dublin",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Associate-Solution-Engineer---French-speaking_JR359323",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-10"
+ },
+ {
   "company": "NVIDIA",
   "title": "C++ Software Engineer, Infrastructure Tools - New College Grad 2027",
   "location": "US, CA, Santa Clara",
@@ -1634,16 +1706,16 @@
  {
   "company": "Scale AI",
   "title": "Software Engineering Intern (Summer 2027) ",
-  "location": "Doha, Qatar ",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
+  "location": "London, UK",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
   "kind": "Internship",
   "first_seen": "2026-09-14"
  },
  {
   "company": "Scale AI",
   "title": "Software Engineering Intern (Summer 2027) ",
-  "location": "London, UK",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+  "location": "Doha, Qatar ",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
   "kind": "Internship",
   "first_seen": "2026-09-14"
  },
@@ -2154,6 +2226,14 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+  "kind": "New Grad",
+  "first_seen": "2026-09-01"
+ },
+ {
+  "company": "Stripe",
+  "title": "Software Engineer, New Grad",
   "location": "Toronto",
   "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
@@ -2164,14 +2244,6 @@
   "title": "Software Engineer, New Grad",
   "location": "Bucharest",
   "url": "https://stripe.com/jobs/search?gh_jid=8130922",
-  "kind": "New Grad",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "Stripe",
-  "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -2210,16 +2282,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "London",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+  "location": "London",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
