@@ -1,5 +1,37 @@
 [
  {
+  "company": "NVIDIA",
+  "title": "C++ Software Engineer, Infrastructure Tools - New College Grad 2027",
+  "location": "US, CA, Santa Clara",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-10"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "ASIC Clocks Verification Engineer - New College Grad 2026",
+  "location": "US, CA, Santa Clara",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Verification-Engineer---New-College-Grad-2026_JR2027579",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-10"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer Intern, Amazon University Talent Acquisition ",
+  "location": "MX, DIF, Mexico City",
+  "url": "https://www.amazon.jobs/en/jobs/10574925/software-development-engineer-intern-amazon-university-talent-acquisition",
+  "kind": "Internship",
+  "first_seen": "2026-10-10"
+ },
+ {
+  "company": "Amazon",
+  "title": "Data Center Engineering Operations - 2027 Internship ",
+  "location": "IT, Milan",
+  "url": "https://www.amazon.jobs/en/jobs/10573017/data-center-engineering-operations-2027-internship",
+  "kind": "Internship",
+  "first_seen": "2026-10-10"
+ },
+ {
   "company": "Workday",
   "title": "Sr Associate Support Engineer (AI/ML & Platform Operations)",
   "location": "IND.Pune",
@@ -13,14 +45,6 @@
   "location": "na",
   "url": "https://stripe.com/jobs/search?gh_jid=8265763",
   "kind": "Entry Level",
-  "first_seen": "2026-10-09"
- },
- {
-  "company": "Salesforce",
-  "title": "Commercial Graduate Solution Engineering Path  - Eastern Europe - Polish or Croatian or Czech Market",
-  "location": "Ireland - Dublin",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Solution-Engineering-Path----Eastern-Europe---Polish-or-Croatian-or-Czech-Market_JR362668-1",
-  "kind": "New Grad",
   "first_seen": "2026-10-09"
  },
  {
@@ -112,30 +136,6 @@
   "first_seen": "2026-10-08"
  },
  {
-  "company": "Salesforce",
-  "title": "Commercial Graduate Solution Engineering Path  - Italian Market",
-  "location": "Ireland - Dublin",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Solution-Engineering-Path----Italian-Market_JR362673-1",
-  "kind": "New Grad",
-  "first_seen": "2026-10-08"
- },
- {
-  "company": "Salesforce",
-  "title": "Commercial Graduate Solution Engineering Path  - French Market",
-  "location": "Ireland - Dublin",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Solution-Engineering-Path----French-Market_JR362670-1",
-  "kind": "New Grad",
-  "first_seen": "2026-10-08"
- },
- {
-  "company": "Salesforce",
-  "title": "Commercial Graduate Rotation Program - Solution Engineer Path - German Speaking Markets",
-  "location": "Ireland - Dublin",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Solution-Engineer-Path---German-Speaking-Markets_JR363351-1",
-  "kind": "New Grad",
-  "first_seen": "2026-10-08"
- },
- {
   "company": "Pinterest",
   "title": "Solutions Engineer Intern 2027 (USA)",
   "location": "San Francisco, CA, US; Remote, US",
@@ -216,22 +216,6 @@
   "first_seen": "2026-10-07"
  },
  {
-  "company": "Salesforce",
-  "title": "Software Engineer AMTS (Junior) - Keynote Demo",
-  "location": "Mexico - Mexico City",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Technical-Architect---Keynote-Demos-AMTS_JR362623",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-07"
- },
- {
-  "company": "Salesforce",
-  "title": "Commercial Graduate Rotation Program - Solution Engineering Path - BNL Dutch Speaking Market",
-  "location": "Ireland - Dublin",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Solution-Engineering-Path---BNL-Dutch-Speaking-Market_JR362669-1",
-  "kind": "New Grad",
-  "first_seen": "2026-10-07"
- },
- {
   "company": "Oracle",
   "title": "Support Engineer 1",
   "location": "United States",
@@ -266,16 +250,16 @@
  {
   "company": "Elastic",
   "title": "Software Engineer I - AI Observability",
-  "location": "Spain",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8245844&gh_jid=8245844",
+  "location": "Portugal",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8260767&gh_jid=8260767",
   "kind": "Entry Level",
   "first_seen": "2026-10-07"
  },
  {
   "company": "Elastic",
   "title": "Software Engineer I - AI Observability",
-  "location": "Portugal",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8260767&gh_jid=8260767",
+  "location": "Spain",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8245844&gh_jid=8245844",
   "kind": "Entry Level",
   "first_seen": "2026-10-07"
  },
@@ -379,7 +363,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -387,7 +371,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -598,14 +582,6 @@
   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064",
   "kind": "Internship",
   "first_seen": "2026-10-05"
- },
- {
-  "company": "Salesforce",
-  "title": "Associate Solution Engineer - French speaking",
-  "location": "Ireland - Dublin",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Associate-Solution-Engineer---French-speaking_JR359323",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-04"
  },
  {
   "company": "Oracle",
@@ -1280,22 +1256,6 @@
   "first_seen": "2026-09-25"
  },
  {
-  "company": "Salesforce",
-  "title": "Commercial Graduate Rotation Program - Solution Engineering Path - Hebrew Speaking Market",
-  "location": "Ireland - Dublin",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Solution-Engineering-Path---Hebrew-Speaking-Market_JR361685-1",
-  "kind": "New Grad",
-  "first_seen": "2026-09-25"
- },
- {
-  "company": "Salesforce",
-  "title": "Commercial Graduate Rotation Program - Solution Engineer Path - Arabic Speaking Markets",
-  "location": "Ireland - Dublin",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Solution-Engineer-Path---Arabic-Speaking-Markets_JR361682-1",
-  "kind": "New Grad",
-  "first_seen": "2026-09-25"
- },
- {
   "company": "Palantir",
   "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
   "location": "Washington, D.C.",
@@ -1690,16 +1650,16 @@
  {
   "company": "Scale AI",
   "title": "Software Engineer - New Grad",
-  "location": "London, UK",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
+  "location": "Doha, Qatar ",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
   "kind": "New Grad",
   "first_seen": "2026-09-14"
  },
  {
   "company": "Scale AI",
   "title": "Software Engineer - New Grad",
-  "location": "Doha, Qatar ",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
+  "location": "London, UK",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
   "kind": "New Grad",
   "first_seen": "2026-09-14"
  },
@@ -2194,6 +2154,14 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "kind": "New Grad",
+  "first_seen": "2026-09-01"
+ },
+ {
+  "company": "Stripe",
+  "title": "Software Engineer, New Grad",
   "location": "Bucharest",
   "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
@@ -2204,14 +2172,6 @@
   "title": "Software Engineer, New Grad",
   "location": "Dublin",
   "url": "https://stripe.com/jobs/search?gh_jid=8130881",
-  "kind": "New Grad",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "Stripe",
-  "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -3018,6 +2978,14 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2026",
+  "location": "ES, M, Madrid",
+  "url": "https://www.amazon.jobs/en/jobs/3175845/software-development-engineer-2026",
+  "kind": "Entry Level",
+  "first_seen": "2026-07-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer \u2013 2026",
   "location": "GB, London",
   "url": "https://www.amazon.jobs/en/jobs/10408763/software-development-engineer-2026",
   "kind": "Entry Level",
@@ -3028,14 +2996,6 @@
   "title": "Software Development Engineer \u2013 2026",
   "location": "ZA, Cape Town",
   "url": "https://www.amazon.jobs/en/jobs/10447560/software-development-engineer-2026",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer \u2013 2026",
-  "location": "ES, M, Madrid",
-  "url": "https://www.amazon.jobs/en/jobs/3175845/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
@@ -3114,16 +3074,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  }
