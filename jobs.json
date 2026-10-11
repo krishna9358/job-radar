@@ -1200,14 +1200,6 @@
   "first_seen": "2026-09-28"
  },
  {
-  "company": "Samsara",
-  "title": "Technical Support Engineer I - Mexico",
-  "location": "Remote - Mexico",
-  "url": "https://www.samsara.com/company/careers/roles/8112694?gh_jid=8112694",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-27"
- },
- {
   "company": "Autodesk",
   "title": "Stagiaire en D\u00e9veloppement Cloud, Intern Cloud Developer \u2013 FCAP",
   "location": "Montreal, QC, CAN",
@@ -2226,8 +2218,8 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+  "location": "Bucharest",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -2242,8 +2234,8 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Bucharest",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
