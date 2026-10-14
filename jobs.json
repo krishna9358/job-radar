@@ -1,6 +1,86 @@
 [
  {
   "company": "Workday",
+  "title": "Sr. Associate Support Engineer (AI & ML Application Support)",
+  "location": "IND.Pune",
+  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Support-Engineer--AI-ML---Platform-Operations-_JR-0110061",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "System Software Engineer - Base OS (RDSS Intern)",
+  "location": "Taiwan, Taipei",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Base-OS--RDSS-Intern-_JR2025948",
+  "kind": "Internship",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "SoC Software Engineer \u2013 New College Graduate 2026",
+  "location": "US, CA, Santa Clara",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1",
+  "kind": "New Grad",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "SoC Software Engineer - New College Grad 2027",
+  "location": "US, CA, Santa Clara",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "SRAM Circuit Design Engineer - New College Grad 2026",
+  "location": "US, CA, Santa Clara",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SRAM-Circuit-Design-Engineer---New-College-Grad-2026_JR2027839",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "PCB Design EDA and AI Engineer - New College Graduate 2027",
+  "location": "2 Locations",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/PCB-Design-EDA-and-AI-Engineer---New-College-Graduate-2027_JR2027611",
+  "kind": "New Grad",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Low Power ASIC Engineer - New College Grad 2027",
+  "location": "US, CA, Santa Clara",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2027_JR2027850",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Developer Technology Engineer - New College Graduate 2027",
+  "location": "3 Locations",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Developer-Technology-Engineer---New-College-Graduate-2027_JR2023566",
+  "kind": "New Grad",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "ASIC Verification Engineer - New College Grad 2027",
+  "location": "US, CA, Santa Clara",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2027_JR2027719",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "company": "Amazon",
+  "title": "Hardware Development Engineer Intern,  Summer 2027",
+  "location": "US, CA, Sunnyvale",
+  "url": "https://www.amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027",
+  "kind": "Internship",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "company": "Workday",
   "title": "Sr. Associate Software Development Engineer in Test",
   "location": "Ireland, Dublin",
   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Sr-Associate-Software-Development-Engineer-in-Test_JR-0110745",
@@ -13,158 +93,6 @@
   "location": "Remote - Mexico",
   "url": "https://www.samsara.com/company/careers/roles/8112694?gh_jid=8112694",
   "kind": "Entry Level",
-  "first_seen": "2026-10-13"
- },
- {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346388",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-13"
- },
- {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346391",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-13"
- },
- {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346396",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-13"
- },
- {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346403",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-13"
- },
- {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346405",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-13"
- },
- {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346404",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-13"
- },
- {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346406",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-13"
- },
- {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346402",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-13"
- },
- {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346411",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-13"
- },
- {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346413",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-13"
- },
- {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346427",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-13"
- },
- {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346429",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-13"
- },
- {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346437",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-13"
- },
- {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346440",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-13"
- },
- {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346450",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-13"
- },
- {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346449",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-13"
- },
- {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346452",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-13"
- },
- {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346453",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-13"
- },
- {
-  "company": "Netflix",
-  "title": "Software Engineer Intern - Summer 2027",
-  "location": "Los Gatos,California,United States of America",
-  "url": "https://explore.jobs.netflix.net/careers/job/790318904468",
-  "kind": "Internship",
   "first_seen": "2026-10-13"
  },
  {
@@ -280,14 +208,6 @@
   "first_seen": "2026-10-13"
  },
  {
-  "company": "Autodesk",
-  "title": "Software Development Internship (Winter 2027)",
-  "location": "Toronto, ON, CAN",
-  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435-1",
-  "kind": "Internship",
-  "first_seen": "2026-10-13"
- },
- {
   "company": "Amazon",
   "title": "Software Development Engineer \u2013 2027, AUTA",
   "location": "IE, D, Dublin",
@@ -342,22 +262,6 @@
   "url": "https://www.amazon.jobs/en/jobs/10576785/2027-business-developer-intern-amazon-payments",
   "kind": "Internship",
   "first_seen": "2026-10-13"
- },
- {
-  "company": "Netflix",
-  "title": "Associate Technical Supervisor (Front End) - Netflix Animation Studios",
-  "location": "Vancouver,Canada",
-  "url": "https://explore.jobs.netflix.net/careers/job/790316431938",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-12"
- },
- {
-  "company": "Netflix",
-  "title": "Associate Technical Supervisor (Back-End) - Netflix Animation Studios",
-  "location": "Vancouver,Canada",
-  "url": "https://explore.jobs.netflix.net/careers/job/790315043614",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-12"
  },
  {
   "company": "NVIDIA",
@@ -616,14 +520,6 @@
   "first_seen": "2026-10-08"
  },
  {
-  "company": "Workday",
-  "title": "Sr Associate Customer Support Analyst (AI/ML Application Support)",
-  "location": "IND.Pune",
-  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Sr-Associate-Customer-Support-Analyst--AI-ML-Application-Support-_JR-0110060",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-08"
- },
- {
   "company": "Pinterest",
   "title": "Solutions Engineer Intern 2027 (USA)",
   "location": "San Francisco, CA, US; Remote, US",
@@ -827,7 +723,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -835,7 +731,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -1366,14 +1262,6 @@
   "url": "https://www.amazon.jobs/en/jobs/10551645/operations-engineer-intern-field",
   "kind": "Internship",
   "first_seen": "2026-09-30"
- },
- {
-  "company": "Rubrik",
-  "title": "Software Engineer - Winter Intern",
-  "location": "Bangalore",
-  "url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523",
-  "kind": "Internship",
-  "first_seen": "2026-09-29"
  },
  {
   "company": "Lyft",
@@ -2418,6 +2306,14 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "kind": "New Grad",
+  "first_seen": "2026-09-01"
+ },
+ {
+  "company": "Stripe",
+  "title": "Software Engineer, New Grad",
   "location": "Dublin",
   "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
@@ -2428,14 +2324,6 @@
   "title": "Software Engineer, New Grad",
   "location": "Bucharest",
   "url": "https://stripe.com/jobs/search?gh_jid=8130922",
-  "kind": "New Grad",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "Stripe",
-  "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -2622,14 +2510,6 @@
   "url": "https://www.samsara.com/company/careers/roles/7311761?gh_jid=7311761",
   "kind": "Entry Level",
   "first_seen": "2026-08-17"
- },
- {
-  "company": "Pinterest",
-  "title": "Administrative Business Partner I - Engineering, Product and Design",
-  "location": "San Francisco, CA, US; Palo Alto, CA, US",
-  "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8103612",
-  "kind": "Entry Level",
-  "first_seen": "2026-08-15"
  },
  {
   "company": "Palantir",
@@ -3314,16 +3194,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  }
