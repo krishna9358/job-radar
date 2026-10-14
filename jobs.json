@@ -8,6 +8,22 @@
   "first_seen": "2026-10-14"
  },
  {
+  "company": "Salesforce",
+  "title": "Software Engineer - Junior / SSR - Automation & Reliability",
+  "location": "Mexico - Mexico City",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Software-Engineer---Junior---SSR---Automation---Reliability_JR364275",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "company": "Salesforce",
+  "title": "Database Engineering Associate",
+  "location": "3 Locations",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Database-Engineering-Associate_JR358838-2",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-14"
+ },
+ {
   "company": "Netflix",
   "title": "Associate, Revenue Analytics Finance & Strategy - AI Automation",
   "location": "Los Gatos,California,United States of America",
@@ -116,6 +132,22 @@
   "title": "Hardware Development Engineer Intern,  Summer 2027",
   "location": "US, CA, Sunnyvale",
   "url": "https://www.amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027",
+  "kind": "Internship",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "company": "Amazon",
+  "title": "Amazon Robotics - Software Development Engineer Intern/Co-op - 2027",
+  "location": "US, MA, Westboro",
+  "url": "https://www.amazon.jobs/en/jobs/10578583/amazon-robotics-software-development-engineer-intern-co-op-2027",
+  "kind": "Internship",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "company": "Amazon",
+  "title": "Amazon Robotics - Hardware Development Engineer Intern/Co-op - 2027",
+  "location": "US, MA, Westboro",
+  "url": "https://www.amazon.jobs/en/jobs/10578750/amazon-robotics-hardware-development-engineer-intern-co-op-2027",
   "kind": "Internship",
   "first_seen": "2026-10-14"
  },
@@ -449,14 +481,6 @@
  },
  {
   "company": "Salesforce",
-  "title": "Commercial Graduate Rotation Program - Solution Engineering Path - BNL Dutch Speaking Market",
-  "location": "Ireland - Dublin",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Solution-Engineering-Path---BNL-Dutch-Speaking-Market_JR362669-1",
-  "kind": "New Grad",
-  "first_seen": "2026-10-10"
- },
- {
-  "company": "Salesforce",
   "title": "Commercial Graduate Rotation Program - Solution Engineer Path - German Speaking Markets",
   "location": "Ireland - Dublin",
   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Solution-Engineer-Path---German-Speaking-Markets_JR363351-1",
@@ -468,6 +492,14 @@
   "title": "Commercial Graduate Rotation Program - Solution Engineer Path - Arabic Speaking Markets",
   "location": "Ireland - Dublin",
   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Solution-Engineer-Path---Arabic-Speaking-Markets_JR361682-1",
+  "kind": "New Grad",
+  "first_seen": "2026-10-10"
+ },
+ {
+  "company": "Salesforce",
+  "title": "Commercial Graduate Program - Solution Engineering Path - Dutch Speaking Market",
+  "location": "Ireland - Dublin",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Solution-Engineering-Path---BNL-Dutch-Speaking-Market_JR362669-1",
   "kind": "New Grad",
   "first_seen": "2026-10-10"
  },
@@ -674,16 +706,16 @@
  {
   "company": "Elastic",
   "title": "Software Engineer I - AI Observability",
-  "location": "Spain",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8245844&gh_jid=8245844",
+  "location": "Greece",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8260766&gh_jid=8260766",
   "kind": "Entry Level",
   "first_seen": "2026-10-07"
  },
  {
   "company": "Elastic",
   "title": "Software Engineer I - AI Observability",
-  "location": "Greece",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8260766&gh_jid=8260766",
+  "location": "Spain",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8245844&gh_jid=8245844",
   "kind": "Entry Level",
   "first_seen": "2026-10-07"
  },
@@ -763,7 +795,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -771,7 +803,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -968,14 +1000,6 @@
   "first_seen": "2026-10-02"
  },
  {
-  "company": "NVIDIA",
-  "title": "Research Scientist, Fundamental Generative AI - New College Grad 2026",
-  "location": "US, CA, Santa Clara",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-02"
- },
- {
   "company": "Lyft",
   "title": "Hardware Field Quality Engineer Intern (Summer 2027)",
   "location": "Longueuil, Canada",
@@ -1074,16 +1098,16 @@
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "New York, Seattle, South San Francisco HQ",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+  "location": "New York, Seattle, South San Francisco HQ",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
@@ -1228,14 +1252,6 @@
   "title": "Applied Scientist, International Seller Services",
   "location": "US, WA, Seattle",
   "url": "https://www.amazon.jobs/en/jobs/10566354/applied-scientist-international-seller-services",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-01"
- },
- {
-  "company": "Amazon",
-  "title": "Applied Scientist I, Ads Trust Science",
-  "location": "IN, KA, Bengaluru",
-  "url": "https://www.amazon.jobs/en/jobs/10566528/applied-scientist-i-ads-trust-science",
   "kind": "Entry Level",
   "first_seen": "2026-10-01"
  },
@@ -2002,16 +2018,16 @@
  {
   "company": "Lyft",
   "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-  "location": "San Francisco, CA",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+  "location": "New York, NY",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
  {
   "company": "Lyft",
   "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-  "location": "New York, NY",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+  "location": "San Francisco, CA",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
@@ -2282,16 +2298,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Bucharest",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "location": "Bucharest",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -3113,14 +3129,6 @@
  },
  {
   "company": "Amazon",
-  "title": "Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more)",
-  "location": "US, MA, Westboro",
-  "url": "https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
   "title": "Reliability, Maintenance & Engineering Intern",
   "location": "MX, DIF, Mexico City",
   "url": "https://www.amazon.jobs/en/jobs/10471667/reliability-maintenance-engineering-intern",
@@ -3162,16 +3170,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  }
