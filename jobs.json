@@ -9,6 +9,22 @@
  },
  {
   "company": "Amazon",
+  "title": "Software Development Engineer Intern, Amazon University Talent Acquisition ",
+  "location": "BR, SP, Sao Paulo",
+  "url": "https://www.amazon.jobs/en/jobs/3063220/software-development-engineer-intern-amazon-university-talent-acquisition",
+  "kind": "Internship",
+  "first_seen": "2026-10-15"
+ },
+ {
+  "company": "Amazon",
+  "title": "Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more)",
+  "location": "US, MA, Westboro",
+  "url": "https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more",
+  "kind": "Internship",
+  "first_seen": "2026-10-15"
+ },
+ {
+  "company": "Amazon",
   "title": "Network Development Engineer Intern, Core Networking",
   "location": "AU, NSW, Sydney",
   "url": "https://www.amazon.jobs/en/jobs/3201714/network-development-engineer-intern-core-networking",
@@ -69,30 +85,6 @@
   "location": "Zurich, CH",
   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8267930",
   "kind": "New Grad",
-  "first_seen": "2026-10-14"
- },
- {
-  "company": "Netflix",
-  "title": "Associate, Revenue Analytics Finance & Strategy - AI Automation",
-  "location": "Los Gatos,California,United States of America",
-  "url": "https://explore.jobs.netflix.net/careers/job/790317599353",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-14"
- },
- {
-  "company": "Netflix",
-  "title": "Associate Technical Supervisor (Front End) - Netflix Animation Studios",
-  "location": "Vancouver,Canada",
-  "url": "https://explore.jobs.netflix.net/careers/job/790316431938",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-14"
- },
- {
-  "company": "Netflix",
-  "title": "Associate Technical Supervisor (Back-End) - Netflix Animation Studios",
-  "location": "Vancouver,Canada",
-  "url": "https://explore.jobs.netflix.net/careers/job/790315043614",
-  "kind": "Entry Level",
   "first_seen": "2026-10-14"
  },
  {
@@ -680,14 +672,6 @@
   "first_seen": "2026-10-08"
  },
  {
-  "company": "Amazon",
-  "title": "Software Development Engineer - 2026 (US)",
-  "location": "US, WA, Seattle",
-  "url": "https://www.amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-08"
- },
- {
   "company": "Stripe",
   "title": "Security Engineer, New Grad",
   "location": "Dublin",
@@ -819,7 +803,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -827,7 +811,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -873,25 +857,9 @@
  },
  {
   "company": "NVIDIA",
-  "title": "Tools and Methodology Engineer, CAD DFT (RDSS Intern)",
-  "location": "2 Locations",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Tools-and-Methodology-Engineer--CAD-DFT--RDSS-Intern-_JR2026887",
-  "kind": "Internship",
-  "first_seen": "2026-10-05"
- },
- {
-  "company": "NVIDIA",
   "title": "Software Engineering Intern, Nsight Systems - 2026",
   "location": "2 Locations",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Remote/Software-Engineering-Intern--Nsight-Systems---2026_JR2007248",
-  "kind": "Internship",
-  "first_seen": "2026-10-05"
- },
- {
-  "company": "NVIDIA",
-  "title": "Software Engineer \u2013 DFT CAD Tools (RDSS Intern)",
-  "location": "Taiwan, Taipei",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer---DFT-CAD-Tools--RDSS-Intern-_JR2026878-1",
   "kind": "Internship",
   "first_seen": "2026-10-05"
  },
@@ -924,14 +892,6 @@
   "title": "Data Processing Developer Technology Intern - 2027",
   "location": "4 Locations",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708",
-  "kind": "Internship",
-  "first_seen": "2026-10-05"
- },
- {
-  "company": "NVIDIA",
-  "title": "AI Agent Development Engineer (RDSS Intern)",
-  "location": "2 Locations",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Agent-Development-Engineer--RDSS-Intern-_JR2026971",
   "kind": "Internship",
   "first_seen": "2026-10-05"
  },
@@ -1098,16 +1058,16 @@
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+  "location": "New York, Seattle, South San Francisco HQ",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "New York, Seattle, South San Francisco HQ",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
@@ -1825,14 +1785,6 @@
  },
  {
   "company": "Amazon",
-  "title": "Operations Engineering Intern -  start date Q2 2027 ",
-  "location": "FR, Clichy",
-  "url": "https://www.amazon.jobs/en/jobs/10541508/operations-engineering-intern-start-date-q2-2027",
-  "kind": "Internship",
-  "first_seen": "2026-09-15"
- },
- {
-  "company": "Amazon",
   "title": "Operations Engineering Intern -  start date Q1 2027 ",
   "location": "DE, BE, Berlin",
   "url": "https://www.amazon.jobs/en/jobs/10541497/operations-engineering-intern-start-date-q1-2027",
@@ -1842,16 +1794,16 @@
  {
   "company": "Scale AI",
   "title": "Software Engineering Intern (Summer 2027) ",
-  "location": "Doha, Qatar ",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
+  "location": "London, UK",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
   "kind": "Internship",
   "first_seen": "2026-09-14"
  },
  {
   "company": "Scale AI",
   "title": "Software Engineering Intern (Summer 2027) ",
-  "location": "London, UK",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+  "location": "Doha, Qatar ",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
   "kind": "Internship",
   "first_seen": "2026-09-14"
  },
@@ -2194,16 +2146,16 @@
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Madrid, Spain",
-  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
+  "location": "Paris, France",
+  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Paris, France",
-  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+  "location": "Madrid, Spain",
+  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
