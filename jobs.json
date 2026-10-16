@@ -1,26 +1,10 @@
 [
  {
-  "company": "Netflix",
-  "title": "Associate, Revenue Analytics Finance & Strategy - AI Automation",
-  "location": "Los Gatos,California,United States of America",
-  "url": "https://explore.jobs.netflix.net/careers/job/790317599353",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-16"
- },
- {
-  "company": "Netflix",
-  "title": "Associate Technical Supervisor (Front End) - Netflix Animation Studios",
-  "location": "Vancouver,Canada",
-  "url": "https://explore.jobs.netflix.net/careers/job/790316431938",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-16"
- },
- {
-  "company": "Netflix",
-  "title": "Associate Technical Supervisor (Back-End) - Netflix Animation Studios",
-  "location": "Vancouver,Canada",
-  "url": "https://explore.jobs.netflix.net/careers/job/790315043614",
-  "kind": "Entry Level",
+  "company": "NVIDIA",
+  "title": "Developer Tools DevOps Engineering Intern - 2027",
+  "location": "Poland, Warsaw",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826",
+  "kind": "Internship",
   "first_seen": "2026-10-16"
  },
  {
@@ -29,6 +13,14 @@
   "location": "US, WA, Seattle",
   "url": "https://www.amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us",
   "kind": "Entry Level",
+  "first_seen": "2026-10-16"
+ },
+ {
+  "company": "Amazon",
+  "title": "Manufacturing Test Engr Intern, Advanced Manufacturing Engineering",
+  "location": "VN, Hanoi",
+  "url": "https://www.amazon.jobs/en/jobs/10524468/manufacturing-test-engr-intern-advanced-manufacturing-engineering",
+  "kind": "Internship",
   "first_seen": "2026-10-16"
  },
  {
@@ -99,14 +91,6 @@
   "company": "Amazon",
   "title": "Software Development Engineer I",
   "location": "IN, TS, Hyderabad",
-  "url": "https://www.amazon.jobs/en/jobs/10580007/software-development-engineer-i",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-15"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer I",
-  "location": "IN, TS, Hyderabad",
   "url": "https://www.amazon.jobs/en/jobs/10580014/software-development-engineer-i",
   "kind": "Entry Level",
   "first_seen": "2026-10-15"
@@ -161,7 +145,7 @@
  },
  {
   "company": "Airbnb",
-  "title": "Strategic Finance & Analytics Intern",
+  "title": "Strategic Finance & Analytics Intern (MBA)",
   "location": "United States",
   "url": "https://careers.airbnb.com/positions/8285171?gh_jid=8285171",
   "kind": "Internship",
@@ -907,7 +891,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -915,7 +899,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -1146,16 +1130,16 @@
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+  "location": "New York, Seattle, South San Francisco HQ",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "New York, Seattle, South San Francisco HQ",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
@@ -1528,14 +1512,6 @@
   "first_seen": "2026-09-25"
  },
  {
-  "company": "Palantir",
-  "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
-  "location": "New York, NY",
-  "url": "https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b",
-  "kind": "Internship",
-  "first_seen": "2026-09-25"
- },
- {
   "company": "Oracle",
   "title": "OCI Core Infrastructure Engineer 2 - Nashville Campus",
   "location": "Nashville, TN, United States",
@@ -1882,16 +1858,16 @@
  {
   "company": "Scale AI",
   "title": "Software Engineering Intern (Summer 2027) ",
-  "location": "London, UK",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+  "location": "Doha, Qatar ",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
   "kind": "Internship",
   "first_seen": "2026-09-14"
  },
  {
   "company": "Scale AI",
   "title": "Software Engineering Intern (Summer 2027) ",
-  "location": "Doha, Qatar ",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
+  "location": "London, UK",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
   "kind": "Internship",
   "first_seen": "2026-09-14"
  },
@@ -2330,16 +2306,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+  "location": "Bucharest",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Bucharest",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
