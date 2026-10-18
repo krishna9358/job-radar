@@ -137,14 +137,6 @@
  },
  {
   "company": "Amazon",
-  "title": "Software Development Engineer Intern, Amazon University Talent Acquisition ",
-  "location": "BR, SP, Sao Paulo",
-  "url": "https://www.amazon.jobs/en/jobs/3063220/software-development-engineer-intern-amazon-university-talent-acquisition",
-  "kind": "Internship",
-  "first_seen": "2026-10-15"
- },
- {
-  "company": "Amazon",
   "title": "Software Development Engineer I FTC",
   "location": "IN, TS, Hyderabad",
   "url": "https://www.amazon.jobs/en/jobs/10580010/software-development-engineer-i-ftc",
@@ -973,14 +965,6 @@
   "location": "Dublin, IE",
   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8244922",
   "kind": "Internship",
-  "first_seen": "2026-10-05"
- },
- {
-  "company": "NVIDIA",
-  "title": "NVIDIA 2027 Ignite Internships: Software Engineering",
-  "location": "US, CA, Santa Clara",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
-  "kind": "Entry Level",
   "first_seen": "2026-10-05"
  },
  {
@@ -2370,16 +2354,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+  "location": "London",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "London",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
@@ -3124,14 +3108,6 @@
   "title": "Software Development Engineer \u2013 2026",
   "location": "RO, Iasi",
   "url": "https://www.amazon.jobs/en/jobs/3119226/software-development-engineer-2026",
-  "kind": "Entry Level",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer - 2026  ",
-  "location": "DE, BE, Berlin",
-  "url": "https://www.amazon.jobs/en/jobs/3110381/software-development-engineer-2026",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
