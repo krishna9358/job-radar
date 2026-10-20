@@ -152,10 +152,50 @@
   "first_seen": "2026-10-20"
  },
  {
+  "company": "NVIDIA",
+  "title": "AI Compiler Formal Verification Intern",
+  "location": "Switzerland, Zurich",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025",
+  "kind": "Internship",
+  "first_seen": "2026-10-20"
+ },
+ {
+  "company": "MongoDB",
+  "title": "Associate Technical Services Engineer (Tues-Sat Shift)",
+  "location": "Milan",
+  "url": "https://www.mongodb.com/careers/job/?gh_jid=8258710",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-20"
+ },
+ {
+  "company": "MongoDB",
+  "title": "Associate Technical Services Engineer (Cloud)",
+  "location": "Dublin",
+  "url": "https://www.mongodb.com/careers/job/?gh_jid=8223199",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-20"
+ },
+ {
+  "company": "MongoDB",
+  "title": "Associate Technical Services Engineer (Cloud)",
+  "location": "Dublin",
+  "url": "https://www.mongodb.com/careers/job/?gh_jid=8239148",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-20"
+ },
+ {
   "company": "Amazon",
-  "title": "Operations Engineering Field (Execution) Intern Spring and Summer 2027 (CA, CT, FL, TX)",
-  "location": "US, TX, Cleburne",
-  "url": "https://www.amazon.jobs/en/jobs/10532282/operations-engineering-field-execution-intern-spring-and-summer-2027-ca-ct-fl-tx",
+  "title": "Industrial Design Engineer Intern , Summer 2027",
+  "location": "US, WA, Bellevue",
+  "url": "https://www.amazon.jobs/en/jobs/10584122/industrial-design-engineer-intern-summer-2027",
+  "kind": "Internship",
+  "first_seen": "2026-10-20"
+ },
+ {
+  "company": "Amazon",
+  "title": "Hardware Development Engineer Intern , Winter 2027",
+  "location": "US, WA, Bellevue",
+  "url": "https://www.amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027",
   "kind": "Internship",
   "first_seen": "2026-10-20"
  },
@@ -274,6 +314,14 @@
  {
   "company": "Adobe",
   "title": "2027 Intern- Software Engineer",
+  "location": "Basel",
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Basel/XMLNAME-2027-Intern--Software-Engineer_R173015",
+  "kind": "Internship",
+  "first_seen": "2026-10-19"
+ },
+ {
+  "company": "Adobe",
+  "title": "2027 Intern- Software Engineer",
   "location": "Yerevan",
   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/XMLNAME-2027-Intern--Software-Engineer_R173019",
   "kind": "Internship",
@@ -284,14 +332,6 @@
   "title": "2027 Intern- Software Engineer",
   "location": "Bucharest",
   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/XMLNAME-2027-Intern--Software-Engineer_R173018",
-  "kind": "Internship",
-  "first_seen": "2026-10-19"
- },
- {
-  "company": "Adobe",
-  "title": "2027 Intern- Software Engineer",
-  "location": "Basel",
-  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Basel/XMLNAME-2027-Intern--Software-Engineer_R173015",
   "kind": "Internship",
   "first_seen": "2026-10-19"
  },
@@ -324,14 +364,6 @@
   "title": "Data Center Infrastructure Engineering Intern, Colocation Regional Engineering",
   "location": "SG, Singapore",
   "url": "https://www.amazon.jobs/en/jobs/10507775/data-center-infrastructure-engineering-intern-colocation-regional-engineering",
-  "kind": "Internship",
-  "first_seen": "2026-10-17"
- },
- {
-  "company": "Amazon",
-  "title": "Business Strategy & Execution Operations Engineering Intern Spring and Summer 2027 (Bellevue, WA )",
-  "location": "US, WA, Bellevue",
-  "url": "https://www.amazon.jobs/en/jobs/10532290/business-strategy-execution-operations-engineering-intern-spring-and-summer-2027-bellevue-wa",
   "kind": "Internship",
   "first_seen": "2026-10-17"
  },
@@ -1000,30 +1032,6 @@
   "first_seen": "2026-10-07"
  },
  {
-  "company": "Elastic",
-  "title": "Software Engineer I - AI Observability",
-  "location": "Greece",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8260766&gh_jid=8260766",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-07"
- },
- {
-  "company": "Elastic",
-  "title": "Software Engineer I - AI Observability",
-  "location": "Spain",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8245844&gh_jid=8245844",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-07"
- },
- {
-  "company": "Elastic",
-  "title": "Software Engineer I - AI Observability",
-  "location": "Portugal",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8260767&gh_jid=8260767",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-07"
- },
- {
   "company": "Autodesk",
   "title": "Intern, Software Engineer [PDMS-DPM-Engineering]",
   "location": "Singapore, SGP",
@@ -1282,16 +1290,16 @@
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "New York, Seattle, South San Francisco HQ",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+  "location": "New York, Seattle, South San Francisco HQ",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
@@ -1986,16 +1994,16 @@
  {
   "company": "Scale AI",
   "title": "Software Engineering Intern (Summer 2027) ",
-  "location": "Doha, Qatar ",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
+  "location": "London, UK",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
   "kind": "Internship",
   "first_seen": "2026-09-14"
  },
  {
   "company": "Scale AI",
   "title": "Software Engineering Intern (Summer 2027) ",
-  "location": "London, UK",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+  "location": "Doha, Qatar ",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
   "kind": "Internship",
   "first_seen": "2026-09-14"
  },
@@ -2410,16 +2418,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "location": "Bucharest",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Bucharest",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -3196,14 +3204,6 @@
   "title": "2027 Software Dev Engineer Intern",
   "location": "IE, Dublin",
   "url": "https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "2027 Applied Science Intern (Machine Learning, Recommender Systems), Amazon International Machine Learning",
-  "location": "AU, VIC, Melbourne",
-  "url": "https://www.amazon.jobs/en/jobs/10456239/2027-applied-science-intern-machine-learning-recommender-systems-amazon-international-machine-learning",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
