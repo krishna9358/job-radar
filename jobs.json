@@ -41,6 +41,14 @@
  },
  {
   "company": "NVIDIA",
+  "title": "High-Performance LLM Training Engineer - New College Grad 2027",
+  "location": "US, CA, Santa Clara",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Performance-LLM-Training-Engineer---New-College-Grad-2027_JR2028237",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-21"
+ },
+ {
+  "company": "NVIDIA",
   "title": "GPU Computing Software Engineering Intern, Autonomous Driving - 2027",
   "location": "2 Locations",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/GPU-Computing-Software-Engineering-Intern--Autonomous-Driving---2027_JR2026546",
@@ -61,6 +69,14 @@
   "location": "US, TX, Cleburne",
   "url": "https://www.amazon.jobs/en/jobs/10532282/operations-engineering-field-execution-intern-spring-and-summer-2027-ca-ct-fl-tx",
   "kind": "Internship",
+  "first_seen": "2026-10-21"
+ },
+ {
+  "company": "Affirm",
+  "title": "Analyst, Early Career (Full Stack)",
+  "location": "New York, New York, United States; San Francisco, California, United States",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8039471003",
+  "kind": "New Grad",
   "first_seen": "2026-10-21"
  },
  {
@@ -105,14 +121,6 @@
  },
  {
   "company": "Salesforce",
-  "title": "Software Engineer AMTS (Junior) - Keynote Demo",
-  "location": "Mexico - Mexico City",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Technical-Architect---Keynote-Demos-AMTS_JR362623",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-20"
- },
- {
-  "company": "Salesforce",
   "title": "Database Engineering Associate",
   "location": "3 Locations",
   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Database-Engineering-Associate_JR358838-2",
@@ -124,14 +132,6 @@
   "title": "Commercial Graduate Solution Engineering Path  - French Market",
   "location": "Ireland - Dublin",
   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Solution-Engineering-Path----French-Market_JR362670-1",
-  "kind": "New Grad",
-  "first_seen": "2026-10-20"
- },
- {
-  "company": "Salesforce",
-  "title": "Commercial Graduate Solution Engineering Path  - Eastern Europe - Polish or Croatian or Czech Market",
-  "location": "Ireland - Dublin",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Solution-Engineering-Path----Eastern-Europe---Polish-or-Croatian-or-Czech-Market_JR362668-1",
   "kind": "New Grad",
   "first_seen": "2026-10-20"
  },
@@ -304,14 +304,6 @@
   "first_seen": "2026-10-19"
  },
  {
-  "company": "Netflix",
-  "title": "Software Engineer Intern - Summer 2027",
-  "location": "Los Gatos,California,United States of America",
-  "url": "https://explore.jobs.netflix.net/careers/job/790318904468",
-  "kind": "Internship",
-  "first_seen": "2026-10-19"
- },
- {
   "company": "NVIDIA",
   "title": "Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027",
   "location": "US, CA, Santa Clara",
@@ -432,30 +424,6 @@
   "first_seen": "2026-10-17"
  },
  {
-  "company": "Netflix",
-  "title": "Associate, Revenue Analytics Finance & Strategy - AI Automation",
-  "location": "Los Gatos,California,United States of America",
-  "url": "https://explore.jobs.netflix.net/careers/job/790317599353",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-16"
- },
- {
-  "company": "Netflix",
-  "title": "Associate Technical Supervisor (Front End) - Netflix Animation Studios",
-  "location": "Vancouver,Canada",
-  "url": "https://explore.jobs.netflix.net/careers/job/790316431938",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-16"
- },
- {
-  "company": "Netflix",
-  "title": "Associate Technical Supervisor (Back-End) - Netflix Animation Studios",
-  "location": "Vancouver,Canada",
-  "url": "https://explore.jobs.netflix.net/careers/job/790315043614",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-16"
- },
- {
   "company": "NVIDIA",
   "title": "Developer Tools DevOps Engineering Intern - 2027",
   "location": "Poland, Warsaw",
@@ -482,16 +450,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Search)",
-  "location": "Remote US",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8017340003",
+  "location": "Remote Canada",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8017342003",
   "kind": "Entry Level",
   "first_seen": "2026-10-16"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Search)",
-  "location": "Remote Canada",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8017342003",
+  "location": "Remote US",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8017340003",
   "kind": "Entry Level",
   "first_seen": "2026-10-16"
  },
@@ -936,14 +904,6 @@
   "first_seen": "2026-10-12"
  },
  {
-  "company": "NVIDIA",
-  "title": "ASIC Clocks Verification Engineer - New College Grad 2026",
-  "location": "US, CA, Santa Clara",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Verification-Engineer---New-College-Grad-2026_JR2027579",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-10"
- },
- {
   "company": "Amazon",
   "title": "Software Development Engineer Intern, Amazon University Talent Acquisition ",
   "location": "MX, DIF, Mexico City",
@@ -964,14 +924,6 @@
   "title": "Software Engineer, Internal Identity",
   "location": "na",
   "url": "https://stripe.com/jobs/search?gh_jid=8265763",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-09"
- },
- {
-  "company": "NVIDIA",
-  "title": "Hardware Design Validation Engineer - Memory Subsystem - New College Grad 2026",
-  "location": "US, CA, Santa Clara",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Hardware-Design-Validation-Engineer---Memory-Subsystem---New-College-Grad-2026_JR2026901",
   "kind": "Entry Level",
   "first_seen": "2026-10-09"
  },
@@ -1091,7 +1043,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -1099,7 +1051,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -1882,16 +1834,16 @@
  {
   "company": "Scale AI",
   "title": "Software Engineer - New Grad",
-  "location": "London, UK",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
+  "location": "Doha, Qatar ",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
   "kind": "New Grad",
   "first_seen": "2026-09-14"
  },
  {
   "company": "Scale AI",
   "title": "Software Engineer - New Grad",
-  "location": "Doha, Qatar ",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
+  "location": "London, UK",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
   "kind": "New Grad",
   "first_seen": "2026-09-14"
  },
@@ -2044,14 +1996,6 @@
   "title": "Data Engineer Intern (Summer 2027)",
   "location": "Toronto, Canada",
   "url": "https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002",
-  "kind": "Internship",
-  "first_seen": "2026-09-11"
- },
- {
-  "company": "Lyft",
-  "title": "Data Analyst Intern (Summer 2027)",
-  "location": "New York, NY",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
@@ -2290,16 +2234,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Bucharest",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+  "location": "Bucharest",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -3082,16 +3026,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  }
