@@ -56,6 +56,30 @@
   "first_seen": "2026-10-22"
  },
  {
+  "company": "NVIDIA",
+  "title": "AI Agent Engineer Intern, AI Enablement Process - 2027",
+  "location": "China, Beijing",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/AI-Agent-Engineer-Intern--AI-Enablement-Process---2027_JR2025834-1",
+  "kind": "Internship",
+  "first_seen": "2026-10-22"
+ },
+ {
+  "company": "DoorDash",
+  "title": "Mechanical Engineering, Intern - Labs (Summer 2027)",
+  "location": "Oakland, CA",
+  "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8313401",
+  "kind": "Internship",
+  "first_seen": "2026-10-22"
+ },
+ {
+  "company": "Databricks",
+  "title": "Associate Forward Deployed Engineer",
+  "location": "New York City, New York",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-22"
+ },
+ {
   "company": "Coinbase",
   "title": "Software Engineer Intern",
   "location": "Hybrid - Singapore",
@@ -69,6 +93,14 @@
   "location": "Manila - Philippines -   Manila,  1634 Philippines; Remote - Remote",
   "url": "https://globalcareers-atlassian.icims.com/jobs/27724/associate-solutions-engineer---smb%2b/job",
   "kind": "Entry Level",
+  "first_seen": "2026-10-22"
+ },
+ {
+  "company": "Adobe",
+  "title": "2027 Intern - Technical Support Engineer",
+  "location": "Bucharest",
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/XMLNAME-2027-Intern---Technical-Support-Engineer_R172702-1",
+  "kind": "Internship",
   "first_seen": "2026-10-22"
  },
  {
@@ -124,14 +156,6 @@
   "title": "GPU Computing Software Engineering Intern, Autonomous Driving - 2027",
   "location": "2 Locations",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/GPU-Computing-Software-Engineering-Intern--Autonomous-Driving---2027_JR2026546",
-  "kind": "Internship",
-  "first_seen": "2026-10-21"
- },
- {
-  "company": "Amazon",
-  "title": "Operations Engineering Field (Execution) Intern Spring and Summer 2027 (CA, CT, FL, TX)",
-  "location": "US, TX, Cleburne",
-  "url": "https://www.amazon.jobs/en/jobs/10532282/operations-engineering-field-execution-intern-spring-and-summer-2027-ca-ct-fl-tx",
   "kind": "Internship",
   "first_seen": "2026-10-21"
  },
@@ -292,22 +316,6 @@
   "title": "Associate Technical Services Engineer (Tues-Sat Shift)",
   "location": "Milan",
   "url": "https://www.mongodb.com/careers/job/?gh_jid=8258710",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-20"
- },
- {
-  "company": "MongoDB",
-  "title": "Associate Technical Services Engineer (Cloud)",
-  "location": "Dublin",
-  "url": "https://www.mongodb.com/careers/job/?gh_jid=8239148",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-20"
- },
- {
-  "company": "MongoDB",
-  "title": "Associate Technical Services Engineer (Cloud)",
-  "location": "Dublin",
-  "url": "https://www.mongodb.com/careers/job/?gh_jid=8223199",
   "kind": "Entry Level",
   "first_seen": "2026-10-20"
  },
@@ -506,16 +514,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Search)",
-  "location": "Remote US",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8017340003",
+  "location": "Remote Canada",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8017342003",
   "kind": "Entry Level",
   "first_seen": "2026-10-16"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Fullstack (Search)",
-  "location": "Remote Canada",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8017342003",
+  "location": "Remote US",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8017340003",
   "kind": "Entry Level",
   "first_seen": "2026-10-16"
  },
@@ -897,14 +905,6 @@
  },
  {
   "company": "NVIDIA",
-  "title": "Software Engineering Intern, AI CI/CD Infrastructure \u2013 2027",
-  "location": "China, Shanghai",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--AI-CI-CD-Infrastructure---2027_JR2026869",
-  "kind": "Internship",
-  "first_seen": "2026-10-12"
- },
- {
-  "company": "NVIDIA",
   "title": "Software Engineering Intern, AI Agent Test Development - 2027",
   "location": "China, Shanghai",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027477",
@@ -1242,16 +1242,16 @@
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "New York, Seattle, South San Francisco HQ",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+  "location": "New York, Seattle, South San Francisco HQ",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
@@ -1986,16 +1986,16 @@
  {
   "company": "Lyft",
   "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-  "location": "New York, NY",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+  "location": "San Francisco, CA",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
  {
   "company": "Lyft",
   "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-  "location": "San Francisco, CA",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+  "location": "New York, NY",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
@@ -2162,16 +2162,16 @@
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Madrid, Spain",
-  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
+  "location": "Paris, France",
+  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Paris, France",
-  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+  "location": "Madrid, Spain",
+  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
@@ -2234,8 +2234,8 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Bucharest",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -2250,8 +2250,8 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "location": "Bucharest",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -3034,16 +3034,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  }
