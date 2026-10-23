@@ -40,6 +40,14 @@
   "first_seen": "2026-10-23"
  },
  {
+  "company": "Oracle",
+  "title": "Support Engineer 1",
+  "location": "United States",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346406",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-23"
+ },
+ {
   "company": "Netflix",
   "title": "Software Engineer Intern - Summer 2027",
   "location": "Los Gatos,California,United States of America",
@@ -73,6 +81,30 @@
  },
  {
   "company": "NVIDIA",
+  "title": "System Software Engineer Intern, Embedded - 2027",
+  "location": "China, Shanghai",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Engineer-Intern--Embedded---2027_JR2028298",
+  "kind": "Internship",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Software Engineering Intern, AI Automation Infra - 2027",
+  "location": "China, Shanghai",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--AI-Automation-Infra---2027_JR2028205",
+  "kind": "Internship",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Software Engineer Intern - NVEX, 2027",
+  "location": "China, Beijing",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Software-Engineer-Intern---NVEX--2027_JR2028186",
+  "kind": "Internship",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "company": "NVIDIA",
   "title": "Silicon Co-Design Engineer - New College Grad 2026",
   "location": "US, CA, Santa Clara",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Co-Design-Engineer---New-College-Grad-2026_JR2027335",
@@ -85,6 +117,38 @@
   "location": "China, Shanghai",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Power-Analysis-and-Optimization-Engineer----New-College-Graduate-2027_JR2026861",
   "kind": "New Grad",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Deep Learning Model and System Optimization Engineering Intern \u2013 2027",
+  "location": "2 Locations",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Model-and-System-Optimization-Engineering-Intern---2027_JR2027784",
+  "kind": "Internship",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "company": "MongoDB",
+  "title": "2027 - Summer Software Engineer Intern, Dublin",
+  "location": "Dublin",
+  "url": "https://www.mongodb.com/careers/job/?gh_jid=8267099",
+  "kind": "Internship",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "company": "MongoDB",
+  "title": "2027 - Software Engineering Intern, AMER",
+  "location": "Austin; New York City; Palo Alto; San Francisco; Seattle",
+  "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
+  "kind": "Internship",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "company": "Databricks",
+  "title": "Associate Forward Deployed Engineer",
+  "location": "Mountain View, California",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002",
+  "kind": "Entry Level",
   "first_seen": "2026-10-23"
  },
  {
@@ -101,6 +165,22 @@
   "location": "IN, TS, Hyderabad",
   "url": "https://www.amazon.jobs/en/jobs/10580009/software-development-engineer-i-ftc",
   "kind": "Entry Level",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "company": "Amazon",
+  "title": "Business Developer Intern, Early Careers 2027",
+  "location": "DE, BY, Munich",
+  "url": "https://www.amazon.jobs/en/jobs/10587696/business-developer-intern-early-careers-2027",
+  "kind": "Internship",
+  "first_seen": "2026-10-23"
+ },
+ {
+  "company": "Amazon",
+  "title": "Business Developer Intern, Early Careers 2027",
+  "location": "GB, London",
+  "url": "https://www.amazon.jobs/en/jobs/10587701/business-developer-intern-early-careers-2027",
+  "kind": "Internship",
   "first_seen": "2026-10-23"
  },
  {
@@ -213,14 +293,6 @@
   "location": "Manila - Philippines -   Manila,  1634 Philippines; Remote - Remote",
   "url": "https://globalcareers-atlassian.icims.com/jobs/27724/associate-solutions-engineer---smb%2b/job",
   "kind": "Entry Level",
-  "first_seen": "2026-10-22"
- },
- {
-  "company": "Adobe",
-  "title": "2027 Intern - Technical Support Engineer",
-  "location": "Bucharest",
-  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/XMLNAME-2027-Intern---Technical-Support-Engineer_R172702-1",
-  "kind": "Internship",
   "first_seen": "2026-10-22"
  },
  {
@@ -456,14 +528,6 @@
   "first_seen": "2026-10-20"
  },
  {
-  "company": "Airbnb",
-  "title": "Early Career Software Engineer, Quality Platform",
-  "location": "Sao Paulo - Brazil",
-  "url": "https://careers.airbnb.com/positions/8154749?gh_jid=8154749",
-  "kind": "New Grad",
-  "first_seen": "2026-10-20"
- },
- {
   "company": "Adobe",
   "title": "2027 Intern - Security Engineer",
   "location": "San Jose",
@@ -659,14 +723,6 @@
   "company": "Amazon",
   "title": "Software Development Engineer I",
   "location": "IN, TS, Hyderabad",
-  "url": "https://www.amazon.jobs/en/jobs/10580014/software-development-engineer-i",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-15"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer I",
-  "location": "IN, TS, Hyderabad",
   "url": "https://www.amazon.jobs/en/jobs/10580013/software-development-engineer-i",
   "kind": "Entry Level",
   "first_seen": "2026-10-15"
@@ -676,6 +732,14 @@
   "title": "Software Development Engineer I",
   "location": "IN, TS, Hyderabad",
   "url": "https://www.amazon.jobs/en/jobs/10580011/software-development-engineer-i",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-15"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer I",
+  "location": "IN, TS, Hyderabad",
+  "url": "https://www.amazon.jobs/en/jobs/10580014/software-development-engineer-i",
   "kind": "Entry Level",
   "first_seen": "2026-10-15"
  },
@@ -1065,14 +1129,6 @@
  },
  {
   "company": "Amazon",
-  "title": "Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA)",
-  "location": "US, WA, Redmond",
-  "url": "https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa",
-  "kind": "Internship",
-  "first_seen": "2026-10-07"
- },
- {
-  "company": "Amazon",
   "title": "Applied Scientist, International Seller Services",
   "location": "IN, TS, Hyderabad",
   "url": "https://www.amazon.jobs/en/jobs/10566353/applied-scientist-international-seller-services",
@@ -1099,7 +1155,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -1107,7 +1163,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -1290,16 +1346,16 @@
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "New York, Seattle, South San Francisco HQ",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+  "location": "New York, Seattle, South San Francisco HQ",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
@@ -1784,14 +1840,6 @@
   "first_seen": "2026-09-18"
  },
  {
-  "company": "Amazon",
-  "title": "Business Developer Intern - 2027 - 12 Months, Amazon University Talent Acquisition",
-  "location": "GB, London",
-  "url": "https://www.amazon.jobs/en/jobs/10552039/business-developer-intern-2027-12-months-amazon-university-talent-acquisition",
-  "kind": "Internship",
-  "first_seen": "2026-09-17"
- },
- {
   "company": "Ramp",
   "title": "Software Engineer, International",
   "location": "London, UK",
@@ -2194,16 +2242,16 @@
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Paris, France",
-  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+  "location": "Madrid, Spain",
+  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Madrid, Spain",
-  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
+  "location": "Paris, France",
+  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
@@ -2266,8 +2314,8 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Bucharest",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -2282,8 +2330,8 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "location": "Bucharest",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -3036,14 +3084,6 @@
   "title": "2027 Software Dev Engineer Intern",
   "location": "IE, Dublin",
   "url": "https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
- },
- {
-  "company": "Amazon",
-  "title": "2027 Applied Science Intern (Computer Vision), Amazon International Machine Learning",
-  "location": "AU, VIC, Melbourne",
-  "url": "https://www.amazon.jobs/en/jobs/10459543/2027-applied-science-intern-computer-vision-amazon-international-machine-learning",
   "kind": "Internship",
   "first_seen": "2026-07-29"
  },
