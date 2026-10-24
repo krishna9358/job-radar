@@ -1,5 +1,53 @@
 [
  {
+  "company": "Workday",
+  "title": "Sr Associate Customer Support Analyst - Adaptive Planning  AI, ML & Application Support (Tuesday-Saturday,\u00a08am to 5pm)",
+  "location": "Costa Rica",
+  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Costa-Rica/Sr-Associate-Customer-Support-Analyst---Adaptive-Planning--AI--ML---Application-Support--Tuesday-Saturday--8am-to-5pm-_JR-0110222",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-24"
+ },
+ {
+  "company": "Sardine",
+  "title": "Summer Engineering Internship",
+  "location": "North America",
+  "url": "https://jobs.ashbyhq.com/sardine/b25449a4-c78c-4b1a-b5b2-74b45981a37a",
+  "kind": "Internship",
+  "first_seen": "2026-10-24"
+ },
+ {
+  "company": "Oracle",
+  "title": "Electrical Engineer 1",
+  "location": "Santa Clara, CA, United States",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348719",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-24"
+ },
+ {
+  "company": "Oracle",
+  "title": "Advanced Services Engineer 1",
+  "location": "Columbia, MO, United States",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/347371",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-24"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
+  "location": "US, WA, Redmond",
+  "url": "https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa",
+  "kind": "Internship",
+  "first_seen": "2026-10-24"
+ },
+ {
+  "company": "Amazon",
+  "title": "Data Scientist I, Central Learning Solutions Science",
+  "location": "US, WA, Bellevue",
+  "url": "https://www.amazon.jobs/en/jobs/10588066/data-scientist-i-central-learning-solutions-science",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-24"
+ },
+ {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
   "location": "Taiwan",
@@ -44,38 +92,6 @@
   "title": "Support Engineer 1",
   "location": "United States",
   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346406",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-23"
- },
- {
-  "company": "Netflix",
-  "title": "Software Engineer Intern - Summer 2027",
-  "location": "Los Gatos,California,United States of America",
-  "url": "https://explore.jobs.netflix.net/careers/job/790318904468",
-  "kind": "Internship",
-  "first_seen": "2026-10-23"
- },
- {
-  "company": "Netflix",
-  "title": "Associate, Revenue Analytics Finance & Strategy - AI Automation",
-  "location": "Los Gatos,California,United States of America",
-  "url": "https://explore.jobs.netflix.net/careers/job/790317599353",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-23"
- },
- {
-  "company": "Netflix",
-  "title": "Associate Technical Supervisor (Front End) - Netflix Animation Studios",
-  "location": "Vancouver,Canada",
-  "url": "https://explore.jobs.netflix.net/careers/job/790316431938",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-23"
- },
- {
-  "company": "Netflix",
-  "title": "Associate Technical Supervisor (Back-End) - Netflix Animation Studios",
-  "location": "Vancouver,Canada",
-  "url": "https://explore.jobs.netflix.net/careers/job/790315043614",
   "kind": "Entry Level",
   "first_seen": "2026-10-23"
  },
@@ -138,7 +154,7 @@
  {
   "company": "MongoDB",
   "title": "2027 - Software Engineering Intern, AMER",
-  "location": "Austin; New York City; Palo Alto; San Francisco; Seattle",
+  "location": "Austin; New York City; San Francisco",
   "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
   "kind": "Internship",
   "first_seen": "2026-10-23"
@@ -302,14 +318,6 @@
   "url": "https://globalcareers-atlassian.icims.com/jobs/27724/associate-solutions-engineer---smb%2b/job",
   "kind": "Entry Level",
   "first_seen": "2026-10-22"
- },
- {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346450",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-21"
  },
  {
   "company": "NVIDIA",
@@ -731,14 +739,6 @@
   "company": "Amazon",
   "title": "Software Development Engineer I",
   "location": "IN, TS, Hyderabad",
-  "url": "https://www.amazon.jobs/en/jobs/10580014/software-development-engineer-i",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-15"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer I",
-  "location": "IN, TS, Hyderabad",
   "url": "https://www.amazon.jobs/en/jobs/10580013/software-development-engineer-i",
   "kind": "Entry Level",
   "first_seen": "2026-10-15"
@@ -748,6 +748,14 @@
   "title": "Software Development Engineer I",
   "location": "IN, TS, Hyderabad",
   "url": "https://www.amazon.jobs/en/jobs/10580011/software-development-engineer-i",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-15"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer I",
+  "location": "IN, TS, Hyderabad",
+  "url": "https://www.amazon.jobs/en/jobs/10580014/software-development-engineer-i",
   "kind": "Entry Level",
   "first_seen": "2026-10-15"
  },
@@ -893,22 +901,6 @@
   "location": "Remote - Mexico",
   "url": "https://www.samsara.com/company/careers/roles/8112694?gh_jid=8112694",
   "kind": "Entry Level",
-  "first_seen": "2026-10-13"
- },
- {
-  "company": "NVIDIA",
-  "title": "Software Engineering Intern, Multi-Agent Systems - 2027",
-  "location": "China, Shanghai",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Multi-Agent-Systems---2027_JR2027701-1",
-  "kind": "Internship",
-  "first_seen": "2026-10-13"
- },
- {
-  "company": "NVIDIA",
-  "title": "Software Engineering Intern, Deep Learning - 2027",
-  "location": "2 Locations",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Deep-Learning---2027_JR2027596",
-  "kind": "Internship",
   "first_seen": "2026-10-13"
  },
  {
@@ -1512,14 +1504,6 @@
   "first_seen": "2026-09-28"
  },
  {
-  "company": "Amazon",
-  "title": "Sr. Applied Scientist, International Emerging Stores Payments",
-  "location": "US, WA, Seattle",
-  "url": "https://www.amazon.jobs/en/jobs/10515228/sr-applied-scientist-international-emerging-stores-payments",
-  "kind": "Entry Level",
-  "first_seen": "2026-09-28"
- },
- {
   "company": "Stripe",
   "title": "Financial Data Analyst Intern, Technical Operations",
   "location": "Singapore",
@@ -1580,14 +1564,6 @@
   "title": "Data Scientist Intern, 2027 Summer U.S.",
   "location": "Seattle - United States -   Seattle, Washington  United States",
   "url": "https://campus-americas.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job",
-  "kind": "Internship",
-  "first_seen": "2026-09-25"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
-  "location": "US, WA, Redmond",
-  "url": "https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa",
   "kind": "Internship",
   "first_seen": "2026-09-25"
  },
@@ -1786,16 +1762,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, Early Career \u2014 Immediate Start",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8212517",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8212508",
   "kind": "New Grad",
   "first_seen": "2026-09-18"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, Early Career \u2014 Immediate Start",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8212508",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8212517",
   "kind": "New Grad",
   "first_seen": "2026-09-18"
  },
@@ -2210,16 +2186,16 @@
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Paris, France",
-  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+  "location": "Madrid, Spain",
+  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Madrid, Spain",
-  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
+  "location": "Paris, France",
+  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
@@ -2290,16 +2266,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -3066,16 +3042,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  }
