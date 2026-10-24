@@ -32,6 +32,38 @@
   "first_seen": "2026-10-24"
  },
  {
+  "company": "Netflix",
+  "title": "Software Engineer Intern - Summer 2027",
+  "location": "Los Gatos,California,United States of America",
+  "url": "https://explore.jobs.netflix.net/careers/job/790318904468",
+  "kind": "Internship",
+  "first_seen": "2026-10-24"
+ },
+ {
+  "company": "Netflix",
+  "title": "Associate, Revenue Analytics Finance & Strategy - AI Automation",
+  "location": "Los Gatos,California,United States of America",
+  "url": "https://explore.jobs.netflix.net/careers/job/790317599353",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-24"
+ },
+ {
+  "company": "Netflix",
+  "title": "Associate Technical Supervisor (Front End) - Netflix Animation Studios",
+  "location": "Vancouver,Canada",
+  "url": "https://explore.jobs.netflix.net/careers/job/790316431938",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-24"
+ },
+ {
+  "company": "Netflix",
+  "title": "Associate Technical Supervisor (Back-End) - Netflix Animation Studios",
+  "location": "Vancouver,Canada",
+  "url": "https://explore.jobs.netflix.net/careers/job/790315043614",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-24"
+ },
+ {
   "company": "Amazon",
   "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
   "location": "US, WA, Redmond",
@@ -309,14 +341,6 @@
   "location": "Hybrid - Singapore",
   "url": "https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873",
   "kind": "Internship",
-  "first_seen": "2026-10-22"
- },
- {
-  "company": "Atlassian",
-  "title": "Associate Solutions Engineer - SMB+",
-  "location": "Manila - Philippines -   Manila,  1634 Philippines; Remote - Remote",
-  "url": "https://globalcareers-atlassian.icims.com/jobs/27724/associate-solutions-engineer---smb%2b/job",
-  "kind": "Entry Level",
   "first_seen": "2026-10-22"
  },
  {
@@ -1115,7 +1139,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -1123,7 +1147,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -1172,22 +1196,6 @@
   "title": "Data Processing Developer Technology Intern - 2027",
   "location": "4 Locations",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708",
-  "kind": "Internship",
-  "first_seen": "2026-10-05"
- },
- {
-  "company": "Atlassian",
-  "title": "Data Engineer, 2027 Graduate U.S",
-  "location": "Seattle - United States -   Seattle, Washington  United States",
-  "url": "https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job",
-  "kind": "New Grad",
-  "first_seen": "2026-10-05"
- },
- {
-  "company": "Atlassian",
-  "title": "Data Engineer Intern, 2027 Summer U.S.",
-  "location": "Seattle - United States -   Seattle, Washington  United States; Remote - Remote",
-  "url": "https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job",
   "kind": "Internship",
   "first_seen": "2026-10-05"
  },
@@ -1440,14 +1448,6 @@
   "first_seen": "2026-09-30"
  },
  {
-  "company": "Atlassian",
-  "title": "Data Scientist, 2027 Graduate U.S.",
-  "location": "Seattle - United States -   Seattle, Washington  United States; Remote - Remote",
-  "url": "https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job",
-  "kind": "New Grad",
-  "first_seen": "2026-09-30"
- },
- {
   "company": "Amazon",
   "title": "Software Development Engineer Intern, AWS Database - 2027 (US)",
   "location": "US, WA, Seattle",
@@ -1540,30 +1540,6 @@
   "title": "Machine Learning Intern (Masters) - Summer 2027",
   "location": "San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA",
   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8204111",
-  "kind": "Internship",
-  "first_seen": "2026-09-25"
- },
- {
-  "company": "Atlassian",
-  "title": "Security Engineer Intern, 2027 Summer U.S.",
-  "location": "Seattle - United States -   Seattle, Washington  United States; San Francisco - United States -   San Francisco, California 94104 United States",
-  "url": "https://campus-americas.icims.com/jobs/26267/security-engineer-intern%2c-2027-summer-u.s./job",
-  "kind": "Internship",
-  "first_seen": "2026-09-25"
- },
- {
-  "company": "Atlassian",
-  "title": "Machine Learning Engineer, 2027 Graduate U.S.",
-  "location": "Seattle - United States -   Seattle, Washington  United States",
-  "url": "https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job",
-  "kind": "New Grad",
-  "first_seen": "2026-09-25"
- },
- {
-  "company": "Atlassian",
-  "title": "Data Scientist Intern, 2027 Summer U.S.",
-  "location": "Seattle - United States -   Seattle, Washington  United States",
-  "url": "https://campus-americas.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job",
   "kind": "Internship",
   "first_seen": "2026-09-25"
  },
@@ -1680,14 +1656,6 @@
   "first_seen": "2026-09-22"
  },
  {
-  "company": "Atlassian",
-  "title": "AI Demand Intelligence Intern, 2027 Summer U.S.",
-  "location": "San Francisco - United States -   San Francisco, California 94104 United States; Remote - Remote",
-  "url": "https://careers-americas.icims.com/jobs/26843/ai-demand-intelligence-intern%2c-2027-summer-u.s./job",
-  "kind": "Internship",
-  "first_seen": "2026-09-22"
- },
- {
   "company": "Amazon",
   "title": "Manufacturing Test Engr Intern, Advanced Manufacturing Engineering",
   "location": "VN, Hanoi",
@@ -1726,14 +1694,6 @@
   "url": "https://www.amazon.jobs/en/jobs/10554706/2027-software-dev-engineer-intern-luxembourg",
   "kind": "Internship",
   "first_seen": "2026-09-22"
- },
- {
-  "company": "Atlassian",
-  "title": "Machine Learning Intern, 2027 Summer U.S.",
-  "location": "San Francisco - United States -   San Francisco, California 94104 United States; Seattle - United States -   Seattle, Washington  United States",
-  "url": "https://campus-americas.icims.com/jobs/26268/machine-learning-intern%2c-2027-summer-u.s./job",
-  "kind": "Internship",
-  "first_seen": "2026-09-21"
  },
  {
   "company": "Amazon",
@@ -1821,14 +1781,6 @@
   "location": "Los Angeles, CA; New York, NY; San Francisco, CA; Sunnyvale, CA; Seattle, WA",
   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709",
   "kind": "Entry Level",
-  "first_seen": "2026-09-15"
- },
- {
-  "company": "Atlassian",
-  "title": "Software Engineer, 2027 Graduate U.S.",
-  "location": "Seattle - United States -   Seattle, Washington  United States",
-  "url": "https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job",
-  "kind": "New Grad",
   "first_seen": "2026-09-15"
  },
  {
@@ -2168,14 +2120,6 @@
   "first_seen": "2026-09-09"
  },
  {
-  "company": "Atlassian",
-  "title": "Software Engineer, 2027 Graduate Canada",
-  "location": "Canada -     Canada",
-  "url": "https://campus-globalcareers-atlassian.icims.com/jobs/26070/software-engineer%2c-2027-graduate-canada/job",
-  "kind": "New Grad",
-  "first_seen": "2026-09-09"
- },
- {
   "company": "Datadog",
   "title": "Software Engineering Intern (Summer)",
   "location": "Boston, Massachusetts, USA; New York, New York, USA",
@@ -2248,14 +2192,6 @@
   "first_seen": "2026-09-02"
  },
  {
-  "company": "Atlassian",
-  "title": "Software Engineer Intern, 2027 Canada",
-  "location": "Canada -     Canada",
-  "url": "https://campus-globalcareers-atlassian.icims.com/jobs/26275/software-engineer-intern%2c-2027-canada/job",
-  "kind": "Internship",
-  "first_seen": "2026-09-02"
- },
- {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
   "location": "Bucharest",
@@ -2292,14 +2228,6 @@
   "title": "Software Engineer, Intern ",
   "location": "Bucharest",
   "url": "https://stripe.com/jobs/search?gh_jid=8130807",
-  "kind": "Internship",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "Atlassian",
-  "title": "Software Engineer Intern, 2027 Summer U.S.",
-  "location": "San Francisco - United States -   San Francisco, California 94104 United States; Seattle - United States -   Seattle, Washington  United States",
-  "url": "https://careers-americas.icims.com/jobs/26266/software-engineer-intern%2c-2027-summer-u.s./job",
   "kind": "Internship",
   "first_seen": "2026-09-01"
  },
