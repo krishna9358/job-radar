@@ -1,6 +1,14 @@
 [
  {
   "company": "NVIDIA",
+  "title": "Software Engineering Intern, Developer Tools - 2027",
+  "location": "France, Courbevoie",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/France-Courbevoie/Software-Engineering-Intern--Developer-Tools---2027_JR2028209",
+  "kind": "Internship",
+  "first_seen": "2026-10-26"
+ },
+ {
+  "company": "NVIDIA",
   "title": "ASIC Physical Design Engineer - New College Grad 2027",
   "location": "China, Shanghai",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Physical-Design-Engineer---New-College-Grad-2027_JR2028452",
@@ -21,6 +29,14 @@
   "location": "IN, TS, Hyderabad",
   "url": "https://www.amazon.jobs/en/jobs/10580009/software-development-engineer-i-ftc",
   "kind": "Entry Level",
+  "first_seen": "2026-10-26"
+ },
+ {
+  "company": "Amazon",
+  "title": "2027 Software Dev Engineer Intern - Italy",
+  "location": "IT, Turin",
+  "url": "https://www.amazon.jobs/en/jobs/10555867/2027-software-dev-engineer-intern-italy",
+  "kind": "Internship",
   "first_seen": "2026-10-26"
  },
  {
@@ -54,14 +70,6 @@
   "url": "https://explore.jobs.netflix.net/careers/job/790315043614",
   "kind": "Entry Level",
   "first_seen": "2026-10-25"
- },
- {
-  "company": "Workday",
-  "title": "Sr Associate Customer Support Analyst - Adaptive Planning  AI, ML & Application Support (Tuesday-Saturday,\u00a08am to 5pm)",
-  "location": "Costa Rica",
-  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Costa-Rica/Sr-Associate-Customer-Support-Analyst---Adaptive-Planning--AI--ML---Application-Support--Tuesday-Saturday--8am-to-5pm-_JR-0110222",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-24"
  },
  {
   "company": "Sardine",
@@ -361,7 +369,7 @@
  },
  {
   "company": "Affirm",
-  "title": "Software Engineer I (New Grad 2027) - Instruments team",
+  "title": "Software Engineer I (New Grad 2027) ",
   "location": "Remote UK",
   "url": "https://job-boards.greenhouse.io/affirm/jobs/8011718003",
   "kind": "New Grad",
@@ -1004,14 +1012,6 @@
   "title": "Technical Support Engineer I - Mexico",
   "location": "Remote - Mexico",
   "url": "https://www.samsara.com/company/careers/roles/8112694?gh_jid=8112694",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-13"
- },
- {
-  "company": "NVIDIA",
-  "title": "PCB Design Engineer - New College Grad 2027",
-  "location": "2 Locations",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/PCB-Design-Engineer---New-College-Grad-2027_JR2027612",
   "kind": "Entry Level",
   "first_seen": "2026-10-13"
  },
@@ -1882,14 +1882,6 @@
  {
   "company": "Scale AI",
   "title": "Software Engineering Intern (Summer 2027) ",
-  "location": "London, UK",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
-  "kind": "Internship",
-  "first_seen": "2026-09-14"
- },
- {
-  "company": "Scale AI",
-  "title": "Software Engineering Intern (Summer 2027) ",
   "location": "Doha, Qatar ",
   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
   "kind": "Internship",
@@ -1897,10 +1889,10 @@
  },
  {
   "company": "Scale AI",
-  "title": "Software Engineer - New Grad",
-  "location": "Doha, Qatar ",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
-  "kind": "New Grad",
+  "title": "Software Engineering Intern (Summer 2027) ",
+  "location": "London, UK",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+  "kind": "Internship",
   "first_seen": "2026-09-14"
  },
  {
@@ -1908,6 +1900,14 @@
   "title": "Software Engineer - New Grad",
   "location": "London, UK",
   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
+  "kind": "New Grad",
+  "first_seen": "2026-09-14"
+ },
+ {
+  "company": "Scale AI",
+  "title": "Software Engineer - New Grad",
+  "location": "Doha, Qatar ",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
   "kind": "New Grad",
   "first_seen": "2026-09-14"
  },
@@ -2274,6 +2274,14 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "kind": "New Grad",
+  "first_seen": "2026-09-01"
+ },
+ {
+  "company": "Stripe",
+  "title": "Software Engineer, New Grad",
   "location": "Bucharest",
   "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
@@ -2284,14 +2292,6 @@
   "title": "Software Engineer, New Grad",
   "location": "Dublin",
   "url": "https://stripe.com/jobs/search?gh_jid=8130881",
-  "kind": "New Grad",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "Stripe",
-  "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -3050,16 +3050,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  }
