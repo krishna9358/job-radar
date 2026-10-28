@@ -1,5 +1,13 @@
 [
  {
+  "company": "Workday",
+  "title": "Sr Associate Software Development Engineer (US Federal)",
+  "location": "USA, GA, Atlanta",
+  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Sr-Associate-Software-Development-Engineer--US-Federal-_JR-0108519",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-28"
+ },
+ {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
   "location": "Bangalore",
@@ -13,6 +21,22 @@
   "location": "Remote - Mexico",
   "url": "https://www.samsara.com/company/careers/roles/8112694?gh_jid=8112694",
   "kind": "Entry Level",
+  "first_seen": "2026-10-28"
+ },
+ {
+  "company": "Samsara",
+  "title": "Software Engineering Internship - London",
+  "location": "London - UK2",
+  "url": "https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093",
+  "kind": "Internship",
+  "first_seen": "2026-10-28"
+ },
+ {
+  "company": "Samsara",
+  "title": "Software Engineer I (New Grad)",
+  "location": "London - UK2",
+  "url": "https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345",
+  "kind": "New Grad",
   "first_seen": "2026-10-28"
  },
  {
@@ -32,11 +56,83 @@
   "first_seen": "2026-10-28"
  },
  {
+  "company": "NVIDIA",
+  "title": "Performance Engineering Intern, Deep Learning and HPC - 2027",
+  "location": "China, Shanghai",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Engineering-Intern--Deep-Learning-and-HPC---2027_JR2028299",
+  "kind": "Internship",
+  "first_seen": "2026-10-28"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Performance Engineering Intern - 2027",
+  "location": "China, Shanghai",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Engineering-Intern---2027_JR2027711",
+  "kind": "Internship",
+  "first_seen": "2026-10-28"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Perf Engineering Intern - 2027",
+  "location": "China, Shanghai",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Perf-Engineering-Intern---2027_JR2028384",
+  "kind": "Internship",
+  "first_seen": "2026-10-28"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Compute System Arch Engineer, AI Infra - New College Grad 2027",
+  "location": "China, Shanghai",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Compute-System-Arch-Engineer--AI-Infra---New-College-Grad-2027_JR2028578",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-28"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Circuit Design Methodology, CAD Engineer-  New College Graduate 2027",
+  "location": "China, Shanghai",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Circuit-Design-Methodology--CAD-Engineer---New-College-Graduate-2027_JR2028663",
+  "kind": "New Grad",
+  "first_seen": "2026-10-28"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer \u2013 2027",
+  "location": "ZA, Cape Town",
+  "url": "https://www.amazon.jobs/en/jobs/10591094/software-development-engineer-2027",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-28"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)",
+  "location": "US, WA, Seattle",
+  "url": "https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc",
+  "kind": "Internship",
+  "first_seen": "2026-10-28"
+ },
+ {
   "company": "Amazon",
   "title": "Software Development Engineer I FTC",
   "location": "IN, TS, Hyderabad",
   "url": "https://www.amazon.jobs/en/jobs/10580009/software-development-engineer-i-ftc",
   "kind": "Entry Level",
+  "first_seen": "2026-10-28"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA)",
+  "location": "US, WA, Redmond",
+  "url": "https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa",
+  "kind": "Internship",
+  "first_seen": "2026-10-28"
+ },
+ {
+  "company": "Amazon",
+  "title": "2027 Applied Science Intern (Machine Learning, Recommender Systems), Amazon International Machine Learning",
+  "location": "AU, VIC, Melbourne",
+  "url": "https://www.amazon.jobs/en/jobs/10456239/2027-applied-science-intern-machine-learning-recommender-systems-amazon-international-machine-learning",
+  "kind": "Internship",
   "first_seen": "2026-10-28"
  },
  {
@@ -261,14 +357,6 @@
   "location": "GB, London",
   "url": "https://www.amazon.jobs/en/jobs/10588998/2027-software-dev-engineer-intern-embedded-systems-uk",
   "kind": "Internship",
-  "first_seen": "2026-10-26"
- },
- {
-  "company": "Airbnb",
-  "title": "Early Career Software Engineer, Tech Foundations",
-  "location": "Sao Paulo - Brazil",
-  "url": "https://careers.airbnb.com/positions/8154749?gh_jid=8154749",
-  "kind": "New Grad",
   "first_seen": "2026-10-26"
  },
  {
@@ -536,14 +624,6 @@
   "first_seen": "2026-10-23"
  },
  {
-  "company": "Databricks",
-  "title": "Associate Forward Deployed Engineer",
-  "location": "Mountain View, California",
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-23"
- },
- {
   "company": "Amazon",
   "title": "System Development Engineer Intern/Co-op, ROBOTICS -  2027",
   "location": "US, MA, North Reading",
@@ -701,14 +781,6 @@
   "location": "California - Palo Alto",
   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1",
   "kind": "Internship",
-  "first_seen": "2026-10-20"
- },
- {
-  "company": "Salesforce",
-  "title": "Software Engineer Junior \u2014 Automation & Reliability",
-  "location": "Mexico - Mexico City",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Software-Engineer-Junior---Automation---Reliability_JR364628",
-  "kind": "Entry Level",
   "first_seen": "2026-10-20"
  },
  {
@@ -889,14 +961,6 @@
  },
  {
   "company": "Amazon",
-  "title": "Software Development Engineer \u2013 2026",
-  "location": "LU, Luxembourg",
-  "url": "https://www.amazon.jobs/en/jobs/10377046/software-development-engineer-2026",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-19"
- },
- {
-  "company": "Amazon",
   "title": "Operations Engineer Intern (Field)",
   "location": "IT, BG, Cividate Al Piano",
   "url": "https://www.amazon.jobs/en/jobs/10551654/operations-engineer-intern-field",
@@ -982,14 +1046,6 @@
   "url": "https://job-boards.greenhouse.io/affirm/jobs/8017340003",
   "kind": "Entry Level",
   "first_seen": "2026-10-16"
- },
- {
-  "company": "NVIDIA",
-  "title": "Developer Technology Engineering Intern - Compute Performance",
-  "location": "2 Locations",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2027949",
-  "kind": "Internship",
-  "first_seen": "2026-10-15"
  },
  {
   "company": "Duolingo",
@@ -1906,16 +1962,16 @@
  {
   "company": "Scale AI",
   "title": "Software Engineer - New Grad",
-  "location": "London, UK",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
+  "location": "Doha, Qatar ",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
   "kind": "New Grad",
   "first_seen": "2026-09-14"
  },
  {
   "company": "Scale AI",
   "title": "Software Engineer - New Grad",
-  "location": "Doha, Qatar ",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
+  "location": "London, UK",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
   "kind": "New Grad",
   "first_seen": "2026-09-14"
  },
@@ -2050,16 +2106,16 @@
  {
   "company": "Lyft",
   "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-  "location": "New York, NY",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+  "location": "San Francisco, CA",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
  {
   "company": "Lyft",
   "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-  "location": "San Francisco, CA",
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+  "location": "New York, NY",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
   "kind": "Internship",
   "first_seen": "2026-09-11"
  },
@@ -2218,16 +2274,16 @@
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Madrid, Spain",
-  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
+  "location": "Paris, France",
+  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Paris, France",
-  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+  "location": "Madrid, Spain",
+  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
@@ -2282,8 +2338,8 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -2298,8 +2354,8 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
