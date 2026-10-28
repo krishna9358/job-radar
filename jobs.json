@@ -1,5 +1,29 @@
 [
  {
+  "company": "Samsara",
+  "title": "Technical Support Engineer I - Mexico",
+  "location": "Remote - Mexico",
+  "url": "https://www.samsara.com/company/careers/roles/8112694?gh_jid=8112694",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-28"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Research Scientist, Electronic Design Automation - New College Grad 2026",
+  "location": "US, CA, Santa Clara",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-28"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer I FTC",
+  "location": "IN, TS, Hyderabad",
+  "url": "https://www.amazon.jobs/en/jobs/10580009/software-development-engineer-i-ftc",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-28"
+ },
+ {
   "company": "Salesforce",
   "title": "Summer 2027 Intern - Forward Deployed Engineer \u2013 Global Public Sector",
   "location": "2 Locations",
@@ -142,14 +166,6 @@
   "url": "https://www.amazon.jobs/en/jobs/10581054/applied-scientist-intern",
   "kind": "Internship",
   "first_seen": "2026-10-27"
- },
- {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346452",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-26"
  },
  {
   "company": "Oracle",
@@ -665,14 +681,6 @@
  },
  {
   "company": "Salesforce",
-  "title": "Summer 2027 Intern - Solution Engineer",
-  "location": "New York - New York",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1",
-  "kind": "Internship",
-  "first_seen": "2026-10-20"
- },
- {
-  "company": "Salesforce",
   "title": "Summer 2027 Intern - Software Engineer (Security/Government)",
   "location": "2 Locations",
   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1",
@@ -1064,14 +1072,6 @@
   "first_seen": "2026-10-14"
  },
  {
-  "company": "NVIDIA",
-  "title": "ASIC Verification Engineer - New College Grad 2026",
-  "location": "2 Locations",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Verification-Engineer---New-College-Grad-2026_JR2012573",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-14"
- },
- {
   "company": "Amazon",
   "title": "Hardware Development Engineer Intern,  Summer 2027",
   "location": "US, CA, Sunnyvale",
@@ -1216,22 +1216,6 @@
   "first_seen": "2026-10-08"
  },
  {
-  "company": "Amazon",
-  "title": "Systems Development Engineer Intern, Canada 2027 ",
-  "location": "CA, BC, Vancouver",
-  "url": "https://www.amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027",
-  "kind": "Internship",
-  "first_seen": "2026-10-08"
- },
- {
-  "company": "Amazon",
-  "title": "Systems Development Engineer Intern, (US) 2027",
-  "location": "US, WA, Bellevue",
-  "url": "https://www.amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027",
-  "kind": "Internship",
-  "first_seen": "2026-10-08"
- },
- {
   "company": "Stripe",
   "title": "Security Engineer, New Grad",
   "location": "Dublin",
@@ -1267,7 +1251,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -1275,7 +1259,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -1834,16 +1818,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, Early Career \u2014 Immediate Start",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8212517",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8212508",
   "kind": "New Grad",
   "first_seen": "2026-09-18"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, Early Career \u2014 Immediate Start",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8212508",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8212517",
   "kind": "New Grad",
   "first_seen": "2026-09-18"
  },
@@ -2306,6 +2290,14 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+  "kind": "New Grad",
+  "first_seen": "2026-09-01"
+ },
+ {
+  "company": "Stripe",
+  "title": "Software Engineer, New Grad",
   "location": "Toronto",
   "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
@@ -2316,14 +2308,6 @@
   "title": "Software Engineer, New Grad",
   "location": "Bucharest",
   "url": "https://stripe.com/jobs/search?gh_jid=8130922",
-  "kind": "New Grad",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "Stripe",
-  "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -2354,16 +2338,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "London",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+  "location": "London",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
