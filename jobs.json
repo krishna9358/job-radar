@@ -1,11 +1,11 @@
 [
  {
-  "company": "Workday",
-  "title": "Sr Associate Software Development Engineer (US Federal)",
-  "location": "USA, GA, Atlanta",
-  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Sr-Associate-Software-Development-Engineer--US-Federal-_JR-0108519",
+  "company": "Salesforce",
+  "title": "Junior Technical Support Engineer\u3010\u969c\u5bb3\u8005\u63a1\u7528\u3011",
+  "location": "Japan - Remote",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Remote/Junior-Technical-Support-Engineer_JR318163",
   "kind": "Entry Level",
-  "first_seen": "2026-10-28"
+  "first_seen": "2026-10-29"
  },
  {
   "company": "Stripe",
@@ -124,14 +124,6 @@
   "title": "Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA)",
   "location": "US, WA, Redmond",
   "url": "https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa",
-  "kind": "Internship",
-  "first_seen": "2026-10-28"
- },
- {
-  "company": "Amazon",
-  "title": "2027 Applied Science Intern (Machine Learning, Recommender Systems), Amazon International Machine Learning",
-  "location": "AU, VIC, Melbourne",
-  "url": "https://www.amazon.jobs/en/jobs/10456239/2027-applied-science-intern-machine-learning-recommender-systems-amazon-international-machine-learning",
   "kind": "Internship",
   "first_seen": "2026-10-28"
  },
@@ -1008,14 +1000,6 @@
   "first_seen": "2026-10-17"
  },
  {
-  "company": "NVIDIA",
-  "title": "Developer Tools DevOps Engineering Intern - 2027",
-  "location": "Poland, Warsaw",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826",
-  "kind": "Internship",
-  "first_seen": "2026-10-16"
- },
- {
   "company": "DoorDash",
   "title": "Electrical Engineer, Intern - Labs (Summer 2027)",
   "location": "Oakland, CA",
@@ -1112,14 +1096,6 @@
   "first_seen": "2026-10-15"
  },
  {
-  "company": "Workday",
-  "title": "Sr. Associate Support Engineer (AI & ML Application Support)",
-  "location": "IND.Pune",
-  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Support-Engineer--AI-ML---Platform-Operations-_JR-0110061",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-14"
- },
- {
   "company": "NVIDIA",
   "title": "System Software Engineer - Base OS (RDSS Intern)",
   "location": "Taiwan, Taipei",
@@ -1208,14 +1184,6 @@
   "first_seen": "2026-10-10"
  },
  {
-  "company": "Workday",
-  "title": "Sr Associate Support Engineer (AI/ML & Platform Operations)",
-  "location": "IND.Pune",
-  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Sr-Associate-Support-Engineer--AI-ML---Platform-Operations-_JR-0110069",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-09"
- },
- {
   "company": "Stripe",
   "title": "Software Engineer, Internal Identity",
   "location": "na",
@@ -1246,14 +1214,6 @@
   "url": "https://job-boards.greenhouse.io/affirm/jobs/8011375003",
   "kind": "Internship",
   "first_seen": "2026-10-09"
- },
- {
-  "company": "Workday",
-  "title": "Sr Associate Paradox Technical Support Engineer",
-  "location": "IND.Pune",
-  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Sr-Associate-Paradox-Technical-Support-Engineer_JR-0110312",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-08"
  },
  {
   "company": "Pinterest",
@@ -1296,18 +1256,10 @@
   "first_seen": "2026-10-07"
  },
  {
-  "company": "Workday",
-  "title": "Associate Site Reliability Engineer (SRE) - Multicloud Platform",
-  "location": "New Zealand, Auckland",
-  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/New-Zealand-Auckland/Associate-Site-Reliability-Engineer--SRE----Multicloud-Platform_JR-0110615",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-06"
- },
- {
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -1315,7 +1267,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -1446,22 +1398,6 @@
   "url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
   "kind": "Internship",
   "first_seen": "2026-10-02"
- },
- {
-  "company": "Workday",
-  "title": "Sr Associate Support Engineer, Adaptive Planning AI, ML & Platform Operations",
-  "location": "IND.Pune",
-  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Sr-Associate-Support-Engineer--Adaptive-Planning-AI--ML---Platform-Operations_JR-0110344",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-01"
- },
- {
-  "company": "Workday",
-  "title": "Sr Associate Machine Learning Engineer",
-  "location": "Canada, BC, Vancouver",
-  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Sr-Associate-Machine-Learning-Engineer_JR-0110395",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-01"
  },
  {
   "company": "Stripe",
@@ -1866,16 +1802,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, Early Career \u2014 Immediate Start",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8212517",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8212508",
   "kind": "New Grad",
   "first_seen": "2026-09-18"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, Early Career \u2014 Immediate Start",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8212508",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8212517",
   "kind": "New Grad",
   "first_seen": "2026-09-18"
  },
@@ -2274,16 +2210,16 @@
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Paris, France",
-  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+  "location": "Madrid, Spain",
+  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Madrid, Spain",
-  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
+  "location": "Paris, France",
+  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
@@ -2338,14 +2274,6 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
-  "kind": "New Grad",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "Stripe",
-  "title": "Software Engineer, New Grad",
   "location": "Bucharest",
   "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
@@ -2356,6 +2284,14 @@
   "title": "Software Engineer, New Grad",
   "location": "Toronto",
   "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "kind": "New Grad",
+  "first_seen": "2026-09-01"
+ },
+ {
+  "company": "Stripe",
+  "title": "Software Engineer, New Grad",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -3098,16 +3034,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  }
