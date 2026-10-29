@@ -1,10 +1,90 @@
 [
  {
+  "company": "Workday",
+  "title": "Sr. Associate Support Engineer (AI & ML Application Support)",
+  "location": "IND.Pune",
+  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Support-Engineer--AI-ML---Platform-Operations-_JR-0110061",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "company": "Workday",
+  "title": "Sr Associate Support Engineer, Adaptive Planning AI, ML & Platform Operations",
+  "location": "IND.Pune",
+  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Sr-Associate-Support-Engineer--Adaptive-Planning-AI--ML---Platform-Operations_JR-0110344",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "company": "Workday",
+  "title": "Sr Associate Support Engineer (AI/ML & Platform Operations)",
+  "location": "IND.Pune",
+  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Sr-Associate-Support-Engineer--AI-ML---Platform-Operations-_JR-0110069",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "company": "Workday",
+  "title": "Sr Associate Software Development Engineer (US Federal)",
+  "location": "USA, GA, Atlanta",
+  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Sr-Associate-Software-Development-Engineer--US-Federal-_JR-0108519",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "company": "Workday",
+  "title": "Sr Associate Paradox Technical Support Engineer",
+  "location": "IND.Pune",
+  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Sr-Associate-Paradox-Technical-Support-Engineer_JR-0110312",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "company": "Workday",
+  "title": "Sr Associate Machine Learning Engineer",
+  "location": "Canada, BC, Vancouver",
+  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Sr-Associate-Machine-Learning-Engineer_JR-0110395",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "company": "Workday",
+  "title": "Associate Site Reliability Engineer (SRE) - Multicloud Platform",
+  "location": "New Zealand, Auckland",
+  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/New-Zealand-Auckland/Associate-Site-Reliability-Engineer--SRE----Multicloud-Platform_JR-0110615",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-29"
+ },
+ {
   "company": "Salesforce",
   "title": "Junior Technical Support Engineer\u3010\u969c\u5bb3\u8005\u63a1\u7528\u3011",
   "location": "Japan - Remote",
   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Remote/Junior-Technical-Support-Engineer_JR318163",
   "kind": "Entry Level",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "GPU Verification Engineer - New College Grad 2026",
+  "location": "US, MA, Westford",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2022102",
+  "kind": "Entry Level",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "2027 Software Dev Engineer Intern - Tel-Aviv, Israel",
+  "location": "IL, Tel Aviv",
+  "url": "https://www.amazon.jobs/en/jobs/10592104/2027-software-dev-engineer-intern-tel-aviv-israel",
+  "kind": "Internship",
+  "first_seen": "2026-10-29"
+ },
+ {
+  "company": "Amazon",
+  "title": "2027 Software Dev Engineer Intern - Haifa, Israel",
+  "location": "IL, Haifa",
+  "url": "https://www.amazon.jobs/en/jobs/10592105/2027-software-dev-engineer-intern-haifa-israel",
+  "kind": "Internship",
   "first_seen": "2026-10-29"
  },
  {
@@ -121,14 +201,6 @@
  },
  {
   "company": "Amazon",
-  "title": "Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA)",
-  "location": "US, WA, Redmond",
-  "url": "https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa",
-  "kind": "Internship",
-  "first_seen": "2026-10-28"
- },
- {
-  "company": "Amazon",
   "title": "2027 Applied Science Intern (Computer Vision), Amazon International Machine Learning",
   "location": "AU, VIC, Melbourne",
   "url": "https://www.amazon.jobs/en/jobs/10459543/2027-applied-science-intern-computer-vision-amazon-international-machine-learning",
@@ -157,22 +229,6 @@
   "location": "BENGALURU, KARNATAKA, India",
   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/344317",
   "kind": "Entry Level",
-  "first_seen": "2026-10-27"
- },
- {
-  "company": "NVIDIA",
-  "title": "Software Engineering Intern, AI Agents and Backend Infrastructure \u2013 2027",
-  "location": "4 Locations",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Software-Engineering-Intern--AI-Agents-and-Backend-Infrastructure---2027_JR2027939",
-  "kind": "Internship",
-  "first_seen": "2026-10-27"
- },
- {
-  "company": "NVIDIA",
-  "title": "Software Engineering Intern, AI Agents & Backend Infrastructure \u2013 2027",
-  "location": "6 Locations",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Remote/Software-Engineering-Intern--AI-Agents---Backend-Infrastructure---2027_JR2027942",
-  "kind": "Internship",
   "first_seen": "2026-10-27"
  },
  {
@@ -761,14 +817,6 @@
  },
  {
   "company": "Salesforce",
-  "title": "Summer 2027 Intern - Software Engineer (Security/Government)",
-  "location": "2 Locations",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1",
-  "kind": "Internship",
-  "first_seen": "2026-10-20"
- },
- {
-  "company": "Salesforce",
   "title": "Summer 2027 Intern - AI Research",
   "location": "California - Palo Alto",
   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1",
@@ -780,14 +828,6 @@
   "title": "Software Engineer Junior - Master Data Management (MDM)",
   "location": "Mexico - Mexico City",
   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Software-Engineer-Junior---MDM_JR364122",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-20"
- },
- {
-  "company": "Salesforce",
-  "title": "Associate - Account Solution Engineer",
-  "location": "Ireland - Dublin",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Account-Solution-Engineer_JR359410",
   "kind": "Entry Level",
   "first_seen": "2026-10-20"
  },
@@ -1259,7 +1299,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -1267,7 +1307,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -1402,16 +1442,16 @@
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "New York, Seattle, South San Francisco HQ",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+  "location": "New York, Seattle, South San Francisco HQ",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
@@ -2274,16 +2314,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Bucharest",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "location": "Bucharest",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -2322,16 +2362,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "London",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+  "location": "London",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
@@ -2564,14 +2604,6 @@
   "title": "Forward Deployed Software Engineer, Internship - UK Government",
   "location": "London, United Kingdom",
   "url": "https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf",
-  "kind": "Internship",
-  "first_seen": "2026-07-31"
- },
- {
-  "company": "Palantir",
-  "title": "Forward Deployed Software Engineer, Internship - Commercial",
-  "location": "London, United Kingdom",
-  "url": "https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636",
   "kind": "Internship",
   "first_seen": "2026-07-31"
  },
