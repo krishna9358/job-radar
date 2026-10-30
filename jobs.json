@@ -24,6 +24,22 @@
   "first_seen": "2026-10-30"
  },
  {
+  "company": "Amazon",
+  "title": "Business Developer Intern, Early Careers 2027",
+  "location": "GB, London",
+  "url": "https://www.amazon.jobs/en/jobs/10593322/business-developer-intern-early-careers-2027",
+  "kind": "Internship",
+  "first_seen": "2026-10-30"
+ },
+ {
+  "company": "Amazon",
+  "title": "Business Developer Intern, Early Careers 2027",
+  "location": "DE, BY, Munich",
+  "url": "https://www.amazon.jobs/en/jobs/10593299/business-developer-intern-early-careers-2027",
+  "kind": "Internship",
+  "first_seen": "2026-10-30"
+ },
+ {
   "company": "Workday",
   "title": "Sr Associate Support Engineer, Adaptive Planning AI, ML & Platform Operations",
   "location": "IND.Pune",
@@ -504,38 +520,6 @@
   "first_seen": "2026-10-26"
  },
  {
-  "company": "Netflix",
-  "title": "Software Engineer Intern - Summer 2027",
-  "location": "Los Gatos,California,United States of America",
-  "url": "https://explore.jobs.netflix.net/careers/job/790318904468",
-  "kind": "Internship",
-  "first_seen": "2026-10-25"
- },
- {
-  "company": "Netflix",
-  "title": "Associate, Revenue Analytics Finance & Strategy - AI Automation",
-  "location": "Los Gatos,California,United States of America",
-  "url": "https://explore.jobs.netflix.net/careers/job/790317599353",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-25"
- },
- {
-  "company": "Netflix",
-  "title": "Associate Technical Supervisor (Front End) - Netflix Animation Studios",
-  "location": "Vancouver,Canada",
-  "url": "https://explore.jobs.netflix.net/careers/job/790316431938",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-25"
- },
- {
-  "company": "Netflix",
-  "title": "Associate Technical Supervisor (Back-End) - Netflix Animation Studios",
-  "location": "Vancouver,Canada",
-  "url": "https://explore.jobs.netflix.net/careers/job/790315043614",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-25"
- },
- {
   "company": "Sardine",
   "title": "Summer Engineering Internship",
   "location": "North America",
@@ -777,22 +761,6 @@
  },
  {
   "company": "Amazon",
-  "title": "Business Developer Intern, Early Careers 2027",
-  "location": "DE, BY, Munich",
-  "url": "https://www.amazon.jobs/en/jobs/10587696/business-developer-intern-early-careers-2027",
-  "kind": "Internship",
-  "first_seen": "2026-10-23"
- },
- {
-  "company": "Amazon",
-  "title": "Business Developer Intern, Early Careers 2027",
-  "location": "GB, London",
-  "url": "https://www.amazon.jobs/en/jobs/10587701/business-developer-intern-early-careers-2027",
-  "kind": "Internship",
-  "first_seen": "2026-10-23"
- },
- {
-  "company": "Amazon",
   "title": "Applied Scientist I, Worldwide Returns & Recommerce - Science ",
   "location": "IN, TS, Hyderabad",
   "url": "https://www.amazon.jobs/en/jobs/10565185/applied-scientist-i-worldwide-returns-recommerce-science",
@@ -910,14 +878,6 @@
   "url": "https://job-boards.greenhouse.io/affirm/jobs/8039471003",
   "kind": "New Grad",
   "first_seen": "2026-10-21"
- },
- {
-  "company": "Salesforce",
-  "title": "Software Engineer Junior - Master Data Management (MDM)",
-  "location": "Mexico - Mexico City",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Software-Engineer-Junior---MDM_JR364122",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-20"
  },
  {
   "company": "Palantir",
@@ -2010,16 +1970,16 @@
  {
   "company": "Scale AI",
   "title": "Software Engineering Intern (Summer 2027) ",
-  "location": "Doha, Qatar ",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
+  "location": "London, UK",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
   "kind": "Internship",
   "first_seen": "2026-09-14"
  },
  {
   "company": "Scale AI",
   "title": "Software Engineering Intern (Summer 2027) ",
-  "location": "London, UK",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+  "location": "Doha, Qatar ",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
   "kind": "Internship",
   "first_seen": "2026-09-14"
  },
@@ -2402,16 +2362,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Bucharest",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "location": "Bucharest",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
