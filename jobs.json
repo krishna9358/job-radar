@@ -1,33 +1,33 @@
 [
  {
-  "company": "Netflix",
-  "title": "Software Engineer Intern - Summer 2027",
-  "location": "Los Gatos,California,United States of America",
-  "url": "https://explore.jobs.netflix.net/careers/job/790318904468",
-  "kind": "Internship",
+  "company": "Salesforce",
+  "title": "Commercial Graduate Rotation Program - Solution Engineer Path - Arabic Speaking Markets",
+  "location": "Ireland - Dublin",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Solution-Engineer-Path---Arabic-Speaking-Markets_JR361682-1",
+  "kind": "New Grad",
   "first_seen": "2026-11-04"
  },
  {
-  "company": "Netflix",
-  "title": "Associate, Revenue Analytics Finance & Strategy - AI Automation",
-  "location": "Los Gatos,California,United States of America",
-  "url": "https://explore.jobs.netflix.net/careers/job/790317599353",
+  "company": "Salesforce",
+  "title": "Associate Technical Support Engineer (French Speaking)",
+  "location": "India - Hyderabad",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Associate-Technical-Support-Engineer_JR356515",
   "kind": "Entry Level",
   "first_seen": "2026-11-04"
  },
  {
-  "company": "Netflix",
-  "title": "Associate Technical Supervisor (Front End) - Netflix Animation Studios",
-  "location": "Vancouver,Canada",
-  "url": "https://explore.jobs.netflix.net/careers/job/790316431938",
-  "kind": "Entry Level",
+  "company": "NVIDIA",
+  "title": "Digital Design Engineer, Coherent High Speed Interconnect - New College Graduate",
+  "location": "2 Locations",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Digital-Design-Engineer--Coherent-High-Speed-Interconnect---New-College-Graduate_JR2029164",
+  "kind": "New Grad",
   "first_seen": "2026-11-04"
  },
  {
-  "company": "Netflix",
-  "title": "Associate Technical Supervisor (Back-End) - Netflix Animation Studios",
-  "location": "Vancouver,Canada",
-  "url": "https://explore.jobs.netflix.net/careers/job/790315043614",
+  "company": "Amazon",
+  "title": "Sr. Applied Scientist, International Emerging Stores Payments",
+  "location": "US, WA, Seattle",
+  "url": "https://www.amazon.jobs/en/jobs/10515228/sr-applied-scientist-international-emerging-stores-payments",
   "kind": "Entry Level",
   "first_seen": "2026-11-04"
  },
@@ -401,14 +401,6 @@
  },
  {
   "company": "Amazon",
-  "title": "Applied Scientist Intern",
-  "location": "CH, Zurich",
-  "url": "https://www.amazon.jobs/en/jobs/10581052/applied-scientist-intern",
-  "kind": "Internship",
-  "first_seen": "2026-11-03"
- },
- {
-  "company": "Amazon",
   "title": "Applied Scientist I, International Seller Services",
   "location": "IN, KA, Bengaluru",
   "url": "https://www.amazon.jobs/en/jobs/10595857/applied-scientist-i-international-seller-services",
@@ -565,22 +557,6 @@
   "location": "Remote - Mexico",
   "url": "https://www.samsara.com/company/careers/roles/8112694?gh_jid=8112694",
   "kind": "Entry Level",
-  "first_seen": "2026-10-28"
- },
- {
-  "company": "Samsara",
-  "title": "Software Engineering Internship - London",
-  "location": "London - UK2",
-  "url": "https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093",
-  "kind": "Internship",
-  "first_seen": "2026-10-28"
- },
- {
-  "company": "Samsara",
-  "title": "Software Engineer I (New Grad)",
-  "location": "London - UK2",
-  "url": "https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345",
-  "kind": "New Grad",
   "first_seen": "2026-10-28"
  },
  {
@@ -1331,7 +1307,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -1339,7 +1315,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -1474,16 +1450,16 @@
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "New York, Seattle, South San Francisco HQ",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+  "location": "New York, Seattle, South San Francisco HQ",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
@@ -1962,16 +1938,16 @@
  {
   "company": "Scale AI",
   "title": "Software Engineer - New Grad",
-  "location": "Doha, Qatar ",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
+  "location": "London, UK",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
   "kind": "New Grad",
   "first_seen": "2026-09-14"
  },
  {
   "company": "Scale AI",
   "title": "Software Engineer - New Grad",
-  "location": "London, UK",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
+  "location": "Doha, Qatar ",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
   "kind": "New Grad",
   "first_seen": "2026-09-14"
  },
@@ -2330,16 +2306,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Bucharest",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "location": "Bucharest",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -2378,16 +2354,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "London",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+  "location": "London",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
@@ -3050,16 +3026,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Spain",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+  "location": "Remote Poland",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Collections)",
-  "location": "Remote Poland",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+  "location": "Remote Spain",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
   "kind": "Entry Level",
   "first_seen": "2026-07-29"
  }
