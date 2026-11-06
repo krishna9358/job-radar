@@ -1,5 +1,21 @@
 [
  {
+  "company": "NVIDIA",
+  "title": "Research and Engineering Intern, Agentic Systems Intelligence \u2013 Summer 2027",
+  "location": "3 Locations",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-and-Engineering-Intern--Agentic-Systems-Intelligence---Summer-2027_JR2028260",
+  "kind": "Internship",
+  "first_seen": "2026-11-06"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "AI Developer Technology Engineering Intern - 2027",
+  "location": "3 Locations",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shenzhen/AI-Developer-Technology-Engineering-Intern---2027_JR2024818",
+  "kind": "Internship",
+  "first_seen": "2026-11-06"
+ },
+ {
   "company": "Salesforce",
   "title": "Systems Engineering Associate, Early Talent",
   "location": "Texas - Dallas",
@@ -305,14 +321,6 @@
  },
  {
   "company": "NVIDIA",
-  "title": "Mixed Signal Design Engineer - New College Grad 2026",
-  "location": "2 Locations",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Mixed-Signal-Design-Engineer---New-College-Grad-2026_JR2025693",
-  "kind": "Entry Level",
-  "first_seen": "2026-11-03"
- },
- {
-  "company": "NVIDIA",
   "title": "Low Power ASIC Engineer - New College Grad 2027",
   "location": "US, CA, Santa Clara",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2027_JR2027850",
@@ -333,14 +341,6 @@
   "location": "US, CA, Santa Clara",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2027_JR2028554",
   "kind": "Entry Level",
-  "first_seen": "2026-11-03"
- },
- {
-  "company": "NVIDIA",
-  "title": "Enterprise Platform Technical Marketing Engineer Intern - Summer 2027",
-  "location": "US, CA, Santa Clara",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Enterprise-Platform-Technical-Marketing-Engineer-Intern---Summer-2027_JR2025907",
-  "kind": "Internship",
   "first_seen": "2026-11-03"
  },
  {
@@ -968,14 +968,6 @@
   "first_seen": "2026-10-23"
  },
  {
-  "company": "Amazon",
-  "title": "Applied Scientist I, Worldwide Returns & Recommerce - Science ",
-  "location": "IN, TS, Hyderabad",
-  "url": "https://www.amazon.jobs/en/jobs/10565185/applied-scientist-i-worldwide-returns-recommerce-science",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-23"
- },
- {
   "company": "Affirm",
   "title": "Software Engineer I, Early Career (London)",
   "location": "London",
@@ -1371,7 +1363,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -1379,7 +1371,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -1514,16 +1506,16 @@
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+  "location": "New York, Seattle, South San Francisco HQ",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "New York, Seattle, South San Francisco HQ",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
@@ -2370,6 +2362,14 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
+  "location": "Bucharest",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+  "kind": "New Grad",
+  "first_seen": "2026-09-01"
+ },
+ {
+  "company": "Stripe",
+  "title": "Software Engineer, New Grad",
   "location": "Toronto",
   "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
@@ -2380,14 +2380,6 @@
   "title": "Software Engineer, New Grad",
   "location": "Dublin",
   "url": "https://stripe.com/jobs/search?gh_jid=8130881",
-  "kind": "New Grad",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "Stripe",
-  "title": "Software Engineer, New Grad",
-  "location": "Bucharest",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -2522,7 +2514,7 @@
  {
   "company": "Samsara",
   "title": "Associate Sales Engineer, SE Desk - TOLA",
-  "location": "Remote - US",
+  "location": "Remote - LA; Remote - OK; Remote - TX",
   "url": "https://www.samsara.com/company/careers/roles/7848363?gh_jid=7848363",
   "kind": "Entry Level",
   "first_seen": "2026-08-17"
