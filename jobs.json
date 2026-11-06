@@ -1,6 +1,14 @@
 [
  {
   "company": "NVIDIA",
+  "title": "System Software Intern, Embedded Power Management - 2027",
+  "location": "Taiwan, Taipei",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Intern--Embedded-Power-Management---2027_JR2029153",
+  "kind": "Internship",
+  "first_seen": "2026-11-06"
+ },
+ {
+  "company": "NVIDIA",
   "title": "Research and Engineering Intern, Agentic Systems Intelligence \u2013 Summer 2027",
   "location": "3 Locations",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-and-Engineering-Intern--Agentic-Systems-Intelligence---Summer-2027_JR2028260",
@@ -13,6 +21,30 @@
   "location": "3 Locations",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shenzhen/AI-Developer-Technology-Engineering-Intern---2027_JR2024818",
   "kind": "Internship",
+  "first_seen": "2026-11-06"
+ },
+ {
+  "company": "Amazon",
+  "title": "Cloud Hardware Dev Engineer Intern",
+  "location": "TW, Hsinchu",
+  "url": "https://www.amazon.jobs/en/jobs/10598506/cloud-hardware-dev-engineer-intern",
+  "kind": "Internship",
+  "first_seen": "2026-11-06"
+ },
+ {
+  "company": "Amazon",
+  "title": "Cloud Hardware Dev Engineer Intern",
+  "location": "TW, TPE, Taipei",
+  "url": "https://www.amazon.jobs/en/jobs/10598501/cloud-hardware-dev-engineer-intern",
+  "kind": "Internship",
+  "first_seen": "2026-11-06"
+ },
+ {
+  "company": "Amazon",
+  "title": "Applied Scientist I, CMT",
+  "location": "IN, TN, Chennai",
+  "url": "https://www.amazon.jobs/en/jobs/10507927/applied-scientist-i-cmt",
+  "kind": "Entry Level",
   "first_seen": "2026-11-06"
  },
  {
@@ -37,38 +69,6 @@
   "location": "New York, NY",
   "url": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312",
   "kind": "Internship",
-  "first_seen": "2026-11-05"
- },
- {
-  "company": "Netflix",
-  "title": "Software Engineer Intern - Summer 2027",
-  "location": "Los Gatos,California,United States of America",
-  "url": "https://explore.jobs.netflix.net/careers/job/790318904468",
-  "kind": "Internship",
-  "first_seen": "2026-11-05"
- },
- {
-  "company": "Netflix",
-  "title": "Associate, Revenue Analytics Finance & Strategy - AI Automation",
-  "location": "Los Gatos,California,United States of America",
-  "url": "https://explore.jobs.netflix.net/careers/job/790317599353",
-  "kind": "Entry Level",
-  "first_seen": "2026-11-05"
- },
- {
-  "company": "Netflix",
-  "title": "Associate Technical Supervisor (Front End) - Netflix Animation Studios",
-  "location": "Vancouver,Canada",
-  "url": "https://explore.jobs.netflix.net/careers/job/790316431938",
-  "kind": "Entry Level",
-  "first_seen": "2026-11-05"
- },
- {
-  "company": "Netflix",
-  "title": "Associate Technical Supervisor (Back-End) - Netflix Animation Studios",
-  "location": "Vancouver,Canada",
-  "url": "https://explore.jobs.netflix.net/careers/job/790315043614",
-  "kind": "Entry Level",
   "first_seen": "2026-11-05"
  },
  {
@@ -369,25 +369,9 @@
  },
  {
   "company": "NVIDIA",
-  "title": "ASIC Verification Engineer, Memory Management - New College Grad 2027",
-  "location": "3 Locations",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Durham/ASIC-Verification-Engineer--Memory-Management---New-College-Grad-2027_JR2026341",
-  "kind": "Entry Level",
-  "first_seen": "2026-11-03"
- },
- {
-  "company": "NVIDIA",
   "title": "ASIC Verification Engineer - New College Grad 2027",
   "location": "US, CA, Santa Clara",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2027_JR2027719",
-  "kind": "Entry Level",
-  "first_seen": "2026-11-03"
- },
- {
-  "company": "NVIDIA",
-  "title": "ASIC Verification Engineer - New College Grad 2027",
-  "location": "2 Locations",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Verification-Engineer---New-College-Grad-2027_JR2026343",
   "kind": "Entry Level",
   "first_seen": "2026-11-03"
  },
@@ -397,14 +381,6 @@
   "location": "Taiwan, Hsinchu",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/ASIC-Physical-Design-Engineer---New-College-Graduate_JR2028466",
   "kind": "New Grad",
-  "first_seen": "2026-11-03"
- },
- {
-  "company": "NVIDIA",
-  "title": "ASIC Design Engineer - New College Grad 2027",
-  "location": "US, CA, Santa Clara",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2027_JR2026277",
-  "kind": "Entry Level",
   "first_seen": "2026-11-03"
  },
  {
@@ -466,16 +442,16 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer - 2027",
-  "location": "IL, Haifa",
-  "url": "https://www.amazon.jobs/en/jobs/10595319/software-development-engineer-2027",
+  "location": "IL, Tel Aviv",
+  "url": "https://www.amazon.jobs/en/jobs/10595320/software-development-engineer-2027",
   "kind": "Entry Level",
   "first_seen": "2026-11-03"
  },
  {
   "company": "Amazon",
   "title": "Software Development Engineer - 2027",
-  "location": "IL, Tel Aviv",
-  "url": "https://www.amazon.jobs/en/jobs/10595320/software-development-engineer-2027",
+  "location": "IL, Haifa",
+  "url": "https://www.amazon.jobs/en/jobs/10595319/software-development-engineer-2027",
   "kind": "Entry Level",
   "first_seen": "2026-11-03"
  },
@@ -506,16 +482,16 @@
  {
   "company": "Stripe",
   "title": "Master's Machine Learning Engineer, Intern",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8333122",
+  "location": "San Francisco, New York City, Seattle",
+  "url": "https://stripe.com/jobs/search?gh_jid=8333074",
   "kind": "Internship",
   "first_seen": "2026-10-30"
  },
  {
   "company": "Stripe",
   "title": "Master's Machine Learning Engineer, Intern",
-  "location": "San Francisco, New York City, Seattle",
-  "url": "https://stripe.com/jobs/search?gh_jid=8333074",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8333122",
   "kind": "Internship",
   "first_seen": "2026-10-30"
  },
@@ -1363,7 +1339,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -1371,7 +1347,7 @@
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
   "kind": "Internship",
   "first_seen": "2026-10-06"
  },
@@ -1978,16 +1954,16 @@
  {
   "company": "Scale AI",
   "title": "Software Engineering Intern (Summer 2027) ",
-  "location": "London, UK",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+  "location": "Doha, Qatar ",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
   "kind": "Internship",
   "first_seen": "2026-09-14"
  },
  {
   "company": "Scale AI",
   "title": "Software Engineering Intern (Summer 2027) ",
-  "location": "Doha, Qatar ",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
+  "location": "London, UK",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
   "kind": "Internship",
   "first_seen": "2026-09-14"
  },
@@ -2370,16 +2346,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
