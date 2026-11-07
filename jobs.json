@@ -80,38 +80,6 @@
   "first_seen": "2026-11-06"
  },
  {
-  "company": "Netflix",
-  "title": "Software Engineer Intern - Summer 2027",
-  "location": "Los Gatos,California,United States of America",
-  "url": "https://explore.jobs.netflix.net/careers/job/790318904468",
-  "kind": "Internship",
-  "first_seen": "2026-11-06"
- },
- {
-  "company": "Netflix",
-  "title": "Associate, Revenue Analytics Finance & Strategy - AI Automation",
-  "location": "Los Gatos,California,United States of America",
-  "url": "https://explore.jobs.netflix.net/careers/job/790317599353",
-  "kind": "Entry Level",
-  "first_seen": "2026-11-06"
- },
- {
-  "company": "Netflix",
-  "title": "Associate Technical Supervisor (Front End) - Netflix Animation Studios",
-  "location": "Vancouver,Canada",
-  "url": "https://explore.jobs.netflix.net/careers/job/790316431938",
-  "kind": "Entry Level",
-  "first_seen": "2026-11-06"
- },
- {
-  "company": "Netflix",
-  "title": "Associate Technical Supervisor (Back-End) - Netflix Animation Studios",
-  "location": "Vancouver,Canada",
-  "url": "https://explore.jobs.netflix.net/careers/job/790315043614",
-  "kind": "Entry Level",
-  "first_seen": "2026-11-06"
- },
- {
   "company": "NVIDIA",
   "title": "System Software Intern, Embedded Power Management - 2027",
   "location": "Taiwan, Taipei",
@@ -634,16 +602,16 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer - 2027",
-  "location": "IL, Haifa",
-  "url": "https://www.amazon.jobs/en/jobs/10595319/software-development-engineer-2027",
+  "location": "IL, Tel Aviv",
+  "url": "https://www.amazon.jobs/en/jobs/10595320/software-development-engineer-2027",
   "kind": "Entry Level",
   "first_seen": "2026-11-03"
  },
  {
   "company": "Amazon",
   "title": "Software Development Engineer - 2027",
-  "location": "IL, Tel Aviv",
-  "url": "https://www.amazon.jobs/en/jobs/10595320/software-development-engineer-2027",
+  "location": "IL, Haifa",
+  "url": "https://www.amazon.jobs/en/jobs/10595319/software-development-engineer-2027",
   "kind": "Entry Level",
   "first_seen": "2026-11-03"
  },
