@@ -1,5 +1,45 @@
 [
  {
+  "company": "Coinbase",
+  "title": "Software Engineer-1",
+  "location": "Remote - USA",
+  "url": "https://www.coinbase.com/careers/positions/8278991?gh_jid=8278991",
+  "kind": "Entry Level",
+  "first_seen": "2026-11-10"
+ },
+ {
+  "company": "Brex",
+  "title": "Software Engineer, Internship - 2027",
+  "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
+  "url": "https://www.brex.com/careers/8935242002?gh_jid=8935242002",
+  "kind": "Internship",
+  "first_seen": "2026-11-10"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer Intern - Summer 2027",
+  "location": "US, WA, Seattle",
+  "url": "https://www.amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027",
+  "kind": "Internship",
+  "first_seen": "2026-11-10"
+ },
+ {
+  "company": "Amazon",
+  "title": "Data Scientist I, NEST",
+  "location": "US, WA, Bellevue",
+  "url": "https://www.amazon.jobs/en/jobs/10600616/data-scientist-i-nest",
+  "kind": "Entry Level",
+  "first_seen": "2026-11-10"
+ },
+ {
+  "company": "Adobe",
+  "title": "2027 University Graduate - Data Engineer",
+  "location": "San Jose",
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455",
+  "kind": "New Grad",
+  "first_seen": "2026-11-10"
+ },
+ {
   "company": "Robinhood",
   "title": "Web Engineer, International Expansion",
   "location": "Toronto, Canada",
@@ -457,14 +497,6 @@
  },
  {
   "company": "Rubrik",
-  "title": "Software Engineering Winter Internship",
-  "location": "Palo Alto, CA",
-  "url": "https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088",
-  "kind": "Internship",
-  "first_seen": "2026-11-03"
- },
- {
-  "company": "Rubrik",
   "title": "Software Engineer (CPD) - Winter Intern",
   "location": "Bangalore",
   "url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537",
@@ -698,16 +730,16 @@
  {
   "company": "Stripe",
   "title": "Master's Machine Learning Engineer, Intern",
-  "location": "San Francisco, New York City, Seattle",
-  "url": "https://stripe.com/jobs/search?gh_jid=8333074",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8333122",
   "kind": "Internship",
   "first_seen": "2026-10-30"
  },
  {
   "company": "Stripe",
   "title": "Master's Machine Learning Engineer, Intern",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8333122",
+  "location": "San Francisco, New York City, Seattle",
+  "url": "https://stripe.com/jobs/search?gh_jid=8333074",
   "kind": "Internship",
   "first_seen": "2026-10-30"
  },
@@ -1344,14 +1376,6 @@
   "first_seen": "2026-10-16"
  },
  {
-  "company": "Duolingo",
-  "title": "Data Scientist, Intern",
-  "location": "New York, NY; Pittsburgh, PA",
-  "url": "https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002",
-  "kind": "Internship",
-  "first_seen": "2026-10-15"
- },
- {
   "company": "Amazon",
   "title": "Software Development Engineer I",
   "location": "IN, TS, Hyderabad",
@@ -1674,16 +1698,16 @@
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+  "location": "New York, Seattle, South San Francisco HQ",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "New York, Seattle, South San Francisco HQ",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
@@ -2320,14 +2344,6 @@
   "first_seen": "2026-09-11"
  },
  {
-  "company": "Cursor",
-  "title": "Software Engineer, New Grad 2027",
-  "location": "San Francisco, CA",
-  "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
-  "kind": "New Grad",
-  "first_seen": "2026-09-10"
- },
- {
   "company": "Amazon",
   "title": "Software Development Engineer Intern/Co-Op, ROBOTICS -  2027",
   "location": "US, MA, North Reading",
@@ -2434,16 +2450,16 @@
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Madrid, Spain",
-  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
+  "location": "Paris, France",
+  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Paris, France",
-  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+  "location": "Madrid, Spain",
+  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
@@ -2490,16 +2506,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
