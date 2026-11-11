@@ -1,10 +1,10 @@
 [
  {
-  "company": "Oracle",
-  "title": "Advanced Services Engineer 1",
-  "location": "Shelton, WA, United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/349161",
-  "kind": "Entry Level",
+  "company": "Salesforce",
+  "title": "Summer 2027 Intern - Software Engineer",
+  "location": "2 Locations",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715",
+  "kind": "Internship",
   "first_seen": "2026-11-11"
  },
  {
@@ -40,6 +40,22 @@
   "first_seen": "2026-11-11"
  },
  {
+  "company": "NVIDIA",
+  "title": "System Software Engineering Intern - 2027",
+  "location": "Finland, Helsinki",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Finland-Helsinki/System-Software-Engineering-Intern---2027_JR2029780",
+  "kind": "Internship",
+  "first_seen": "2026-11-11"
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Developer Technology Engineer Intern",
+  "location": "Japan, Tokyo",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Japan-Tokyo/Developer-Technology-Engineer-Intern_JR2029575",
+  "kind": "Internship",
+  "first_seen": "2026-11-11"
+ },
+ {
   "company": "Amazon",
   "title": "Software Development Engineer - 2026 (US)",
   "location": "US, WA, Seattle",
@@ -53,6 +69,22 @@
   "location": "US, WA, Seattle",
   "url": "https://www.amazon.jobs/en/jobs/10601943/applied-scientist-i-tablet-product-software",
   "kind": "Entry Level",
+  "first_seen": "2026-11-11"
+ },
+ {
+  "company": "Amazon",
+  "title": "Applied Scientist I, Buyer Risk Prevention (BRP)",
+  "location": "IN, KA, Bengaluru",
+  "url": "https://www.amazon.jobs/en/jobs/10596351/applied-scientist-i-buyer-risk-prevention-brp",
+  "kind": "Entry Level",
+  "first_seen": "2026-11-11"
+ },
+ {
+  "company": "Amazon",
+  "title": "2027 Applied Science Intern (Computer Vision), Amazon International Machine Learning",
+  "location": "AU, VIC, Melbourne",
+  "url": "https://www.amazon.jobs/en/jobs/10459543/2027-applied-science-intern-computer-vision-amazon-international-machine-learning",
+  "kind": "Internship",
   "first_seen": "2026-11-11"
  },
  {
@@ -84,14 +116,6 @@
   "title": "Fin Engineering Intern",
   "location": "Ireland - Dublin",
   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Fin-Engineering-Intern_JR367686",
-  "kind": "Internship",
-  "first_seen": "2026-11-10"
- },
- {
-  "company": "Salesforce",
-  "title": "Fin Engineering Intern",
-  "location": "Ireland - Dublin",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Fin-Engineering-Intern_JR367685",
   "kind": "Internship",
   "first_seen": "2026-11-10"
  },
@@ -196,14 +220,6 @@
   "title": "Software Development Engineer Intern - Summer 2027",
   "location": "US, WA, Seattle",
   "url": "https://www.amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027",
-  "kind": "Internship",
-  "first_seen": "2026-11-10"
- },
- {
-  "company": "Amazon",
-  "title": "Software Dev Intern",
-  "location": "LU, Luxembourg",
-  "url": "https://www.amazon.jobs/en/jobs/10489527/software-dev-intern",
   "kind": "Internship",
   "first_seen": "2026-11-10"
  },
@@ -1810,16 +1826,16 @@
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+  "location": "New York, Seattle, South San Francisco HQ",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "New York, Seattle, South San Francisco HQ",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
@@ -2618,14 +2634,6 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
-  "kind": "New Grad",
-  "first_seen": "2026-09-01"
- },
- {
-  "company": "Stripe",
-  "title": "Software Engineer, New Grad",
   "location": "Bucharest",
   "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
@@ -2636,6 +2644,14 @@
   "title": "Software Engineer, New Grad",
   "location": "Dublin",
   "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+  "kind": "New Grad",
+  "first_seen": "2026-09-01"
+ },
+ {
+  "company": "Stripe",
+  "title": "Software Engineer, New Grad",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -2666,16 +2682,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+  "location": "London",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "London",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
