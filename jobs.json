@@ -1,9 +1,41 @@
 [
  {
+  "company": "Workday",
+  "title": "Sr Associate Support Engineer, Adaptive Planning AI, ML & Platform Operations",
+  "location": "IND.Pune",
+  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Sr-Associate-Support-Engineer--Adaptive-Planning-AI--ML---Platform-Operations_JR-0110344",
+  "kind": "Entry Level",
+  "first_seen": "2026-11-12"
+ },
+ {
   "company": "Samsara",
   "title": "Technical Support Engineer I - Mexico",
   "location": "Remote - Mexico",
   "url": "https://www.samsara.com/company/careers/roles/8112694?gh_jid=8112694",
+  "kind": "Entry Level",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "company": "Pinterest",
+  "title": "Sales Analytics Intern 2027 (USA)",
+  "location": "San Francisco, CA, US; Remote, US",
+  "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214783",
+  "kind": "Internship",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "company": "Oracle",
+  "title": "Support Engineer 1",
+  "location": "Kansas City, MO, United States",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/350326",
+  "kind": "Entry Level",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "company": "Oracle",
+  "title": "Site Reliability Engineer - OCI (Start Date: Feb 2027)",
+  "location": "Nashville, TN, United States",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/350510",
   "kind": "Entry Level",
   "first_seen": "2026-11-12"
  },
@@ -16,26 +48,18 @@
   "first_seen": "2026-11-12"
  },
  {
-  "company": "Brex",
-  "title": "Software Engineer, Intern  (Summer 2027)",
-  "location": "San Francisco, California, United States",
-  "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
-  "kind": "Internship",
+  "company": "Amazon",
+  "title": "Software Development Engineer, Early Career",
+  "location": "US, MA, Cambridge",
+  "url": "https://www.amazon.jobs/en/jobs/10530257/software-development-engineer-early-career",
+  "kind": "New Grad",
   "first_seen": "2026-11-12"
  },
  {
   "company": "Amazon",
-  "title": "Software Development Engineer I FTC",
-  "location": "IN, TS, Hyderabad",
-  "url": "https://www.amazon.jobs/en/jobs/10580010/software-development-engineer-i-ftc",
-  "kind": "Entry Level",
-  "first_seen": "2026-11-12"
- },
- {
-  "company": "Amazon",
-  "title": "Control Engineer Intern, AWS Data Center Controls Deployment & Services team",
-  "location": "SG, Singapore",
-  "url": "https://www.amazon.jobs/en/jobs/10579407/control-engineer-intern-aws-data-center-controls-deployment-services-team",
+  "title": "2027 Software Dev Engineer Intern - Finland",
+  "location": "FI, Tampere",
+  "url": "https://www.amazon.jobs/en/jobs/10603649/2027-software-dev-engineer-intern-finland",
   "kind": "Internship",
   "first_seen": "2026-11-12"
  },
@@ -45,6 +69,22 @@
   "location": "United States",
   "url": "https://careers.airbnb.com/positions/8380007?gh_jid=8380007",
   "kind": "Internship",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "company": "Affirm",
+  "title": "Software Engineer I, Backend (Continuous Delivery)",
+  "location": "Remote Canada",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8181185003",
+  "kind": "Entry Level",
+  "first_seen": "2026-11-12"
+ },
+ {
+  "company": "Affirm",
+  "title": "Software Engineer I, Backend (Continuous Delivery)",
+  "location": "Remote US",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003",
+  "kind": "Entry Level",
   "first_seen": "2026-11-12"
  },
  {
@@ -152,22 +192,6 @@
   "first_seen": "2026-11-10"
  },
  {
-  "company": "Salesforce",
-  "title": "Fin Engineering Intern",
-  "location": "Ireland - Dublin",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Fin-Engineering-Intern_JR367686",
-  "kind": "Internship",
-  "first_seen": "2026-11-10"
- },
- {
-  "company": "Salesforce",
-  "title": "Engineering Intern",
-  "location": "United Kingdom - London",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Engineering-Intern_JR367683",
-  "kind": "Internship",
-  "first_seen": "2026-11-10"
- },
- {
   "company": "Palantir",
   "title": "Software Engineer, Internship - Data Connectors",
   "location": "New York, NY",
@@ -266,16 +290,16 @@
  {
   "company": "Amazon",
   "title": "2027 Facilities Coordinator Intern, Reliability Maintenance Engineering",
-  "location": "SA, 02, Jeddah",
-  "url": "https://www.amazon.jobs/en/jobs/10600866/2027-facilities-coordinator-intern-reliability-maintenance-engineering",
+  "location": "SA, Riyadh",
+  "url": "https://www.amazon.jobs/en/jobs/10600865/2027-facilities-coordinator-intern-reliability-maintenance-engineering",
   "kind": "Internship",
   "first_seen": "2026-11-10"
  },
  {
   "company": "Amazon",
   "title": "2027 Facilities Coordinator Intern, Reliability Maintenance Engineering",
-  "location": "SA, Riyadh",
-  "url": "https://www.amazon.jobs/en/jobs/10600865/2027-facilities-coordinator-intern-reliability-maintenance-engineering",
+  "location": "SA, 02, Jeddah",
+  "url": "https://www.amazon.jobs/en/jobs/10600866/2027-facilities-coordinator-intern-reliability-maintenance-engineering",
   "kind": "Internship",
   "first_seen": "2026-11-10"
  },
@@ -874,16 +898,16 @@
  {
   "company": "Amazon",
   "title": "Business Developer Intern, Early Careers 2027",
-  "location": "DE, BY, Munich",
-  "url": "https://www.amazon.jobs/en/jobs/10593299/business-developer-intern-early-careers-2027",
+  "location": "GB, London",
+  "url": "https://www.amazon.jobs/en/jobs/10593322/business-developer-intern-early-careers-2027",
   "kind": "Internship",
   "first_seen": "2026-10-30"
  },
  {
   "company": "Amazon",
   "title": "Business Developer Intern, Early Careers 2027",
-  "location": "GB, London",
-  "url": "https://www.amazon.jobs/en/jobs/10593322/business-developer-intern-early-careers-2027",
+  "location": "DE, BY, Munich",
+  "url": "https://www.amazon.jobs/en/jobs/10593299/business-developer-intern-early-careers-2027",
   "kind": "Internship",
   "first_seen": "2026-10-30"
  },
@@ -986,16 +1010,16 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer - 2027",
-  "location": "ES, M, Madrid",
-  "url": "https://www.amazon.jobs/en/jobs/10590145/software-development-engineer-2027",
+  "location": "GB, London",
+  "url": "https://www.amazon.jobs/en/jobs/10590147/software-development-engineer-2027",
   "kind": "Entry Level",
   "first_seen": "2026-10-27"
  },
  {
   "company": "Amazon",
   "title": "Software Development Engineer - 2027",
-  "location": "GB, London",
-  "url": "https://www.amazon.jobs/en/jobs/10590147/software-development-engineer-2027",
+  "location": "ES, M, Madrid",
+  "url": "https://www.amazon.jobs/en/jobs/10590145/software-development-engineer-2027",
   "kind": "Entry Level",
   "first_seen": "2026-10-27"
  },
@@ -1022,14 +1046,6 @@
   "url": "https://www.amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027",
   "kind": "Internship",
   "first_seen": "2026-10-27"
- },
- {
-  "company": "Brex",
-  "title": "GRC Engineer I",
-  "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
-  "url": "https://www.brex.com/careers/8917751002?gh_jid=8917751002",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-26"
  },
  {
   "company": "Atlassian",
@@ -1457,14 +1473,6 @@
  },
  {
   "company": "Amazon",
-  "title": "Software Development Engineer I",
-  "location": "IN, TS, Hyderabad",
-  "url": "https://www.amazon.jobs/en/jobs/10580011/software-development-engineer-i",
-  "kind": "Entry Level",
-  "first_seen": "2026-10-15"
- },
- {
-  "company": "Amazon",
   "title": "Network Development Engineer Intern, Core Networking",
   "location": "AU, NSW, Sydney",
   "url": "https://www.amazon.jobs/en/jobs/3201714/network-development-engineer-intern-core-networking",
@@ -1762,16 +1770,16 @@
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "New York, Seattle, South San Francisco HQ",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+  "location": "New York, Seattle, South San Francisco HQ",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
@@ -1940,22 +1948,6 @@
   "title": "Financial Data Analyst Intern, Technical Operations",
   "location": "Singapore",
   "url": "https://stripe.com/jobs/search?gh_jid=8186442",
-  "kind": "Internship",
-  "first_seen": "2026-09-25"
- },
- {
-  "company": "Palantir",
-  "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
-  "location": "Washington, D.C.",
-  "url": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9",
-  "kind": "Internship",
-  "first_seen": "2026-09-25"
- },
- {
-  "company": "Palantir",
-  "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
-  "location": "Palo Alto, CA",
-  "url": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69",
   "kind": "Internship",
   "first_seen": "2026-09-25"
  },
@@ -2154,16 +2146,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, Early Career \u2014 Immediate Start",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8212508",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8212517",
   "kind": "New Grad",
   "first_seen": "2026-09-18"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, Early Career \u2014 Immediate Start",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8212517",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8212508",
   "kind": "New Grad",
   "first_seen": "2026-09-18"
  },
@@ -2218,14 +2210,6 @@
  {
   "company": "Scale AI",
   "title": "Software Engineering Intern (Summer 2027) ",
-  "location": "Doha, Qatar ",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
-  "kind": "Internship",
-  "first_seen": "2026-09-14"
- },
- {
-  "company": "Scale AI",
-  "title": "Software Engineering Intern (Summer 2027) ",
   "location": "London, UK",
   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
   "kind": "Internship",
@@ -2233,10 +2217,10 @@
  },
  {
   "company": "Scale AI",
-  "title": "Software Engineer - New Grad",
+  "title": "Software Engineering Intern (Summer 2027) ",
   "location": "Doha, Qatar ",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
-  "kind": "New Grad",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
+  "kind": "Internship",
   "first_seen": "2026-09-14"
  },
  {
@@ -2244,6 +2228,14 @@
   "title": "Software Engineer - New Grad",
   "location": "London, UK",
   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
+  "kind": "New Grad",
+  "first_seen": "2026-09-14"
+ },
+ {
+  "company": "Scale AI",
+  "title": "Software Engineer - New Grad",
+  "location": "Doha, Qatar ",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
   "kind": "New Grad",
   "first_seen": "2026-09-14"
  },
@@ -2514,16 +2506,16 @@
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Paris, France",
-  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+  "location": "Madrid, Spain",
+  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Madrid, Spain",
-  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
+  "location": "Paris, France",
+  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
@@ -2578,16 +2570,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Bucharest",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "location": "Bucharest",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
