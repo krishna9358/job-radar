@@ -1,5 +1,53 @@
 [
  {
+  "company": "Databricks",
+  "title": "Associate Forward Deployed Engineer",
+  "location": "New York City, New York",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002",
+  "kind": "Entry Level",
+  "first_seen": "2026-11-14"
+ },
+ {
+  "company": "Databricks",
+  "title": "Associate Forward Deployed Engineer",
+  "location": "Mountain View, California",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002",
+  "kind": "Entry Level",
+  "first_seen": "2026-11-14"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027",
+  "location": "US, WA, Seattle",
+  "url": "https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027",
+  "kind": "Internship",
+  "first_seen": "2026-11-14"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer I FTC",
+  "location": "IN, TS, Hyderabad",
+  "url": "https://www.amazon.jobs/en/jobs/10580010/software-development-engineer-i-ftc",
+  "kind": "Entry Level",
+  "first_seen": "2026-11-14"
+ },
+ {
+  "company": "Amazon",
+  "title": "Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast",
+  "location": "US, OR, Umatilla",
+  "url": "https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast",
+  "kind": "Internship",
+  "first_seen": "2026-11-14"
+ },
+ {
+  "company": "Amazon",
+  "title": "Data Center Infrastructure Engineer Intern, Summer 2027 - East",
+  "location": "US, VA, Herndon",
+  "url": "https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east",
+  "kind": "Internship",
+  "first_seen": "2026-11-14"
+ },
+ {
   "company": "Salesforce",
   "title": "Solution Engineer Intern France - February 2027",
   "location": "France - Paris",
@@ -60,14 +108,6 @@
   "title": "People Team: Software Engineer Intern (Winter 2027)",
   "location": "Hybrid",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/7774167?gh_jid=7774167",
-  "kind": "Internship",
-  "first_seen": "2026-11-13"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)",
-  "location": "US, WA, Seattle",
-  "url": "https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc",
   "kind": "Internship",
   "first_seen": "2026-11-13"
  },
@@ -234,16 +274,16 @@
  {
   "company": "Amazon",
   "title": "2027 Facilities Coordinator Intern, Reliability Maintenance Engineering",
-  "location": "SA, Riyadh",
-  "url": "https://www.amazon.jobs/en/jobs/10600865/2027-facilities-coordinator-intern-reliability-maintenance-engineering",
+  "location": "SA, 02, Jeddah",
+  "url": "https://www.amazon.jobs/en/jobs/10600866/2027-facilities-coordinator-intern-reliability-maintenance-engineering",
   "kind": "Internship",
   "first_seen": "2026-11-10"
  },
  {
   "company": "Amazon",
   "title": "2027 Facilities Coordinator Intern, Reliability Maintenance Engineering",
-  "location": "SA, 02, Jeddah",
-  "url": "https://www.amazon.jobs/en/jobs/10600866/2027-facilities-coordinator-intern-reliability-maintenance-engineering",
+  "location": "SA, Riyadh",
+  "url": "https://www.amazon.jobs/en/jobs/10600865/2027-facilities-coordinator-intern-reliability-maintenance-engineering",
   "kind": "Internship",
   "first_seen": "2026-11-10"
  },
@@ -682,16 +722,16 @@
  {
   "company": "Amazon",
   "title": "Software Development Engineer - 2027",
-  "location": "GB, London",
-  "url": "https://www.amazon.jobs/en/jobs/10590147/software-development-engineer-2027",
+  "location": "ES, M, Madrid",
+  "url": "https://www.amazon.jobs/en/jobs/10590145/software-development-engineer-2027",
   "kind": "Entry Level",
   "first_seen": "2026-10-27"
  },
  {
   "company": "Amazon",
   "title": "Software Development Engineer - 2027",
-  "location": "ES, M, Madrid",
-  "url": "https://www.amazon.jobs/en/jobs/10590145/software-development-engineer-2027",
+  "location": "GB, London",
+  "url": "https://www.amazon.jobs/en/jobs/10590147/software-development-engineer-2027",
   "kind": "Entry Level",
   "first_seen": "2026-10-27"
  },
