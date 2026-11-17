@@ -1,5 +1,29 @@
 [
  {
+  "company": "Rubrik",
+  "title": "Sales Engineering Intern (London), Summer 2027",
+  "location": "London, England, UK",
+  "url": "https://www.rubrik.com/company/careers/departments/job.8351223?gh_jid=8351223",
+  "kind": "Internship",
+  "first_seen": "2026-11-17"
+ },
+ {
+  "company": "Brex",
+  "title": "Software Engineer, Intern  (Summer 2027)",
+  "location": "San Francisco, California, United States",
+  "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+  "kind": "Internship",
+  "first_seen": "2026-11-17"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)",
+  "location": "US, WA, Seattle",
+  "url": "https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc",
+  "kind": "Internship",
+  "first_seen": "2026-11-17"
+ },
+ {
   "company": "Amazon",
   "title": "Control Engineer Intern, AWS Data Center Controls Deployment & Services team",
   "location": "SG, Singapore",
@@ -98,16 +122,16 @@
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Continuous Delivery)",
-  "location": "Remote Canada",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8181185003",
+  "location": "Remote US",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003",
   "kind": "Entry Level",
   "first_seen": "2026-11-12"
  },
  {
   "company": "Affirm",
   "title": "Software Engineer I, Backend (Continuous Delivery)",
-  "location": "Remote US",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003",
+  "location": "Remote Canada",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8181185003",
   "kind": "Entry Level",
   "first_seen": "2026-11-12"
  },
@@ -514,16 +538,16 @@
  {
   "company": "Stripe",
   "title": "Master's Machine Learning Engineer, Intern",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8333122",
+  "location": "San Francisco, New York City, Seattle",
+  "url": "https://stripe.com/jobs/search?gh_jid=8333074",
   "kind": "Internship",
   "first_seen": "2026-10-30"
  },
  {
   "company": "Stripe",
   "title": "Master's Machine Learning Engineer, Intern",
-  "location": "San Francisco, New York City, Seattle",
-  "url": "https://stripe.com/jobs/search?gh_jid=8333074",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8333122",
   "kind": "Internship",
   "first_seen": "2026-10-30"
  },
@@ -725,14 +749,6 @@
   "location": "Canada -     Canada",
   "url": "https://campus-globalcareers-atlassian.icims.com/jobs/26070/software-engineer%2c-2027-graduate-canada/job",
   "kind": "New Grad",
-  "first_seen": "2026-10-24"
- },
- {
-  "company": "Atlassian",
-  "title": "Software Engineer Intern, 2027 Summer U.S.",
-  "location": "San Francisco - United States -   San Francisco, California 94104 United States; Seattle - United States -   Seattle, Washington  United States",
-  "url": "https://careers-americas.icims.com/jobs/26266/software-engineer-intern%2c-2027-summer-u.s./job",
-  "kind": "Internship",
   "first_seen": "2026-10-24"
  },
  {
@@ -1045,14 +1061,6 @@
   "location": "IN, TS, Hyderabad",
   "url": "https://www.amazon.jobs/en/jobs/10580008/software-development-engineer-i",
   "kind": "Entry Level",
-  "first_seen": "2026-10-15"
- },
- {
-  "company": "Amazon",
-  "title": "Network Development Engineer Intern, Core Networking",
-  "location": "AU, NSW, Sydney",
-  "url": "https://www.amazon.jobs/en/jobs/3201714/network-development-engineer-intern-core-networking",
-  "kind": "Internship",
   "first_seen": "2026-10-15"
  },
  {
@@ -1682,16 +1690,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, Early Career \u2014 Immediate Start",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8212517",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8212508",
   "kind": "New Grad",
   "first_seen": "2026-09-18"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, Early Career \u2014 Immediate Start",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8212508",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8212517",
   "kind": "New Grad",
   "first_seen": "2026-09-18"
  },
@@ -2017,9 +2025,9 @@
  },
  {
   "company": "Datadog",
-  "title": "Software Engineering Intern (Summer)",
-  "location": "Boston, Massachusetts, USA; New York, New York, USA",
-  "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
+  "title": "Software Engineering Intern",
+  "location": "Paris, France",
+  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
@@ -2028,14 +2036,6 @@
   "title": "Software Engineering Intern",
   "location": "Madrid, Spain",
   "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
-  "kind": "Internship",
-  "first_seen": "2026-09-08"
- },
- {
-  "company": "Datadog",
-  "title": "Software Engineering Intern",
-  "location": "Paris, France",
-  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
@@ -2074,16 +2074,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Bucharest",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+  "location": "Bucharest",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
