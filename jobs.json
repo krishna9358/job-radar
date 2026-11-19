@@ -1,5 +1,29 @@
 [
  {
+  "company": "Oracle",
+  "title": "Support Engineer 1",
+  "location": "United States",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346391",
+  "kind": "Entry Level",
+  "first_seen": "2026-11-19"
+ },
+ {
+  "company": "Oracle",
+  "title": "Support Engineer 1",
+  "location": "BENGALURU, KARNATAKA, India",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/349904",
+  "kind": "Entry Level",
+  "first_seen": "2026-11-19"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Developer Intern, Field Innovation, Security Search and Observability (SSO)",
+  "location": "SG, Singapore",
+  "url": "https://www.amazon.jobs/en/jobs/10544261/software-developer-intern-field-innovation-security-search-and-observability-sso",
+  "kind": "Internship",
+  "first_seen": "2026-11-19"
+ },
+ {
   "company": "Samsara",
   "title": "Associate Sales Engineer, SE Desk- Mexico",
   "location": "Remote - Mexico",
@@ -200,14 +224,6 @@
   "first_seen": "2026-11-11"
  },
  {
-  "company": "Amazon",
-  "title": "2027 Applied Science Intern (Computer Vision), Amazon International Machine Learning",
-  "location": "AU, VIC, Melbourne",
-  "url": "https://www.amazon.jobs/en/jobs/10459543/2027-applied-science-intern-computer-vision-amazon-international-machine-learning",
-  "kind": "Internship",
-  "first_seen": "2026-11-11"
- },
- {
   "company": "Palantir",
   "title": "Software Engineer, Internship - Data Connectors",
   "location": "New York, NY",
@@ -217,7 +233,7 @@
  },
  {
   "company": "Palantir",
-  "title": "Software Engineer, Intern - Connectivity Platform and Product",
+  "title": "Software Engineer, Internship - Connectivity Platform and Product",
   "location": "New York, NY",
   "url": "https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743",
   "kind": "Internship",
@@ -225,7 +241,7 @@
  },
  {
   "company": "Palantir",
-  "title": "Software Engineer, Intern - Connectivity Platform and Product",
+  "title": "Software Engineer, Internship - Connectivity Platform and Product",
   "location": "Denver, CO",
   "url": "https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e",
   "kind": "Internship",
@@ -472,14 +488,6 @@
   "first_seen": "2026-11-05"
  },
  {
-  "company": "Oracle",
-  "title": "Support Engineer 1",
-  "location": "United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346404",
-  "kind": "Entry Level",
-  "first_seen": "2026-11-04"
- },
- {
   "company": "Amazon",
   "title": "Software Development Engineer Intern, Amazon University Talent Acquisition ",
   "location": "BR, SP, Sao Paulo",
@@ -578,16 +586,16 @@
  {
   "company": "Stripe",
   "title": "Master's Machine Learning Engineer, Intern",
-  "location": "San Francisco, New York City, Seattle",
-  "url": "https://stripe.com/jobs/search?gh_jid=8333074",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8333122",
   "kind": "Internship",
   "first_seen": "2026-10-30"
  },
  {
   "company": "Stripe",
   "title": "Master's Machine Learning Engineer, Intern",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8333122",
+  "location": "San Francisco, New York City, Seattle",
+  "url": "https://stripe.com/jobs/search?gh_jid=8333074",
   "kind": "Internship",
   "first_seen": "2026-10-30"
  },
@@ -669,22 +677,6 @@
   "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
   "url": "https://boards.greenhouse.io/figma/jobs/6233043004?gh_jid=6233043004",
   "kind": "Entry Level",
-  "first_seen": "2026-10-27"
- },
- {
-  "company": "Databricks",
-  "title": "Software Engineer - New Grad, Distributed Data Systems (2027 Start)",
-  "location": "Bellevue, Washington; Mountain View, California",
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865704002",
-  "kind": "New Grad",
-  "first_seen": "2026-10-27"
- },
- {
-  "company": "Databricks",
-  "title": "Software Engineer - New Grad (2027 Start)",
-  "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002",
-  "kind": "New Grad",
   "first_seen": "2026-10-27"
  },
  {
@@ -1248,22 +1240,6 @@
   "first_seen": "2026-10-06"
  },
  {
-  "company": "Affirm",
-  "title": "Software Engineer, Early Career (SF)",
-  "location": "San Francisco, California, United States",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8010617003",
-  "kind": "New Grad",
-  "first_seen": "2026-10-06"
- },
- {
-  "company": "Affirm",
-  "title": "Software Engineer, Early Career (NYC)",
-  "location": "New York, New York, United States",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003",
-  "kind": "New Grad",
-  "first_seen": "2026-10-06"
- },
- {
   "company": "Pinterest",
   "title": "Machine Learning Intern 2027 (Dublin)",
   "location": "Dublin, IE",
@@ -1346,16 +1322,16 @@
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "New York, Seattle, South San Francisco HQ",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+  "location": "New York, Seattle, South San Francisco HQ",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
@@ -2034,16 +2010,16 @@
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Madrid, Spain",
-  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
+  "location": "Paris, France",
+  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Paris, France",
-  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+  "location": "Madrid, Spain",
+  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
