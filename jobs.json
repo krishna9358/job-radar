@@ -1,5 +1,85 @@
 [
  {
+  "company": "Samsara",
+  "title": "Sr. Software Engineer I",
+  "location": "Remote - Canada",
+  "url": "https://www.samsara.com/company/careers/roles/8412863?gh_jid=8412863",
+  "kind": "Entry Level",
+  "first_seen": "2026-11-24"
+ },
+ {
+  "company": "Oracle",
+  "title": "Support Engineer 1",
+  "location": "Kansas City, MO, United States",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/350326",
+  "kind": "Entry Level",
+  "first_seen": "2026-11-24"
+ },
+ {
+  "company": "Oracle",
+  "title": "GTM Specialist \u2013 Junior Developer Relations",
+  "location": "CIUDAD DE MEXICO, Mexico",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/350324",
+  "kind": "Entry Level",
+  "first_seen": "2026-11-24"
+ },
+ {
+  "company": "Netflix",
+  "title": "Software Engineer Intern - Summer 2027",
+  "location": "Los Gatos,California,United States of America",
+  "url": "https://explore.jobs.netflix.net/careers/job/790318904468",
+  "kind": "Internship",
+  "first_seen": "2026-11-24"
+ },
+ {
+  "company": "Netflix",
+  "title": "Associate, Revenue Analytics Finance & Strategy - AI Automation",
+  "location": "Los Gatos,California,United States of America",
+  "url": "https://explore.jobs.netflix.net/careers/job/790317599353",
+  "kind": "Entry Level",
+  "first_seen": "2026-11-24"
+ },
+ {
+  "company": "Netflix",
+  "title": "Associate Technical Supervisor (Front End) - Netflix Animation Studios",
+  "location": "Vancouver,Canada",
+  "url": "https://explore.jobs.netflix.net/careers/job/790316431938",
+  "kind": "Entry Level",
+  "first_seen": "2026-11-24"
+ },
+ {
+  "company": "Netflix",
+  "title": "Associate Technical Supervisor (Back-End) - Netflix Animation Studios",
+  "location": "Vancouver,Canada",
+  "url": "https://explore.jobs.netflix.net/careers/job/790315043614",
+  "kind": "Entry Level",
+  "first_seen": "2026-11-24"
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer Intern - 2027, Beijing",
+  "location": "CN, 11, Beijing",
+  "url": "https://www.amazon.jobs/en/jobs/10612415/software-development-engineer-intern-2027-beijing",
+  "kind": "Internship",
+  "first_seen": "2026-11-24"
+ },
+ {
+  "company": "Amazon",
+  "title": "Data Scientist I 6M Intern",
+  "location": "IN, TN, Chennai",
+  "url": "https://www.amazon.jobs/en/jobs/10443572/data-scientist-i-6m-intern",
+  "kind": "Internship",
+  "first_seen": "2026-11-24"
+ },
+ {
+  "company": "Amazon",
+  "title": "2027 Applied Science Intern (Computer Vision), Amazon International Machine Learning",
+  "location": "AU, VIC, Melbourne",
+  "url": "https://www.amazon.jobs/en/jobs/10459543/2027-applied-science-intern-computer-vision-amazon-international-machine-learning",
+  "kind": "Internship",
+  "first_seen": "2026-11-24"
+ },
+ {
   "company": "Oracle",
   "title": "Support Engineer 1",
   "location": "India",
@@ -28,14 +108,6 @@
   "title": "Software Development Engineer Intern - Artificial General Intelligence (Summer 2027)",
   "location": "US, CA, Sunnyvale",
   "url": "https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027",
-  "kind": "Internship",
-  "first_seen": "2026-11-23"
- },
- {
-  "company": "Amazon",
-  "title": "Control Engineer Intern, AWS Data Center Controls Deployment & Services team",
-  "location": "SG, Singapore",
-  "url": "https://www.amazon.jobs/en/jobs/10579407/control-engineer-intern-aws-data-center-controls-deployment-services-team",
   "kind": "Internship",
   "first_seen": "2026-11-23"
  },
@@ -330,16 +402,16 @@
  {
   "company": "Amazon",
   "title": "2027 Facilities Coordinator Intern, Reliability Maintenance Engineering",
-  "location": "SA, 02, Jeddah",
-  "url": "https://www.amazon.jobs/en/jobs/10600866/2027-facilities-coordinator-intern-reliability-maintenance-engineering",
+  "location": "SA, Riyadh",
+  "url": "https://www.amazon.jobs/en/jobs/10600865/2027-facilities-coordinator-intern-reliability-maintenance-engineering",
   "kind": "Internship",
   "first_seen": "2026-11-10"
  },
  {
   "company": "Amazon",
   "title": "2027 Facilities Coordinator Intern, Reliability Maintenance Engineering",
-  "location": "SA, Riyadh",
-  "url": "https://www.amazon.jobs/en/jobs/10600865/2027-facilities-coordinator-intern-reliability-maintenance-engineering",
+  "location": "SA, 02, Jeddah",
+  "url": "https://www.amazon.jobs/en/jobs/10600866/2027-facilities-coordinator-intern-reliability-maintenance-engineering",
   "kind": "Internship",
   "first_seen": "2026-11-10"
  },
@@ -538,7 +610,7 @@
  {
   "company": "Samsara",
   "title": "Sr. Software Engineer I",
-  "location": "Remote - Seattle",
+  "location": "Remote - US",
   "url": "https://www.samsara.com/company/careers/roles/7985175?gh_jid=7985175",
   "kind": "Entry Level",
   "first_seen": "2026-11-03"
@@ -634,16 +706,16 @@
  {
   "company": "Amazon",
   "title": "Business Developer Intern, Early Careers 2027",
-  "location": "DE, BY, Munich",
-  "url": "https://www.amazon.jobs/en/jobs/10593299/business-developer-intern-early-careers-2027",
+  "location": "GB, London",
+  "url": "https://www.amazon.jobs/en/jobs/10593322/business-developer-intern-early-careers-2027",
   "kind": "Internship",
   "first_seen": "2026-10-30"
  },
  {
   "company": "Amazon",
   "title": "Business Developer Intern, Early Careers 2027",
-  "location": "GB, London",
-  "url": "https://www.amazon.jobs/en/jobs/10593322/business-developer-intern-early-careers-2027",
+  "location": "DE, BY, Munich",
+  "url": "https://www.amazon.jobs/en/jobs/10593299/business-developer-intern-early-careers-2027",
   "kind": "Internship",
   "first_seen": "2026-10-30"
  },
@@ -860,14 +932,6 @@
   "title": "AI Demand Intelligence Intern, 2027 Summer U.S.",
   "location": "San Francisco - United States -   San Francisco, California 94104 United States; Remote - Remote",
   "url": "https://careers-americas.icims.com/jobs/26843/ai-demand-intelligence-intern%2c-2027-summer-u.s./job",
-  "kind": "Internship",
-  "first_seen": "2026-10-24"
- },
- {
-  "company": "Amazon",
-  "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
-  "location": "US, WA, Redmond",
-  "url": "https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa",
   "kind": "Internship",
   "first_seen": "2026-10-24"
  },
@@ -1305,14 +1369,6 @@
  },
  {
   "company": "Amazon",
-  "title": "Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)",
-  "location": "US, WA, Seattle",
-  "url": "https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa",
-  "kind": "Internship",
-  "first_seen": "2026-10-02"
- },
- {
-  "company": "Amazon",
   "title": "Business Intelligence Engineer Intern Germany",
   "location": "DE, Munich",
   "url": "https://www.amazon.jobs/en/jobs/10567688/business-intelligence-engineer-intern-germany",
@@ -1330,16 +1386,16 @@
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+  "location": "New York, Seattle, South San Francisco HQ",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
  {
   "company": "Stripe",
   "title": "Data Analyst, Intern",
-  "location": "New York, Seattle, South San Francisco HQ",
-  "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8194287",
   "kind": "Internship",
   "first_seen": "2026-10-01"
  },
@@ -1746,16 +1802,16 @@
  {
   "company": "Scale AI",
   "title": "Software Engineer - New Grad",
-  "location": "London, UK",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
+  "location": "Doha, Qatar ",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
   "kind": "New Grad",
   "first_seen": "2026-09-14"
  },
  {
   "company": "Scale AI",
   "title": "Software Engineer - New Grad",
-  "location": "Doha, Qatar ",
-  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
+  "location": "London, UK",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
   "kind": "New Grad",
   "first_seen": "2026-09-14"
  },
@@ -2050,16 +2106,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Dublin",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "location": "Dublin",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130881",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -2090,16 +2146,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "San Francisco, Seattle, New York",
-  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+  "location": "London",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "London",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+  "location": "San Francisco, Seattle, New York",
+  "url": "https://stripe.com/jobs/search?gh_jid=8128744",
   "kind": "New Grad",
   "first_seen": "2026-08-31"
  },
