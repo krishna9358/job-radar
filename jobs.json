@@ -17,26 +17,10 @@
  },
  {
   "company": "Oracle",
-  "title": "Site Reliability Engineer - OCI (Start Date: Feb 2027)",
-  "location": "Nashville, TN, United States",
-  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/350510",
-  "kind": "Entry Level",
-  "first_seen": "2026-11-25"
- },
- {
-  "company": "Oracle",
   "title": "GTM Specialist \u2013 Junior Developer Relations",
   "location": "CIUDAD DE MEXICO, Mexico",
   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/350324",
   "kind": "Entry Level",
-  "first_seen": "2026-11-25"
- },
- {
-  "company": "Netflix",
-  "title": "Software Engineer Intern - Summer 2027",
-  "location": "Los Gatos,California,United States of America",
-  "url": "https://explore.jobs.netflix.net/careers/job/790318904468",
-  "kind": "Internship",
   "first_seen": "2026-11-25"
  },
  {
@@ -64,10 +48,18 @@
   "first_seen": "2026-11-25"
  },
  {
+  "company": "Coinbase",
+  "title": "Security Engineer Intern",
+  "location": "Hybrid - New York, NY",
+  "url": "https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869",
+  "kind": "Internship",
+  "first_seen": "2026-11-25"
+ },
+ {
   "company": "Amazon",
-  "title": "Control Engineer Intern, AWS Data Center Controls Deployment & Services team",
-  "location": "SG, Singapore",
-  "url": "https://www.amazon.jobs/en/jobs/10579407/control-engineer-intern-aws-data-center-controls-deployment-services-team",
+  "title": "Operations Engineering Intern -  12 months, start date Q2 2027 ",
+  "location": "GB, London",
+  "url": "https://www.amazon.jobs/en/jobs/10541452/operations-engineering-intern-12-months-start-date-q2-2027",
   "kind": "Internship",
   "first_seen": "2026-11-25"
  },
@@ -230,14 +222,6 @@
   "url": "https://job-boards.greenhouse.io/affirm/jobs/8196691003",
   "kind": "Entry Level",
   "first_seen": "2026-11-20"
- },
- {
-  "company": "Stripe",
-  "title": "Software Engineer, New Grad",
-  "location": "Bangalore",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130876",
-  "kind": "New Grad",
-  "first_seen": "2026-11-19"
  },
  {
   "company": "Oracle",
@@ -2098,16 +2082,16 @@
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Bucharest",
-  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+  "location": "Toronto",
+  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
  {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
-  "location": "Toronto",
-  "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+  "location": "Bucharest",
+  "url": "https://stripe.com/jobs/search?gh_jid=8130922",
   "kind": "New Grad",
   "first_seen": "2026-09-01"
  },
@@ -2350,14 +2334,6 @@
   "url": "https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf",
   "kind": "Internship",
   "first_seen": "2026-07-31"
- },
- {
-  "company": "Stripe",
-  "title": "Software Engineer, Intern",
-  "location": "Bengaluru",
-  "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-  "kind": "Internship",
-  "first_seen": "2026-07-29"
  },
  {
   "company": "Palantir",
