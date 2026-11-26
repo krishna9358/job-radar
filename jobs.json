@@ -1,6 +1,22 @@
 [
  {
   "company": "Oracle",
+  "title": "Site Reliability Engineer - OCI (Start Date: Feb 2027)",
+  "location": "Nashville, TN, United States",
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/350510",
+  "kind": "Entry Level",
+  "first_seen": "2026-11-26"
+ },
+ {
+  "company": "Netflix",
+  "title": "Software Engineer Intern - Summer 2027",
+  "location": "Los Gatos,California,United States of America",
+  "url": "https://explore.jobs.netflix.net/careers/job/790318904468",
+  "kind": "Internship",
+  "first_seen": "2026-11-26"
+ },
+ {
+  "company": "Oracle",
   "title": "Systems Engineer 1",
   "location": "Kansas City, MO, United States",
   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/350415",
@@ -2034,16 +2050,16 @@
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Madrid, Spain",
-  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
+  "location": "Paris, France",
+  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
  {
   "company": "Datadog",
   "title": "Software Engineering Intern",
-  "location": "Paris, France",
-  "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+  "location": "Madrid, Spain",
+  "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
   "kind": "Internship",
   "first_seen": "2026-09-08"
  },
